@@ -1,0 +1,4136 @@
+mission = 
+{
+    ["coalition"] =
+    {
+        ["blue"] =
+        {
+            ["bullseye"] =
+            {
+                ["x"] = 115813.28714285,
+                ["y"] = 14221.157428568,
+            }, -- end of ["bullseye"]
+            ["country"] =
+            {
+                [1] =
+                {
+                    ["id"] = 21,
+                    ["name"] = "Australia",
+                }, -- end of [1]
+                [2] =
+                {
+                    ["id"] = 8,
+                    ["name"] = "Canada",
+                }, -- end of [2]
+                [3] =
+                {
+                    ["id"] = 26,
+                    ["name"] = "Czech Republic",
+                }, -- end of [3]
+                [4] =
+                {
+                    ["id"] = 13,
+                    ["name"] = "Denmark",
+                }, -- end of [4]
+                [5] =
+                {
+                    ["id"] = 5,
+                    ["name"] = "France",
+                }, -- end of [5]
+                [6] =
+                {
+                    ["id"] = 16,
+                    ["name"] = "Georgia",
+                }, -- end of [6]
+                [7] =
+                {
+                    ["id"] = 6,
+                    ["name"] = "Germany",
+                }, -- end of [7]
+                [8] =
+                {
+                    ["id"] = 17,
+                    ["name"] = "Insurgents",
+                }, -- end of [8]
+                [9] =
+                {
+                    ["id"] = 15,
+                    ["name"] = "Israel",
+                }, -- end of [9]
+                [10] =
+                {
+                    ["id"] = 20,
+                    ["name"] = "Italy",
+                }, -- end of [10]
+                [11] =
+                {
+                    ["id"] = 71,
+                    ["name"] = "Kuwait",
+                }, -- end of [11]
+                [12] =
+                {
+                    ["id"] = 12,
+                    ["name"] = "Norway",
+                }, -- end of [12]
+                [13] =
+                {
+                    ["id"] = 40,
+                    ["name"] = "Poland",
+                }, -- end of [13]
+                [14] =
+                {
+                    ["id"] = 0,
+                    ["name"] = "Russia",
+                }, -- end of [14]
+                [15] =
+                {
+                    ["id"] = 45,
+                    ["name"] = "South Korea",
+                }, -- end of [15]
+                [16] =
+                {
+                    ["id"] = 9,
+                    ["name"] = "Spain",
+                }, -- end of [16]
+                [17] =
+                {
+                    ["id"] = 46,
+                    ["name"] = "Sweden",
+                }, -- end of [17]
+                [18] =
+                {
+                    ["id"] = 10,
+                    ["name"] = "The Netherlands",
+                }, -- end of [18]
+                [19] =
+                {
+                    ["id"] = 3,
+                    ["name"] = "Turkey",
+                }, -- end of [19]
+                [20] =
+                {
+                    ["id"] = 4,
+                    ["name"] = "UK",
+                }, -- end of [20]
+                [21] =
+                {
+                    ["id"] = 1,
+                    ["name"] = "Ukraine",
+                }, -- end of [21]
+                [22] =
+                {
+                    ["id"] = 74,
+                    ["name"] = "United Arab Emirates",
+                }, -- end of [22]
+                [23] =
+                {
+                    ["id"] = 2,
+                    ["name"] = "USA",
+                }, -- end of [23]
+            }, -- end of ["country"]
+            ["name"] = "blue",
+            ["nav_points"] =
+            {
+                [1] =
+                {
+                    ["callsignStr"] = "ALDHAFRAAB",
+                    ["comment"] = "",
+                    ["id"] = 102,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -211584.05342857,
+                    ["y"] = -173607.37657142,
+                }, -- end of [1]
+                [2] =
+                {
+                    ["callsignStr"] = "ALMAKTOUMINTL",
+                    ["comment"] = "",
+                    ["id"] = 103,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -140180.70828571,
+                    ["y"] = -109982.18971429,
+                }, -- end of [2]
+                [3] =
+                {
+                    ["callsignStr"] = "ALMINHADAB",
+                    ["comment"] = "",
+                    ["id"] = 104,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -126013.61485714,
+                    ["y"] = -89042.676571429,
+                }, -- end of [3]
+                [4] =
+                {
+                    ["callsignStr"] = "DUBAIINTL",
+                    ["comment"] = "",
+                    ["id"] = 155,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -101279.49885714,
+                    ["y"] = -88151.662857145,
+                }, -- end of [4]
+                [5] =
+                {
+                    ["callsignStr"] = "SHARJAHINTL",
+                    ["comment"] = "",
+                    ["id"] = 156,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -92728.50942857,
+                    ["y"] = -73327.156000002,
+                }, -- end of [5]
+                [6] =
+                {
+                    ["callsignStr"] = "KHASAB",
+                    ["comment"] = "",
+                    ["id"] = 157,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -189.06428571336,
+                    ["y"] = -169.09800000177,
+                }, -- end of [6]
+                [7] =
+                {
+                    ["callsignStr"] = "FUJAIRAHINTL",
+                    ["comment"] = "",
+                    ["id"] = 158,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -117568.23085714,
+                    ["y"] = 8028.4994285696,
+                }, -- end of [7]
+                [8] =
+                {
+                    ["callsignStr"] = "SIRABUNAUYR",
+                    ["comment"] = "",
+                    ["id"] = 159,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -103104.57428571,
+                    ["y"] = -202961.83342857,
+                }, -- end of [8]
+                [9] =
+                {
+                    ["callsignStr"] = "BUSHEHRAIRPORT",
+                    ["comment"] = "",
+                    ["id"] = 160,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 322136.31371429,
+                    ["y"] = -525785.67571429,
+                }, -- end of [9]
+                [10] =
+                {
+                    ["callsignStr"] = "SHIRAZINTL",
+                    ["comment"] = "",
+                    ["id"] = 211,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 381031.96571428,
+                    ["y"] = -352010.35142857,
+                }, -- end of [10]
+                [11] =
+                {
+                    ["callsignStr"] = "CHAHBAHARAIRPORT",
+                    ["comment"] = "",
+                    ["id"] = 212,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -76573.285428572,
+                    ["y"] = 416379.76857143,
+                }, -- end of [11]
+                [12] =
+                {
+                    ["callsignStr"] = "ZAHEDANINTL",
+                    ["comment"] = "",
+                    ["id"] = 213,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 371477.32771429,
+                    ["y"] = 455639.08914286,
+                }, -- end of [12]
+                [13] =
+                {
+                    ["callsignStr"] = "KERMANAIRPORT",
+                    ["comment"] = "",
+                    ["id"] = 214,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 453939.21371429,
+                    ["y"] = 71156.716571431,
+                }, -- end of [13]
+                [14] =
+                {
+                    ["callsignStr"] = "LARAIRBASE",
+                    ["comment"] = "",
+                    ["id"] = 265,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 168979.83571429,
+                    ["y"] = -182279.36257143,
+                }, -- end of [14]
+                [15] =
+                {
+                    ["callsignStr"] = "BANDARABBASINTL",
+                    ["comment"] = "",
+                    ["id"] = 316,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 115797.54457143,
+                    ["y"] = 14274.611714283,
+                }, -- end of [15]
+                [16] =
+                {
+                    ["callsignStr"] = "HAVADARYA",
+                    ["comment"] = "",
+                    ["id"] = 317,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 109314.52771429,
+                    ["y"] = -6220.5882857167,
+                }, -- end of [16]
+                [17] =
+                {
+                    ["callsignStr"] = "QESHMISLAND",
+                    ["comment"] = "",
+                    ["id"] = 318,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 64813.861142864,
+                    ["y"] = -33369.392571431,
+                }, -- end of [17]
+                [18] =
+                {
+                    ["callsignStr"] = "BANDARLENHEG",
+                    ["comment"] = "",
+                    ["id"] = 319,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 41554.872000008,
+                    ["y"] = -140890.11028572,
+                }, -- end of [18]
+                [19] =
+                {
+                    ["callsignStr"] = "TUNBISLANDAFB",
+                    ["comment"] = "",
+                    ["id"] = 320,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 10586.878285714,
+                    ["y"] = -92408.598857143,
+                }, -- end of [19]
+                [20] =
+                {
+                    ["callsignStr"] = "TUNBKOCHAK",
+                    ["comment"] = "",
+                    ["id"] = 321,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 9027.877142857,
+                    ["y"] = -109444.99885714,
+                }, -- end of [20]
+                [21] =
+                {
+                    ["callsignStr"] = "ABUMUSAISLANDAIRPORT",
+                    ["comment"] = "",
+                    ["id"] = 322,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -31489.755714286,
+                    ["y"] = -121202.27542857,
+                }, -- end of [21]
+                [22] =
+                {
+                    ["callsignStr"] = "SIRRIISLAND",
+                    ["comment"] = "",
+                    ["id"] = 323,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -26967.892,
+                    ["y"] = -170715.79971429,
+                }, -- end of [22]
+                [23] =
+                {
+                    ["callsignStr"] = "H23",
+                    ["comment"] = "",
+                    ["id"] = 374,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 453939.232,
+                    ["y"] = 71156.677428572,
+                }, -- end of [23]
+                [24] =
+                {
+                    ["callsignStr"] = "H24",
+                    ["comment"] = "",
+                    ["id"] = 375,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 381032.18257143,
+                    ["y"] = -352006.242,
+                }, -- end of [24]
+                [25] =
+                {
+                    ["callsignStr"] = "H25",
+                    ["comment"] = "",
+                    ["id"] = 376,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 322144.124,
+                    ["y"] = -525806.97685714,
+                }, -- end of [25]
+                [26] =
+                {
+                    ["callsignStr"] = "H26",
+                    ["comment"] = "",
+                    ["id"] = 377,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 371477.46714286,
+                    ["y"] = 455639.09742857,
+                }, -- end of [26]
+                [27] =
+                {
+                    ["callsignStr"] = "H27",
+                    ["comment"] = "",
+                    ["id"] = 378,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 168981.964,
+                    ["y"] = -182274.65257143,
+                }, -- end of [27]
+                [28] =
+                {
+                    ["callsignStr"] = "H28",
+                    ["comment"] = "",
+                    ["id"] = 379,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 115798.30028571,
+                    ["y"] = 14255.628285715,
+                }, -- end of [28]
+                [29] =
+                {
+                    ["callsignStr"] = "H29",
+                    ["comment"] = "",
+                    ["id"] = 380,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 109314.51514286,
+                    ["y"] = -6224.0737142853,
+                }, -- end of [29]
+                [30] =
+                {
+                    ["callsignStr"] = "H30",
+                    ["comment"] = "",
+                    ["id"] = 381,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 64814.838857143,
+                    ["y"] = -33372.234285714,
+                }, -- end of [30]
+                [31] =
+                {
+                    ["callsignStr"] = "H31",
+                    ["comment"] = "",
+                    ["id"] = 382,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 41556.268571429,
+                    ["y"] = -140892.17371429,
+                }, -- end of [31]
+                [32] =
+                {
+                    ["callsignStr"] = "H32",
+                    ["comment"] = "",
+                    ["id"] = 383,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 10618.626571429,
+                    ["y"] = -92410.6,
+                }, -- end of [32]
+                [33] =
+                {
+                    ["callsignStr"] = "H33",
+                    ["comment"] = "",
+                    ["id"] = 384,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 9038.0625714292,
+                    ["y"] = -109449.12857143,
+                }, -- end of [33]
+                [34] =
+                {
+                    ["callsignStr"] = "H34",
+                    ["comment"] = "",
+                    ["id"] = 385,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -26954.645142856,
+                    ["y"] = -170731.87571429,
+                }, -- end of [34]
+                [35] =
+                {
+                    ["callsignStr"] = "H35",
+                    ["comment"] = "",
+                    ["id"] = 386,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -31479.052285714,
+                    ["y"] = -121194.118,
+                }, -- end of [35]
+                [36] =
+                {
+                    ["callsignStr"] = "H36",
+                    ["comment"] = "",
+                    ["id"] = 387,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -76557.585714286,
+                    ["y"] = 416368.58285714,
+                }, -- end of [36]
+                [37] =
+                {
+                    ["callsignStr"] = "NOLSO",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 489,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -229750.62028571,
+                    ["y"] = -187213.15514286,
+                }, -- end of [37]
+                [38] =
+                {
+                    ["callsignStr"] = "OMAMTCN96",
+                    ["comment"] = "",
+                    ["id"] = 490,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -211186.33628572,
+                    ["y"] = -173477.67571429,
+                }, -- end of [38]
+                [39] =
+                {
+                    ["callsignStr"] = "OMAM13L",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 491,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -209920.212,
+                    ["y"] = -174679.54257143,
+                }, -- end of [39]
+                [40] =
+                {
+                    ["callsignStr"] = "OMAM13R",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 492,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -211833.09771429,
+                    ["y"] = -174373.61828572,
+                }, -- end of [40]
+                [41] =
+                {
+                    ["callsignStr"] = "OMAM31R",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 493,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -212154.66828572,
+                    ["y"] = -171812.54714286,
+                }, -- end of [41]
+                [42] =
+                {
+                    ["callsignStr"] = "OMAM31L",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 544,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -214070.29257143,
+                    ["y"] = -171506.68914287,
+                }, -- end of [42]
+                [43] =
+                {
+                    ["callsignStr"] = "OMAM",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 545,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -211021.45171429,
+                    ["y"] = -173238.69800001,
+                }, -- end of [43]
+                [44] =
+                {
+                    ["callsignStr"] = "OMDM",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 546,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -126005.256,
+                    ["y"] = -89057.86514287,
+                }, -- end of [44]
+                [45] =
+                {
+                    ["callsignStr"] = "OMDM09",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 547,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -126045.114,
+                    ["y"] = -91059.173428582,
+                }, -- end of [45]
+                [46] =
+                {
+                    ["callsignStr"] = "OMDM27",
+                    ["comment"] = "312 FLIP",
+                    ["id"] = 548,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -126030.61428571,
+                    ["y"] = -87134.827142867,
+                }, -- end of [46]
+                [47] =
+                {
+                    ["callsignStr"] = "MICKEYMOUSE",
+                    ["comment"] = "N25 46 479\
+E055 57 057",
+                    ["id"] = 549,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -43786.132857144,
+                    ["y"] = -29432.605714295,
+                }, -- end of [47]
+                [48] =
+                {
+                    ["callsignStr"] = "MINNIEMOUSE",
+                    ["comment"] = "N25 53 940\
+E056 02 502",
+                    ["id"] = 550,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -30082.708857144,
+                    ["y"] = -20232.313142866,
+                }, -- end of [48]
+                [49] =
+                {
+                    ["callsignStr"] = "GOOFY",
+                    ["comment"] = "N25 41 332\
+E055 44 305",
+                    ["id"] = 551,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -53098.648000001,
+                    ["y"] = -50837.065714295,
+                }, -- end of [49]
+                [50] =
+                {
+                    ["callsignStr"] = "DONALDDUCK",
+                    ["comment"] = "N25 36 322\
+E055 34 804",
+                    ["id"] = 553,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -62186.260571428,
+                    ["y"] = -66827.708857153,
+                }, -- end of [50]
+                [51] =
+                {
+                    ["callsignStr"] = "PLUTO",
+                    ["comment"] = "N25 30 757\
+E055 59 422",
+                    ["id"] = 604,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -72836.039428572,
+                    ["y"] = -25700.892285724,
+                }, -- end of [51]
+                [52] =
+                {
+                    ["callsignStr"] = "DAISYDUCK",
+                    ["comment"] = "N25 36 179\
+E056 21 080",
+                    ["id"] = 605,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -63053.770857143,
+                    ["y"] = 10621.81599999,
+                }, -- end of [52]
+                [53] =
+                {
+                    ["callsignStr"] = "SCROOGEMCDUCK",
+                    ["comment"] = "N25 21 317\
+E056 21 989",
+                    ["id"] = 656,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -90492.386571429,
+                    ["y"] = 12012.458571419,
+                }, -- end of [53]
+                [54] =
+                {
+                    ["callsignStr"] = "BAMBI",
+                    ["comment"] = "N25 17 919\
+E056 00 868",
+                    ["id"] = 657,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -96550.381142857,
+                    ["y"] = -23454.267428582,
+                }, -- end of [54]
+                [55] =
+                {
+                    ["callsignStr"] = "THUMPER",
+                    ["comment"] = "N25 08 664\
+E055 53 350",
+                    ["id"] = 708,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -113533.50685714,
+                    ["y"] = -36209.913428583,
+                }, -- end of [55]
+                [56] =
+                {
+                    ["callsignStr"] = "FLOWER",
+                    ["comment"] = "N25 27 303\
+E056 13 538",
+                    ["id"] = 709,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -79369.791714286,
+                    ["y"] = -2096.0637142976,
+                }, -- end of [56]
+                [57] =
+                {
+                    ["callsignStr"] = "TINKERBELL",
+                    ["comment"] = "N25 06 240\
+E056 10 217",
+                    ["id"] = 710,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -118212.29228571,
+                    ["y"] = -7901.4754285831,
+                }, -- end of [57]
+                [58] =
+                {
+                    ["callsignStr"] = "PETERPAN",
+                    ["comment"] = "N25 26 152\
+E055 39 212",
+                    ["id"] = 761,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -81037.221428574,
+                    ["y"] = -59639.446857154,
+                }, -- end of [58]
+                [59] =
+                {
+                    ["callsignStr"] = "CAPTAINHOOK",
+                    ["comment"] = "N24 54 777\
+E055 46 564",
+                    ["id"] = 762,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -139067.07057143,
+                    ["y"] = -47842.42457144,
+                }, -- end of [59]
+                [60] =
+                {
+                    ["callsignStr"] = "ALICE",
+                    ["comment"] = "N25 02 173\
+E055 35 500",
+                    ["id"] = 763,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -125234.60314286,
+                    ["y"] = -66325.530285724,
+                }, -- end of [60]
+                [61] =
+                {
+                    ["callsignStr"] = "SNOWWHITE",
+                    ["comment"] = "N24 42 801\
+E055 37 381",
+                    ["id"] = 764,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -161023.94142857,
+                    ["y"] = -63522.764285724,
+                }, -- end of [61]
+                [62] =
+                {
+                    ["callsignStr"] = "CINDERELLA",
+                    ["comment"] = "N24 36 137\
+E055 07 525",
+                    ["id"] = 765,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -172728.97114286,
+                    ["y"] = -114033.74942858,
+                }, -- end of [62]
+                [63] =
+                {
+                    ["callsignStr"] = "POCAHONTAS",
+                    ["comment"] = "N24 28 019\
+E055 19 588",
+                    ["id"] = 766,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -187977.13971429,
+                    ["y"] = -93856.592285724,
+                }, -- end of [63]
+                [64] =
+                {
+                    ["callsignStr"] = "MERRYWEATHER",
+                    ["comment"] = "N24 12 650\
+E055 27 881",
+                    ["id"] = 767,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -216506.34228572,
+                    ["y"] = -80158.550857157,
+                }, -- end of [64]
+                [65] =
+                {
+                    ["callsignStr"] = "MOWGLI",
+                    ["comment"] = "N24 37 255\
+E054 43 021",
+                    ["id"] = 768,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -170039.16114286,
+                    ["y"] = -155360.66657144,
+                }, -- end of [65]
+                [66] =
+                {
+                    ["callsignStr"] = "ROBINHOOD",
+                    ["comment"] = "N24 22 171\
+E054 12 366",
+                    ["id"] = 819,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -196940.24742858,
+                    ["y"] = -207671.80714287,
+                }, -- end of [66]
+                [67] =
+                {
+                    ["callsignStr"] = "WINNIETHEPOOH",
+                    ["comment"] = "N24 53 686\
+E054 50 887",
+                    ["id"] = 820,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -139918.04828572,
+                    ["y"] = -141606.82828573,
+                }, -- end of [67]
+                [68] =
+                {
+                    ["callsignStr"] = "ALABAMA",
+                    ["comment"] = "N26 39 000\
+E054 01 000",
+                    ["id"] = 871,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 56207.705428564,
+                    ["y"] = -221227.30142858,
+                }, -- end of [68]
+                [69] =
+                {
+                    ["callsignStr"] = "ALASKA",
+                    ["comment"] = "N26 31 000\
+E054 26 000",
+                    ["id"] = 872,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 40529.507428564,
+                    ["y"] = -180027.61285716,
+                }, -- end of [69]
+                [70] =
+                {
+                    ["callsignStr"] = "ARIZONA",
+                    ["comment"] = "N26 27 000\
+E054 48 000",
+                    ["id"] = 873,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 32464.293714278,
+                    ["y"] = -143601.50428573,
+                }, -- end of [70]
+                [71] =
+                {
+                    ["callsignStr"] = "ARKANSAS",
+                    ["comment"] = "N26 29 000\
+E055 19 000",
+                    ["id"] = 874,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 35378.199999993,
+                    ["y"] = -92027.25714287,
+                }, -- end of [71]
+                [72] =
+                {
+                    ["callsignStr"] = "CALIFORNIA",
+                    ["comment"] = "N26 35 000\
+E055 42 000",
+                    ["id"] = 875,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 46011.488857136,
+                    ["y"] = -53702.362571441,
+                }, -- end of [72]
+                [73] =
+                {
+                    ["callsignStr"] = "COLORADO",
+                    ["comment"] = "N26 43 000\
+E056 04 000",
+                    ["id"] = 926,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 60461.368571421,
+                    ["y"] = -17078.288857155,
+                }, -- end of [73]
+                [74] =
+                {
+                    ["callsignStr"] = "CONNECTICUT",
+                    ["comment"] = "N26 03 000\
+E054 01 000",
+                    ["id"] = 927,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -10295.655142866,
+                    ["y"] = -222765.74285716,
+                }, -- end of [74]
+                [75] =
+                {
+                    ["callsignStr"] = "DELAWARE",
+                    ["comment"] = "N26 05 000\
+E054 44 000",
+                    ["id"] = 928,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -8047.5202857222,
+                    ["y"] = -150963.29142858,
+                }, -- end of [75]
+                [76] =
+                {
+                    ["callsignStr"] = "FLORIDA",
+                    ["comment"] = "N26 07 000\
+E055 08 000",
+                    ["id"] = 929,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -4990.0642857223,
+                    ["y"] = -110890.84085716,
+                }, -- end of [76]
+                [77] =
+                {
+                    ["callsignStr"] = "GEORGIA",
+                    ["comment"] = "N26 13 000\
+E055 29 000",
+                    ["id"] = 930,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 5631.8757142777,
+                    ["y"] = -75759.564857155,
+                }, -- end of [77]
+                [78] =
+                {
+                    ["callsignStr"] = "HAWAII",
+                    ["comment"] = "N26 21 000\
+E055 47 000",
+                    ["id"] = 931,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 20084.567428563,
+                    ["y"] = -45647.638857155,
+                }, -- end of [78]
+                [79] =
+                {
+                    ["callsignStr"] = "IDAHO",
+                    ["comment"] = "N26 31 000\
+E056 01 000",
+                    ["id"] = 932,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 38346.170857135,
+                    ["y"] = -22221.659428584,
+                }, -- end of [79]
+                [80] =
+                {
+                    ["callsignStr"] = "ILLINOIS",
+                    ["comment"] = "N25 41 000\
+E054 01 000",
+                    ["id"] = 933,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -50936.26342858,
+                    ["y"] = -223689.68657144,
+                }, -- end of [80]
+                [81] =
+                {
+                    ["callsignStr"] = "INDIANA",
+                    ["comment"] = "N25 41 000\
+E054 49 000",
+                    ["id"] = 934,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -52506.758571437,
+                    ["y"] = -143362.44942858,
+                }, -- end of [81]
+                [82] =
+                {
+                    ["callsignStr"] = "IOWA",
+                    ["comment"] = "N25 49 000\
+E055 21 000",
+                    ["id"] = 985,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -38514.217428579,
+                    ["y"] = -89641.831142872,
+                }, -- end of [82]
+                [83] =
+                {
+                    ["callsignStr"] = "KANSAS",
+                    ["comment"] = "N25 60 000\
+E055 39 000",
+                    ["id"] = 986,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -18551.045142865,
+                    ["y"] = -59356.396285729,
+                }, -- end of [83]
+                [84] =
+                {
+                    ["callsignStr"] = "KENTUCKY",
+                    ["comment"] = "N26 09 000\
+E055 55 000",
+                    ["id"] = 987,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -2185.8300000081,
+                    ["y"] = -32527.339142872,
+                }, -- end of [84]
+                [85] =
+                {
+                    ["callsignStr"] = "LOUISIANA",
+                    ["comment"] = "N25 15 000\
+E054 01 000",
+                    ["id"] = 988,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -98962.672571437,
+                    ["y"] = -224765.9597143,
+                }, -- end of [85]
+                [86] =
+                {
+                    ["callsignStr"] = "MAINE",
+                    ["comment"] = "N25 30 000\
+E054 30 000",
+                    ["id"] = 989,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -72257.500000009,
+                    ["y"] = -175538.40714287,
+                }, -- end of [86]
+                [87] =
+                {
+                    ["callsignStr"] = "MARYLAND",
+                    ["comment"] = "N25 20 000\
+E054 50 000",
+                    ["id"] = 990,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -91310.014000009,
+                    ["y"] = -142320.99685716,
+                }, -- end of [87]
+                [88] =
+                {
+                    ["callsignStr"] = "MASSACHUSETTS",
+                    ["comment"] = "N25 00 000\
+E054 30 000",
+                    ["id"] = 991,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -127657.36628572,
+                    ["y"] = -176569.6437143,
+                }, -- end of [88]
+                [89] =
+                {
+                    ["callsignStr"] = "MICHIGAN",
+                    ["comment"] = "N24 47 000\
+E054 06 000",
+                    ["id"] = 1042,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -150863.35457144,
+                    ["y"] = -217474.75285716,
+                }, -- end of [89]
+                [90] =
+                {
+                    ["callsignStr"] = "MINNESOTA",
+                    ["comment"] = "N26 36 000\
+E053 19 000",
+                    ["id"] = 1043,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 52485.052285706,
+                    ["y"] = -291122.89628573,
+                }, -- end of [90]
+                [91] =
+                {
+                    ["callsignStr"] = "MISSISSIPPI",
+                    ["comment"] = "N25 60 000\
+E053 20 000",
+                    ["id"] = 1044,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -14094.906571437,
+                    ["y"] = -291350.5717143,
+                }, -- end of [91]
+                [92] =
+                {
+                    ["callsignStr"] = "MISSOURI",
+                    ["comment"] = "N25 20 000\
+E053 20 000",
+                    ["id"] = 1045,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -88015.880571438,
+                    ["y"] = -293402.34142859,
+                }, -- end of [92]
+                [93] =
+                {
+                    ["callsignStr"] = "MONTANA",
+                    ["comment"] = "N24 37 000\
+E053 23 000",
+                    ["id"] = 1046,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -167610.77342858,
+                    ["y"] = -290484.54828573,
+                }, -- end of [93]
+                [94] =
+                {
+                    ["callsignStr"] = "CHEYENNE",
+                    ["comment"] = "N27 06 000\
+E056 34 000",
+                    ["id"] = 1097,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 102652.39514285,
+                    ["y"] = 32800.914857127,
+                }, -- end of [94]
+                [95] =
+                {
+                    ["callsignStr"] = "MADISON",
+                    ["comment"] = "N26 51 000\
+E056 39 000",
+                    ["id"] = 1148,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 74936.776285708,
+                    ["y"] = 40984.93914284,
+                }, -- end of [95]
+                [96] =
+                {
+                    ["callsignStr"] = "CHARLESTON",
+                    ["comment"] = "N26 37 000\
+E056 44 000",
+                    ["id"] = 1149,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 49073.908285708,
+                    ["y"] = 49209.529428554,
+                }, -- end of [96]
+                [97] =
+                {
+                    ["callsignStr"] = "OLYMPIA",
+                    ["comment"] = "N26 06 000\
+E056 50 000",
+                    ["id"] = 1150,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -8163.6660000058,
+                    ["y"] = 59090.62314284,
+                }, -- end of [97]
+                [98] =
+                {
+                    ["callsignStr"] = "RICHMOND",
+                    ["comment"] = "N25 42 000\
+E056 40 000",
+                    ["id"] = 1201,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -52428.883428578,
+                    ["y"] = 42312.597142839,
+                }, -- end of [98]
+                [99] =
+                {
+                    ["callsignStr"] = "MONTDELIER",
+                    ["comment"] = "N25 43 000\
+E056 59 000",
+                    ["id"] = 1202,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -50625.642000006,
+                    ["y"] = 74084.341714268,
+                }, -- end of [99]
+                [100] =
+                {
+                    ["callsignStr"] = "SALTLAKECITY",
+                    ["comment"] = "N25 31 000\
+E056 53 000",
+                    ["id"] = 1203,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -72768.193428577,
+                    ["y"] = 64033.136857125,
+                }, -- end of [100]
+                [101] =
+                {
+                    ["callsignStr"] = "AUSTIN",
+                    ["comment"] = "N25 19 000\
+E056 42 000",
+                    ["id"] = 1204,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -94886.410857148,
+                    ["y"] = 45561.353428554,
+                }, -- end of [101]
+                [102] =
+                {
+                    ["callsignStr"] = "NASHVILLE",
+                    ["comment"] = "N25 20 000\
+E057 09 000\
+",
+                    ["id"] = 1205,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -93066.271428577,
+                    ["y"] = 90851.657999983,
+                }, -- end of [102]
+                [103] =
+                {
+                    ["callsignStr"] = "PIERRE",
+                    ["comment"] = "N25 24 00\
+E057 38 000",
+                    ["id"] = 1256,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -85541.423142863,
+                    ["y"] = 139458.17885713,
+                }, -- end of [103]
+                [104] =
+                {
+                    ["callsignStr"] = "COLUMBIA",
+                    ["comment"] = "N25 00 000\
+E057 00 000",
+                    ["id"] = 1257,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -129985.06942858,
+                    ["y"] = 75756.289999983,
+                }, -- end of [104]
+                [105] =
+                {
+                    ["callsignStr"] = "PROVIDENCE",
+                    ["comment"] = "N25 00 000\
+E057 30 000",
+                    ["id"] = 1258,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -129892.00171429,
+                    ["y"] = 126211.5562857,
+                }, -- end of [105]
+                [106] =
+                {
+                    ["callsignStr"] = "HARRISBURG",
+                    ["comment"] = "N25 00 000\
+E058 00 000",
+                    ["id"] = 1259,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -129613.01428572,
+                    ["y"] = 176669.34085715,
+                }, -- end of [106]
+                [107] =
+                {
+                    ["callsignStr"] = "SALEM",
+                    ["comment"] = "N25 18 000\
+E058 18 000",
+                    ["id"] = 1260,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -96131.296571431,
+                    ["y"] = 206625.78285715,
+                }, -- end of [107]
+                [108] =
+                {
+                    ["callsignStr"] = "OKLAHOMACITY",
+                    ["comment"] = "N24 30 000\
+E057 36 000 ",
+                    ["id"] = 1311,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -185215.55485714,
+                    ["y"] = 136545.56114286,
+                }, -- end of [108]
+                [109] =
+                {
+                    ["callsignStr"] = "COLUMBUS",
+                    ["comment"] = "N24 56 000\
+E058 47 000",
+                    ["id"] = 1312,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -136185.34257143,
+                    ["y"] = 255827.78714286,
+                }, -- end of [109]
+                [110] =
+                {
+                    ["callsignStr"] = "BISMARCK",
+                    ["comment"] = "N24 30 000\
+E058 22 000",
+                    ["id"] = 1363,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -184662.61028572,
+                    ["y"] = 214227.80228571,
+                }, -- end of [110]
+                [111] =
+                {
+                    ["callsignStr"] = "RALEIGH",
+                    ["comment"] = "N24 33 000\
+E057 06 000",
+                    ["id"] = 1364,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -179807.83428572,
+                    ["y"] = 85883.648000005,
+                }, -- end of [111]
+                [112] =
+                {
+                    ["callsignStr"] = "ALBANY",
+                    ["comment"] = "N25 06 000\
+E059 29 000",
+                    ["id"] = 1365,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -116608.01085715,
+                    ["y"] = 326196.742,
+                }, -- end of [112]
+                [113] =
+                {
+                    ["callsignStr"] = "SANTAFE",
+                    ["comment"] = "N24 29 000\
+E059 30 000",
+                    ["id"] = 1366,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -184900.61742858,
+                    ["y"] = 329128.46542857,
+                }, -- end of [113]
+                [114] =
+                {
+                    ["callsignStr"] = "M1",
+                    ["comment"] = "N27 20 000\
+E054 20 000",
+                    ["id"] = 1367,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 131243.64542857,
+                    ["y"] = -188088.50342857,
+                }, -- end of [114]
+                [115] =
+                {
+                    ["callsignStr"] = "M2",
+                    ["comment"] = "N27 20 000\
+E054 40 000",
+                    ["id"] = 1368,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 130582.21428571,
+                    ["y"] = -155096.50085714,
+                }, -- end of [115]
+                [116] =
+                {
+                    ["callsignStr"] = "M3",
+                    ["comment"] = "N27 20 000\
+E055 00 000",
+                    ["id"] = 1369,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 130009.14542857,
+                    ["y"] = -122109.08028571,
+                }, -- end of [116]
+                [117] =
+                {
+                    ["callsignStr"] = "M4",
+                    ["comment"] = "N27 00 000\
+E054 20 000",
+                    ["id"] = 1370,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 94299.527428572,
+                    ["y"] = -188874.13828571,
+                }, -- end of [117]
+                [118] =
+                {
+                    ["callsignStr"] = "M5",
+                    ["comment"] = "N27 00 000\
+E054 40 000",
+                    ["id"] = 1371,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 93643.628571429,
+                    ["y"] = -155783.69342857,
+                }, -- end of [118]
+                [119] =
+                {
+                    ["callsignStr"] = "M6",
+                    ["comment"] = "N27 00 000\
+E055 00 000",
+                    ["id"] = 1372,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 93075.289714286,
+                    ["y"] = -122697.92828571,
+                }, -- end of [119]
+                [120] =
+                {
+                    ["callsignStr"] = "M7",
+                    ["comment"] = "N26 40 000\
+E054 20 000",
+                    ["id"] = 1374,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 57356.816857143,
+                    ["y"] = -189650.80828571,
+                }, -- end of [120]
+                [121] =
+                {
+                    ["callsignStr"] = "M8",
+                    ["comment"] = "N26 40 000\
+E054 40 000",
+                    ["id"] = 1375,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 56706.474571429,
+                    ["y"] = -156463.098,
+                }, -- end of [121]
+                [122] =
+                {
+                    ["callsignStr"] = "M9",
+                    ["comment"] = "N26 40 000\
+E054 40 000",
+                    ["id"] = 1376,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 56143.016857143,
+                    ["y"] = -123280.16428571,
+                }, -- end of [122]
+                [123] =
+                {
+                    ["callsignStr"] = "N1",
+                    ["comment"] = "N27 20 000\
+E055 20 000",
+                    ["id"] = 1427,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 129524.344,
+                    ["y"] = -89125.563142856,
+                }, -- end of [123]
+                [124] =
+                {
+                    ["callsignStr"] = "N2",
+                    ["comment"] = "N27 20 000\
+E055 40 000",
+                    ["id"] = 1428,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 129127.77885714,
+                    ["y"] = -56145.247714284,
+                }, -- end of [124]
+                [125] =
+                {
+                    ["callsignStr"] = "N3",
+                    ["comment"] = "N27 20 000\
+E056 00 000",
+                    ["id"] = 1429,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 128819.48257143,
+                    ["y"] = -23167.59742857,
+                }, -- end of [125]
+                [126] =
+                {
+                    ["callsignStr"] = "N4",
+                    ["comment"] = "N27 00 000\
+E055 20 000",
+                    ["id"] = 1430,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 92594.565714286,
+                    ["y"] = -89616.184285713,
+                }, -- end of [126]
+                [127] =
+                {
+                    ["callsignStr"] = "N5",
+                    ["comment"] = "N27 00 000\
+E055 40 000",
+                    ["id"] = 1431,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 92201.337428571,
+                    ["y"] = -56537.682857142,
+                }, -- end of [127]
+                [128] =
+                {
+                    ["callsignStr"] = "N6",
+                    ["comment"] = "N27 00 000\
+E056 00 000",
+                    ["id"] = 1432,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 91895.552,
+                    ["y"] = -23461.87942857,
+                }, -- end of [128]
+                [129] =
+                {
+                    ["callsignStr"] = "N7",
+                    ["comment"] = "N26 40 000\
+E055 20 000",
+                    ["id"] = 1433,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 55666.398571429,
+                    ["y"] = -90101.185999999,
+                }, -- end of [129]
+                [130] =
+                {
+                    ["callsignStr"] = "N8",
+                    ["comment"] = "N26 40 000\
+E055 40 000",
+                    ["id"] = 1434,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 55276.496,
+                    ["y"] = -56925.651714284,
+                }, -- end of [130]
+                [131] =
+                {
+                    ["callsignStr"] = "N9",
+                    ["comment"] = "N26 40 000\
+E056 00 000",
+                    ["id"] = 1435,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 54973.294,
+                    ["y"] = -23752.782571427,
+                }, -- end of [131]
+                [132] =
+                {
+                    ["callsignStr"] = "O1",
+                    ["comment"] = "N27 20 000\
+E056 20 000",
+                    ["id"] = 1436,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 128599.21914286,
+                    ["y"] = 9808.1028571424,
+                }, -- end of [132]
+                [133] =
+                {
+                    ["callsignStr"] = "O2",
+                    ["comment"] = "N27 20 000\
+E056 40 000",
+                    ["id"] = 1437,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 128467.074,
+                    ["y"] = 42782.520285714,
+                }, -- end of [133]
+                [134] =
+                {
+                    ["callsignStr"] = "O3",
+                    ["comment"] = "N27 20 000\
+E057 00 000",
+                    ["id"] = 1438,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 128423.04428572,
+                    ["y"] = 75756.280571428,
+                }, -- end of [134]
+                [135] =
+                {
+                    ["callsignStr"] = "O4",
+                    ["comment"] = "N27 00 000\
+E056 20 000",
+                    ["id"] = 1439,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 91677.146000001,
+                    ["y"] = 9611.9785714281,
+                }, -- end of [135]
+                [136] =
+                {
+                    ["callsignStr"] = "O5",
+                    ["comment"] = "N27 00 000\
+E056 40 000",
+                    ["id"] = 1440,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 91546.079714287,
+                    ["y"] = 42684.428571428,
+                }, -- end of [136]
+                [137] =
+                {
+                    ["callsignStr"] = "O6",
+                    ["comment"] = "N27 00 000\
+E057 00 000",
+                    ["id"] = 1441,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 91502.387714287,
+                    ["y"] = 75756.312285714,
+                }, -- end of [137]
+                [138] =
+                {
+                    ["callsignStr"] = "O9",
+                    ["comment"] = "N26 40 000\
+E057 00 000",
+                    ["id"] = 1442,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 54583.558571429,
+                    ["y"] = 75756.305714285,
+                }, -- end of [138]
+                [139] =
+                {
+                    ["callsignStr"] = "P1",
+                    ["comment"] = "N28 20 000\
+E054 00 000",
+                    ["id"] = 1493,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 242852.17885714,
+                    ["y"] = -218373.03371428,
+                }, -- end of [139]
+                [140] =
+                {
+                    ["callsignStr"] = "P2",
+                    ["comment"] = "N28 20 000\
+E054 20 000",
+                    ["id"] = 1494,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 242084.28142857,
+                    ["y"] = -185678.072,
+                }, -- end of [140]
+                [141] =
+                {
+                    ["callsignStr"] = "P3",
+                    ["comment"] = "N28 20 000\
+E054 40 000",
+                    ["id"] = 1495,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 241406.844,
+                    ["y"] = -152988.11142857,
+                }, -- end of [141]
+                [142] =
+                {
+                    ["callsignStr"] = "P4",
+                    ["comment"] = "N28 00 000\
+E054 00 000",
+                    ["id"] = 1496,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 205898.00685714,
+                    ["y"] = -219287.20971428,
+                }, -- end of [142]
+                [143] =
+                {
+                    ["callsignStr"] = "P5",
+                    ["comment"] = "N28 00 000\
+E054 20 000",
+                    ["id"] = 1497,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 205135.96914286,
+                    ["y"] = -186490.46371428,
+                }, -- end of [143]
+                [144] =
+                {
+                    ["callsignStr"] = "P6",
+                    ["comment"] = "N28 00 000\
+E054 40 000",
+                    ["id"] = 1498,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 204463.82285714,
+                    ["y"] = -153698.67542857,
+                }, -- end of [144]
+                [145] =
+                {
+                    ["callsignStr"] = "P7",
+                    ["comment"] = "N27 40 000\
+E054 00 000",
+                    ["id"] = 1499,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 168945.07542857,
+                    ["y"] = -220191.44714285,
+                }, -- end of [145]
+                [146] =
+                {
+                    ["callsignStr"] = "P8",
+                    ["comment"] = "N27 40 000\
+E054 20 000",
+                    ["id"] = 1500,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 168189.06828572,
+                    ["y"] = -187293.91942857,
+                }, -- end of [146]
+                [147] =
+                {
+                    ["callsignStr"] = "P9",
+                    ["comment"] = "N27 40 000\
+E054 40 000",
+                    ["id"] = 1501,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 167522.24542857,
+                    ["y"] = -154401.47371428,
+                }, -- end of [147]
+                [148] =
+                {
+                    ["callsignStr"] = "Q1",
+                    ["comment"] = "N28 20 000\
+E055 00 000",
+                    ["id"] = 1502,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 240819.976,
+                    ["y"] = -120302.39142857,
+                }, -- end of [148]
+                [149] =
+                {
+                    ["callsignStr"] = "Q2",
+                    ["comment"] = "N28 20 000\
+E055 20 000",
+                    ["id"] = 1503,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 240323.46114286,
+                    ["y"] = -87620.329142852,
+                }, -- end of [149]
+                [150] =
+                {
+                    ["callsignStr"] = "Q3",
+                    ["comment"] = "N28 20 000\
+E055 40 000",
+                    ["id"] = 1504,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239917.30057143,
+                    ["y"] = -54941.303999995,
+                }, -- end of [150]
+                [151] =
+                {
+                    ["callsignStr"] = "Q4",
+                    ["comment"] = "N28 00 000\
+E055 00 000",
+                    ["id"] = 1505,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 203881.43114286,
+                    ["y"] = -120911.26828571,
+                }, -- end of [151]
+                [152] =
+                {
+                    ["callsignStr"] = "Q5",
+                    ["comment"] = "N28 00 000\
+E055 20 000",
+                    ["id"] = 1506,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 203388.78742857,
+                    ["y"] = -88127.606571424,
+                }, -- end of [152]
+                [153] =
+                {
+                    ["callsignStr"] = "Q6",
+                    ["comment"] = "N28 00 000\
+E055 40 000",
+                    ["id"] = 1507,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202985.77657143,
+                    ["y"] = -55347.090857138,
+                }, -- end of [153]
+                [154] =
+                {
+                    ["callsignStr"] = "Q7",
+                    ["comment"] = "N27 40 000\
+E055 00 000",
+                    ["id"] = 1508,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 166944.48857143,
+                    ["y"] = -121513.51342857,
+                }, -- end of [154]
+                [155] =
+                {
+                    ["callsignStr"] = "Q8",
+                    ["comment"] = "N27 40 000\
+E055 20 000",
+                    ["id"] = 1559,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 166455.78542858,
+                    ["y"] = -88629.339428572,
+                }, -- end of [155]
+                [156] =
+                {
+                    ["callsignStr"] = "Q9",
+                    ["comment"] = "N27 40 000\
+E055 40 000",
+                    ["id"] = 1560,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 166055.952,
+                    ["y"] = -55748.427714286,
+                }, -- end of [156]
+                [157] =
+                {
+                    ["callsignStr"] = "R1",
+                    ["comment"] = "N28 20 000\
+E056 00 000",
+                    ["id"] = 1561,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239601.50142857,
+                    ["y"] = -22264.758857143,
+                }, -- end of [157]
+                [158] =
+                {
+                    ["callsignStr"] = "R2",
+                    ["comment"] = "N28 20 000\
+E056 20 000",
+                    ["id"] = 1562,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239375.92942857,
+                    ["y"] = 10409.909428571,
+                }, -- end of [158]
+                [159] =
+                {
+                    ["callsignStr"] = "R3",
+                    ["comment"] = "N28 20 000\
+E056 40 000",
+                    ["id"] = 1563,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239240.60742857,
+                    ["y"] = 43083.395428572,
+                }, -- end of [159]
+                [160] =
+                {
+                    ["callsignStr"] = "R4",
+                    ["comment"] = "N28 00 000\
+E056 00 000",
+                    ["id"] = 1564,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202672.41628572,
+                    ["y"] = -22569.052571428,
+                }, -- end of [160]
+                [161] =
+                {
+                    ["callsignStr"] = "R5",
+                    ["comment"] = "N28 00 000\
+E056 20 000",
+                    ["id"] = 1565,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202448.58314286,
+                    ["y"] = 10207.112,
+                }, -- end of [161]
+                [162] =
+                {
+                    ["callsignStr"] = "R6",
+                    ["comment"] = "N28 00 000\
+E056 40 000",
+                    ["id"] = 1566,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202314.32628572,
+                    ["y"] = 42981.999714286,
+                }, -- end of [162]
+                [163] =
+                {
+                    ["callsignStr"] = "R7",
+                    ["comment"] = "N27 40 000\
+E056 00 000",
+                    ["id"] = 1567,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 165745.04428572,
+                    ["y"] = -22870.012,
+                }, -- end of [163]
+                [164] =
+                {
+                    ["callsignStr"] = "R8",
+                    ["comment"] = "N27 40 000\
+E056 20 000",
+                    ["id"] = 1568,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 165522.99,
+                    ["y"] = 10006.479714286,
+                }, -- end of [164]
+                [165] =
+                {
+                    ["callsignStr"] = "R9",
+                    ["comment"] = "N27 40 000\
+E056 40 000",
+                    ["id"] = 1569,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 165389.79428572,
+                    ["y"] = 42881.706857143,
+                }, -- end of [165]
+                [166] =
+                {
+                    ["callsignStr"] = "S1",
+                    ["comment"] = "N28 20 000\
+E057 00 000",
+                    ["id"] = 1570,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239195.48028572,
+                    ["y"] = 75756.303428571,
+                }, -- end of [166]
+                [167] =
+                {
+                    ["callsignStr"] = "S2",
+                    ["comment"] = "N28 20 000\
+E057 20 000",
+                    ["id"] = 1571,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239240.64857143,
+                    ["y"] = 108429.15428571,
+                }, -- end of [167]
+                [168] =
+                {
+                    ["callsignStr"] = "S3",
+                    ["comment"] = "N28 20 000\
+E057 40 000",
+                    ["id"] = 1572,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239375.92942858,
+                    ["y"] = 141102.61257143,
+                }, -- end of [168]
+                [169] =
+                {
+                    ["callsignStr"] = "S4",
+                    ["comment"] = "N28 00 000\
+E057 00 000",
+                    ["id"] = 1573,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202269.548,
+                    ["y"] = 75756.28342857,
+                }, -- end of [169]
+                [170] =
+                {
+                    ["callsignStr"] = "S5",
+                    ["comment"] = "N28 00 000\
+E057 20 000",
+                    ["id"] = 1574,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202314.32371429,
+                    ["y"] = 108530.55142857,
+                }, -- end of [170]
+                [171] =
+                {
+                    ["callsignStr"] = "S6",
+                    ["comment"] = "N28 00 000\
+E057 40 000",
+                    ["id"] = 1575,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202448.57742858,
+                    ["y"] = 141305.44742857,
+                }, -- end of [171]
+                [172] =
+                {
+                    ["callsignStr"] = "S7",
+                    ["comment"] = "N27 40 000\
+E057 00 000",
+                    ["id"] = 1576,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 165345.39142858,
+                    ["y"] = 75756.297999999,
+                }, -- end of [172]
+                [173] =
+                {
+                    ["callsignStr"] = "S8",
+                    ["comment"] = "N27 40 000\
+E057 20 000",
+                    ["id"] = 1577,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 165389.78514286,
+                    ["y"] = 108630.88657143,
+                }, -- end of [173]
+                [174] =
+                {
+                    ["callsignStr"] = "S9",
+                    ["comment"] = "N27 40 000\
+E057 40 000",
+                    ["id"] = 1578,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 165523.05371429,
+                    ["y"] = 141506.09228571,
+                }, -- end of [174]
+                [175] =
+                {
+                    ["callsignStr"] = "T1",
+                    ["comment"] = "N28 20 000\
+E058 00 000",
+                    ["id"] = 1629,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239601.51085715,
+                    ["y"] = 173777.35428571,
+                }, -- end of [175]
+                [176] =
+                {
+                    ["callsignStr"] = "T2",
+                    ["comment"] = "N28 20 000\
+E058 20 000",
+                    ["id"] = 1680,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 239917.33514286,
+                    ["y"] = 206453.88514285,
+                }, -- end of [176]
+                [177] =
+                {
+                    ["callsignStr"] = "T3",
+                    ["comment"] = "N28 20 000\
+E058 40 000",
+                    ["id"] = 1681,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 240323.46257143,
+                    ["y"] = 239132.86542857,
+                }, -- end of [177]
+                [178] =
+                {
+                    ["callsignStr"] = "T4",
+                    ["comment"] = "N28 00 000\
+E058 00 000",
+                    ["id"] = 1682,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202672.42914286,
+                    ["y"] = 174081.60457143,
+                }, -- end of [178]
+                [179] =
+                {
+                    ["callsignStr"] = "T5",
+                    ["comment"] = "N28 00 000\
+E058 20 000",
+                    ["id"] = 1683,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 202985.78714286,
+                    ["y"] = 206859.662,
+                }, -- end of [179]
+                [180] =
+                {
+                    ["callsignStr"] = "T6",
+                    ["comment"] = "N28 00 000\
+E058 40 000",
+                    ["id"] = 1684,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 203388.74514286,
+                    ["y"] = 239640.17085714,
+                }, -- end of [180]
+                [181] =
+                {
+                    ["callsignStr"] = "T7",
+                    ["comment"] = "N27 40 000\
+E058 00 000",
+                    ["id"] = 1685,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 165745.08114286,
+                    ["y"] = 174382.56457143,
+                }, -- end of [181]
+                [182] =
+                {
+                    ["callsignStr"] = "T8",
+                    ["comment"] = "N27 40 000\
+E058 20 000",
+                    ["id"] = 1686,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 166056.02085715,
+                    ["y"] = 207260.97228571,
+                }, -- end of [182]
+                [183] =
+                {
+                    ["callsignStr"] = "T9",
+                    ["comment"] = "N27 40 000\
+E058 40 000",
+                    ["id"] = 1687,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 166455.74828572,
+                    ["y"] = 240141.89028571,
+                }, -- end of [183]
+                [184] =
+                {
+                    ["callsignStr"] = "U1",
+                    ["comment"] = "N27 20 000\
+E057 20 000",
+                    ["id"] = 1688,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 128467.09742858,
+                    ["y"] = 108730.04542857,
+                }, -- end of [184]
+                [185] =
+                {
+                    ["callsignStr"] = "U2",
+                    ["comment"] = "N27 20 000\
+E057 40 000",
+                    ["id"] = 1689,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 128599.19742858,
+                    ["y"] = 141704.45685714,
+                }, -- end of [185]
+                [186] =
+                {
+                    ["callsignStr"] = "U3",
+                    ["comment"] = "N27 20 000\
+E058 00 000",
+                    ["id"] = 1690,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 128819.45885715,
+                    ["y"] = 174680.20971428,
+                }, -- end of [186]
+                [187] =
+                {
+                    ["callsignStr"] = "U4",
+                    ["comment"] = "N27 00 000\
+E057 20 000",
+                    ["id"] = 1691,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 91546.095142861,
+                    ["y"] = 108828.142,
+                }, -- end of [187]
+                [188] =
+                {
+                    ["callsignStr"] = "U5",
+                    ["comment"] = "N27 00 000\
+E057 40 000",
+                    ["id"] = 1742,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 91677.160857147,
+                    ["y"] = 141900.61514285,
+                }, -- end of [188]
+                [189] =
+                {
+                    ["callsignStr"] = "U6",
+                    ["comment"] = "N27 00 000\
+E058 00 000",
+                    ["id"] = 1743,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 91895.577428576,
+                    ["y"] = 174974.42914285,
+                }, -- end of [189]
+                [190] =
+                {
+                    ["callsignStr"] = "U7",
+                    ["comment"] = "N26 40 000\
+E057 20 000",
+                    ["id"] = 1744,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 54626.840857147,
+                    ["y"] = 108925.10742857,
+                }, -- end of [190]
+                [191] =
+                {
+                    ["callsignStr"] = "U8",
+                    ["comment"] = "N26 40 000\
+E057 40 000",
+                    ["id"] = 1795,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 54756.770285719,
+                    ["y"] = 142094.57057142,
+                }, -- end of [191]
+                [192] =
+                {
+                    ["callsignStr"] = "U9",
+                    ["comment"] = "N26 40 000\
+E058 00 000",
+                    ["id"] = 1796,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 54973.320000004,
+                    ["y"] = 175265.36342856,
+                }, -- end of [192]
+                [193] =
+                {
+                    ["callsignStr"] = "V1",
+                    ["comment"] = "N26 20 000\
+E057 00 000",
+                    ["id"] = 1797,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 17666.459142861,
+                    ["y"] = 75756.259142857,
+                }, -- end of [193]
+                [194] =
+                {
+                    ["callsignStr"] = "V2",
+                    ["comment"] = "N26 20 000\
+E057 20 000",
+                    ["id"] = 1798,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 17709.364857146,
+                    ["y"] = 109020.88514286,
+                }, -- end of [194]
+                [195] =
+                {
+                    ["callsignStr"] = "V3",
+                    ["comment"] = "N26 20 000\
+E057 40 000",
+                    ["id"] = 1799,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 17838.159714289,
+                    ["y"] = 142286.24714286,
+                }, -- end of [195]
+                [196] =
+                {
+                    ["callsignStr"] = "V5",
+                    ["comment"] = "N25 60 000\
+E057 20 000",
+                    ["id"] = 1800,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -19206.461999996,
+                    ["y"] = 109115.65028571,
+                }, -- end of [196]
+                [197] =
+                {
+                    ["callsignStr"] = "V6",
+                    ["comment"] = "N25 60 000\
+E057 40 000",
+                    ["id"] = 1801,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -19078.792285711,
+                    ["y"] = 142475.648,
+                }, -- end of [197]
+                [198] =
+                {
+                    ["callsignStr"] = "V8",
+                    ["comment"] = "N25 40 000\
+E057 20 000",
+                    ["id"] = 1802,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -56120.509714282,
+                    ["y"] = 109209.20542857,
+                }, -- end of [198]
+                [199] =
+                {
+                    ["callsignStr"] = "V9",
+                    ["comment"] = "N25 40 000\
+E057 40 000",
+                    ["id"] = 1803,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -55994.079714282,
+                    ["y"] = 142662.82114286,
+                }, -- end of [199]
+                [200] =
+                {
+                    ["callsignStr"] = "W1",
+                    ["comment"] = "N26 20 000\
+E058 00 000",
+                    ["id"] = 1804,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 18052.772000002,
+                    ["y"] = 175552.90571429,
+                }, -- end of [200]
+                [201] =
+                {
+                    ["callsignStr"] = "W2",
+                    ["comment"] = "N26 20 000\
+E058 20 000",
+                    ["id"] = 1855,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 18353.34857143,
+                    ["y"] = 208821.66971428,
+                }, -- end of [201]
+                [202] =
+                {
+                    ["callsignStr"] = "W3",
+                    ["comment"] = "N26 20 000\
+E058 40 000",
+                    ["id"] = 1856,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 18739.785428573,
+                    ["y"] = 242093.20228571,
+                }, -- end of [202]
+                [203] =
+                {
+                    ["callsignStr"] = "W4",
+                    ["comment"] = "N25 60 000\
+E058 00 000",
+                    ["id"] = 1907,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -18866.113142855,
+                    ["y"] = 175837.13142857,
+                }, -- end of [203]
+                [204] =
+                {
+                    ["callsignStr"] = "W5",
+                    ["comment"] = "N25 60 000\
+E058 20 000",
+                    ["id"] = 1908,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -18568.238857141,
+                    ["y"] = 209200.64685714,
+                }, -- end of [204]
+                [205] =
+                {
+                    ["callsignStr"] = "W6",
+                    ["comment"] = "N25 60 000\
+E058 40 000",
+                    ["id"] = 1909,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -18185.180285712,
+                    ["y"] = 242566.98914285,
+                }, -- end of [205]
+                [206] =
+                {
+                    ["callsignStr"] = "W7",
+                    ["comment"] = "N25 40 000\
+E058 00 000",
+                    ["id"] = 1910,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -55783.349714284,
+                    ["y"] = 176117.88114285,
+                }, -- end of [206]
+                [207] =
+                {
+                    ["callsignStr"] = "W8",
+                    ["comment"] = "N25 40 000\
+E058 20 000",
+                    ["id"] = 1911,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -55488.179428569,
+                    ["y"] = 209575.09885714,
+                }, -- end of [207]
+                [208] =
+                {
+                    ["callsignStr"] = "W9",
+                    ["comment"] = "N25 40 000\
+E058 40 000",
+                    ["id"] = 1912,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -55108.725142855,
+                    ["y"] = 243035.15142857,
+                }, -- end of [208]
+                [209] =
+                {
+                    ["callsignStr"] = "CPWENDY",
+                    ["comment"] = "N25 23 718\
+E058 34 677",
+                    ["id"] = 1963,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -85274.409142856,
+                    ["y"] = 234487.44114286,
+                }, -- end of [209]
+                [210] =
+                {
+                    ["callsignStr"] = "CPWALDA",
+                    ["comment"] = "N25 33 517\
+E058 07 895",
+                    ["id"] = 1964,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -67642.045714285,
+                    ["y"] = 189428.05,
+                }, -- end of [210]
+                [211] =
+                {
+                    ["callsignStr"] = "CPVICTORIA",
+                    ["comment"] = "N26 10 304\
+E057 55 583",
+                    ["id"] = 1965,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 100.95228571478,
+                    ["y"] = 168334.326,
+                }, -- end of [211]
+                [212] =
+                {
+                    ["callsignStr"] = "CPVERONICA",
+                    ["comment"] = "N25 47 889\
+E057 18 005",
+                    ["id"] = 1966,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -41566.817142857,
+                    ["y"] = 105838.966,
+                }, -- end of [212]
+                [213] =
+                {
+                    ["callsignStr"] = "CPULRIKA",
+                    ["comment"] = "N26 52 072\
+E057 58 369",
+                    ["id"] = 2017,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 77239.543142855,
+                    ["y"] = 172389.95457142,
+                }, -- end of [213]
+                [214] =
+                {
+                    ["callsignStr"] = "CPUNDERWOOD",
+                    ["comment"] = "N26 51 206\
+E057 25 497",
+                    ["id"] = 2018,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 75340.513428568,
+                    ["y"] = 117972.38057143,
+                }, -- end of [214]
+                [215] =
+                {
+                    ["callsignStr"] = "CPUMA",
+                    ["comment"] = "N27 12 405\
+E057 18 915",
+                    ["id"] = 2019,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 114441.428,
+                    ["y"] = 106977.85685714,
+                }, -- end of [215]
+                [216] =
+                {
+                    ["callsignStr"] = "CPTERI",
+                    ["comment"] = "N27 50 293\
+E058 21 652",
+                    ["id"] = 2020,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 185091.75914285,
+                    ["y"] = 209766.38428571,
+                }, -- end of [216]
+                [217] =
+                {
+                    ["callsignStr"] = "CPTAHLIA",
+                    ["comment"] = "N28 11 975\
+E057 50 726",
+                    ["id"] = 2021,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 224669.35199999,
+                    ["y"] = 158730.338,
+                }, -- end of [217]
+                [218] =
+                {
+                    ["callsignStr"] = "CPSELENE",
+                    ["comment"] = "N28 01 607\
+E057 14 958",
+                    ["id"] = 2022,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 205262.92571427,
+                    ["y"] = 100263.07457143,
+                }, -- end of [218]
+                [219] =
+                {
+                    ["callsignStr"] = "CPSHERRY",
+                    ["comment"] = "N27 37 143\
+E057 28 169",
+                    ["id"] = 2023,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = 160160.12371428,
+                    ["y"] = 122079.91028571,
+                }, -- end of [219]
+            }, -- end of ["nav_points"]
+        }, -- end of ["blue"]
+        ["red"] =
+        {
+            ["bullseye"] =
+            {
+                ["x"] = 115815.06971428,
+                ["y"] = 14212.244571425,
+            }, -- end of ["bullseye"]
+            ["country"] =
+            {
+                [1] =
+                {
+                    ["id"] = 34,
+                    ["name"] = "Iran",
+                }, -- end of [1]
+                [2] =
+                {
+                    ["id"] = 35,
+                    ["name"] = "Iraq",
+                }, -- end of [2]
+                [3] =
+                {
+                    ["id"] = 7,
+                    ["name"] = "USAF Aggressors",
+                }, -- end of [3]
+            }, -- end of ["country"]
+            ["name"] = "red",
+            ["nav_points"] =
+            {
+            }, -- end of ["nav_points"]
+        }, -- end of ["red"]
+    }, -- end of ["coalition"]
+    ["coalitions"] =
+    {
+        ["blue"] =
+        {
+            [1] = 21,
+            [2] = 8,
+            [3] = 26,
+            [4] = 13,
+            [5] = 5,
+            [6] = 16,
+            [7] = 6,
+            [8] = 17,
+            [9] = 15,
+            [10] = 20,
+            [11] = 71,
+            [12] = 12,
+            [13] = 40,
+            [14] = 0,
+            [15] = 45,
+            [16] = 9,
+            [17] = 46,
+            [18] = 10,
+            [19] = 3,
+            [20] = 4,
+            [21] = 1,
+            [22] = 74,
+            [23] = 2,
+        }, -- end of ["blue"]
+        ["neutrals"] =
+        {
+            [1] = 18,
+            [2] = 70,
+            [3] = 23,
+            [4] = 65,
+            [5] = 24,
+            [6] = 11,
+            [7] = 64,
+            [8] = 25,
+            [9] = 63,
+            [10] = 27,
+            [11] = 28,
+            [12] = 29,
+            [13] = 62,
+            [14] = 30,
+            [15] = 31,
+            [16] = 61,
+            [17] = 32,
+            [18] = 33,
+            [19] = 60,
+            [20] = 69,
+            [21] = 36,
+            [22] = 59,
+            [23] = 37,
+            [24] = 58,
+            [25] = 57,
+            [26] = 56,
+            [27] = 55,
+            [28] = 38,
+            [29] = 73,
+            [30] = 39,
+            [31] = 54,
+            [32] = 72,
+            [33] = 41,
+            [34] = 42,
+            [35] = 43,
+            [36] = 44,
+            [37] = 19,
+            [38] = 53,
+            [39] = 22,
+            [40] = 47,
+            [41] = 52,
+            [42] = 66,
+            [43] = 51,
+            [44] = 68,
+            [45] = 50,
+            [46] = 49,
+            [47] = 48,
+            [48] = 67,
+        }, -- end of ["neutrals"]
+        ["red"] =
+        {
+            [1] = 34,
+            [2] = 35,
+            [3] = 7,
+        }, -- end of ["red"]
+    }, -- end of ["coalitions"]
+    ["currentKey"] = 529,
+    ["date"] =
+    {
+        ["Day"] = 1,
+        ["Month"] = 6,
+        ["Year"] = 2018,
+    }, -- end of ["date"]
+    ["descriptionBlueTask"] = "DictKey_descriptionBlueTask_3",
+    ["descriptionNeutralsTask"] = "DictKey_descriptionNeutralsTask_4",
+    ["descriptionRedTask"] = "DictKey_descriptionRedTask_2",
+    ["descriptionText"] = "DictKey_descriptionText_1",
+    ["failures"] =
+    {
+    }, -- end of ["failures"]
+    ["forcedOptions"] =
+    {
+    }, -- end of ["forcedOptions"]
+    ["goals"] =
+    {
+    }, -- end of ["goals"]
+    ["groundControl"] =
+    {
+        ["isPilotControlVehicles"] = false,
+        ["roles"] =
+        {
+            ["artillery_commander"] =
+            {
+                ["blue"] = 0,
+                ["neutrals"] = 0,
+                ["red"] = 0,
+            }, -- end of ["artillery_commander"]
+            ["forward_observer"] =
+            {
+                ["blue"] = 0,
+                ["neutrals"] = 0,
+                ["red"] = 0,
+            }, -- end of ["forward_observer"]
+            ["instructor"] =
+            {
+                ["blue"] = 1,
+                ["neutrals"] = 0,
+                ["red"] = 1,
+            }, -- end of ["instructor"]
+            ["observer"] =
+            {
+                ["blue"] = 0,
+                ["neutrals"] = 0,
+                ["red"] = 0,
+            }, -- end of ["observer"]
+        }, -- end of ["roles"]
+    }, -- end of ["groundControl"]
+    ["map"] =
+    {
+        ["centerX"] = 23928.571428571,
+        ["centerY"] = -82857.142857143,
+        ["zoom"] = 2500000,
+    }, -- end of ["map"]
+    ["maxDictId"] = 30,
+    ["pictureFileNameB"] =
+    {
+    }, -- end of ["pictureFileNameB"]
+    ["pictureFileNameN"] =
+    {
+    }, -- end of ["pictureFileNameN"]
+    ["pictureFileNameR"] =
+    {
+    }, -- end of ["pictureFileNameR"]
+    ["requiredModules"] =
+    {
+    }, -- end of ["requiredModules"]
+    ["result"] =
+    {
+        ["blue"] =
+        {
+            ["actions"] =
+            {
+            }, -- end of ["actions"]
+            ["conditions"] =
+            {
+            }, -- end of ["conditions"]
+            ["func"] =
+            {
+            }, -- end of ["func"]
+        }, -- end of ["blue"]
+        ["offline"] =
+        {
+            ["actions"] =
+            {
+            }, -- end of ["actions"]
+            ["conditions"] =
+            {
+            }, -- end of ["conditions"]
+            ["func"] =
+            {
+            }, -- end of ["func"]
+        }, -- end of ["offline"]
+        ["red"] =
+        {
+            ["actions"] =
+            {
+            }, -- end of ["actions"]
+            ["conditions"] =
+            {
+            }, -- end of ["conditions"]
+            ["func"] =
+            {
+            }, -- end of ["func"]
+        }, -- end of ["red"]
+        ["total"] = 0,
+    }, -- end of ["result"]
+    ["sortie"] = "DictKey_sortie_5",
+    ["start_time"] = 21600,
+    ["theatre"] = "PersianGulf",
+    ["trig"] =
+    {
+        ["actions"] =
+        {
+        }, -- end of ["actions"]
+        ["conditions"] =
+        {
+        }, -- end of ["conditions"]
+        ["custom"] =
+        {
+        }, -- end of ["custom"]
+        ["customStartup"] =
+        {
+        }, -- end of ["customStartup"]
+        ["events"] =
+        {
+        }, -- end of ["events"]
+        ["flag"] =
+        {
+        }, -- end of ["flag"]
+        ["func"] =
+        {
+        }, -- end of ["func"]
+        ["funcStartup"] =
+        {
+        }, -- end of ["funcStartup"]
+    }, -- end of ["trig"]
+    ["triggers"] =
+    {
+        ["zones"] =
+        {
+        }, -- end of ["zones"]
+    }, -- end of ["triggers"]
+    ["trigrules"] =
+    {
+    }, -- end of ["trigrules"]
+    ["version"] = 15,
+    ["weather"] =
+    {
+        ["atmosphere_type"] = 0,
+        ["clouds"] =
+        {
+            ["base"] = 1200,
+            ["density"] = 5,
+            ["iprecptns"] = 0,
+            ["thickness"] = 940,
+        }, -- end of ["clouds"]
+        ["cyclones"] =
+        {
+        }, -- end of ["cyclones"]
+        ["enable_fog"] = false,
+        ["fog"] =
+        {
+            ["density"] = 0,
+            ["thickness"] = 0,
+            ["visibility"] = 1000,
+        }, -- end of ["fog"]
+        ["groundTurbulence"] = 13.716,
+        ["name"] = "Summer. Clouds & wind",
+        ["name_cn"] = "夏季 多云+有风",
+        ["name_de"] = "Sommer, Wind und Wolken",
+        ["name_es"] = "Verano. Nubes y viento",
+        ["name_fr"] = "Eté, nuages et vent",
+        ["name_ru"] = "Лето. Oблачность и ветер",
+        ["qnh"] = 755,
+        ["season"] =
+        {
+            ["temperature"] = 26,
+        }, -- end of ["season"]
+        ["type_weather"] = 0,
+        ["visibility"] =
+        {
+            ["distance"] = 80000,
+        }, -- end of ["visibility"]
+        ["wind"] =
+        {
+            ["at2000"] =
+            {
+                ["dir"] = 243,
+                ["speed"] = 8.7618,
+            }, -- end of ["at2000"]
+            ["at8000"] =
+            {
+                ["dir"] = 330,
+                ["speed"] = 11.3388,
+            }, -- end of ["at8000"]
+            ["atGround"] =
+            {
+                ["dir"] = 214,
+                ["speed"] = 11.3388,
+            }, -- end of ["atGround"]
+        }, -- end of ["wind"]
+    }, -- end of ["weather"]
+} -- end of mission
