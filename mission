@@ -125,99 +125,6 @@ mission =
                 {
                     ["id"] = 2,
                     ["name"] = "USA",
-                    ["vehicle"] =
-                    {
-                        ["group"] =
-                        {
-                            [1] =
-                            {
-                                ["groupId"] = 1,
-                                ["hidden"] = false,
-                                ["name"] = "DictKey_GroupName_31",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["ETA"] = 0,
-                                            ["ETA_locked"] = true,
-                                            ["action"] = "Off Road",
-                                            ["alt"] = 521,
-                                            ["alt_type"] = "BARO",
-                                            ["formation_template"] = "",
-                                            ["name"] = "DictKey_WptName_33",
-                                            ["speed"] = 5.5555555555556,
-                                            ["speed_locked"] = true,
-                                            ["task"] =
-                                            {
-                                                ["id"] = "ComboTask",
-                                                ["params"] =
-                                                {
-                                                    ["tasks"] =
-                                                    {
-                                                        [1] =
-                                                        {
-                                                            ["auto"] = true,
-                                                            ["enabled"] = true,
-                                                            ["id"] = "WrappedAction",
-                                                            ["number"] = 1,
-                                                            ["params"] =
-                                                            {
-                                                                ["action"] =
-                                                                {
-                                                                    ["id"] = "EPLRS",
-                                                                    ["params"] =
-                                                                    {
-                                                                        ["groupId"] = 1,
-                                                                        ["value"] = true,
-                                                                    }, -- end of ["params"]
-                                                                }, -- end of ["action"]
-                                                            }, -- end of ["params"]
-                                                        }, -- end of [1]
-                                                    }, -- end of ["tasks"]
-                                                }, -- end of ["params"]
-                                            }, -- end of ["task"]
-                                            ["type"] = "Turning Point",
-                                            ["x"] = 182142.85714286,
-                                            ["y"] = -330714.28571429,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                    ["spans"] =
-                                    {
-                                    }, -- end of ["spans"]
-                                }, -- end of ["route"]
-                                ["start_time"] = 0,
-                                ["task"] = "Ground Nothing",
-                                ["taskSelected"] = true,
-                                ["tasks"] =
-                                {
-                                }, -- end of ["tasks"]
-                                ["uncontrollable"] = false,
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["heading"] = 0,
-                                        ["name"] = "DictKey_UnitName_32",
-                                        ["playerCanDrive"] = true,
-                                        ["skill"] = "Average",
-                                        ["transportable"] =
-                                        {
-                                            ["randomTransportable"] = false,
-                                        }, -- end of ["transportable"]
-                                        ["type"] = "InsurgentPickUp",
-                                        ["unitId"] = 1,
-                                        ["x"] = 182142.85714286,
-                                        ["y"] = -330714.28571429,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["visible"] = false,
-                                ["x"] = 182142.85714286,
-                                ["y"] = -330714.28571429,
-                            }, -- end of [1]
-                        }, -- end of ["group"]
-                    }, -- end of ["vehicle"]
                 }, -- end of [23]
             }, -- end of ["country"]
             ["name"] = "blue",
@@ -4020,7 +3927,7 @@ E057 28 169",
             [3] = 7,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 542,
+    ["currentKey"] = 551,
     ["date"] =
     {
         ["Day"] = 1,
@@ -4089,7 +3996,6 @@ E057 28 169",
     }, -- end of ["pictureFileNameR"]
     ["requiredModules"] =
     {
-        ["Insurgent_PickUp"] = "Insurgent_PickUp",
     }, -- end of ["requiredModules"]
     ["result"] =
     {
