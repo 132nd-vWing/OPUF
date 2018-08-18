@@ -115,6 +115,2659 @@ mission =
                 {
                     ["id"] = 2,
                     ["name"] = "USA",
+                    ["static"] =
+                    {
+                        ["group"] =
+                        {
+                            [1] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 1,
+                                ["heading"] = 2.2514747350727,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_34",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -96028.329142851,
+                                            ["y"] = -25538.019142856,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Heliports",
+                                        ["heading"] = 2.2514747350727,
+                                        ["heliport_callsign_id"] = 1,
+                                        ["heliport_frequency"] = 127.5,
+                                        ["heliport_modulation"] = 0,
+                                        ["name"] = "DictKey_GroupName_34",
+                                        ["shape_name"] = "FARPS",
+                                        ["type"] = "FARP",
+                                        ["unitId"] = 1,
+                                        ["x"] = -96028.329142851,
+                                        ["y"] = -25538.019142856,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -96028.329142851,
+                                ["y"] = -25538.019142856,
+                            }, -- end of [1]
+                            [2] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 3,
+                                ["heading"] = 1.5707963267949,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_40",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -96880.107714281,
+                                            ["y"] = -23336.398571427,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_GroupName_40",
+                                        ["type"] = "hesco_db_260m",
+                                        ["unitId"] = 3,
+                                        ["x"] = -96880.107714281,
+                                        ["y"] = -23336.398571427,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -96880.107714281,
+                                ["y"] = -23336.398571427,
+                            }, -- end of [2]
+                            [3] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 4,
+                                ["heading"] = 1.5707963267949,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_43",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -96880.02628571,
+                                            ["y"] = -23596.696857142,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_GroupName_43",
+                                        ["type"] = "hesco_db_260m",
+                                        ["unitId"] = 4,
+                                        ["x"] = -96880.02628571,
+                                        ["y"] = -23596.696857142,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -96880.02628571,
+                                ["y"] = -23596.696857142,
+                            }, -- end of [3]
+                            [4] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 5,
+                                ["heading"] = 3.1415926535898,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_46",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -97012.147714281,
+                                            ["y"] = -23724.71942857,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 3.1415926535898,
+                                        ["name"] = "DictKey_GroupName_46",
+                                        ["type"] = "hesco_db_260m",
+                                        ["unitId"] = 5,
+                                        ["x"] = -97012.147714281,
+                                        ["y"] = -23724.71942857,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -97012.147714281,
+                                ["y"] = -23724.71942857,
+                            }, -- end of [4]
+                            [5] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 6,
+                                ["heading"] = 3.1415926535898,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_49",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -97272.193999995,
+                                            ["y"] = -23724.717714284,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 3.1415926535898,
+                                        ["name"] = "DictKey_GroupName_49",
+                                        ["type"] = "hesco_db_260m",
+                                        ["unitId"] = 6,
+                                        ["x"] = -97272.193999995,
+                                        ["y"] = -23724.717714284,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -97272.193999995,
+                                ["y"] = -23724.717714284,
+                            }, -- end of [5]
+                            [6] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 9,
+                                ["heading"] = 2.0943951023932,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_58",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112171.60485713,
+                                            ["y"] = 8169.9677142867,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 2.0943951023932,
+                                        ["name"] = "DictKey_GroupName_58",
+                                        ["rate"] = 5,
+                                        ["type"] = "outpost_road",
+                                        ["unitId"] = 9,
+                                        ["x"] = -112171.60485713,
+                                        ["y"] = 8169.9677142867,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112171.60485713,
+                                ["y"] = 8169.9677142867,
+                            }, -- end of [6]
+                            [7] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 14,
+                                ["heading"] = 3.6477381366681,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_73",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112201.65685713,
+                                            ["y"] = 8174.6580000009,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 3.6477381366681,
+                                        ["name"] = "DictKey_GroupName_73",
+                                        ["type"] = "hesco_db_35m",
+                                        ["unitId"] = 14,
+                                        ["x"] = -112201.65685713,
+                                        ["y"] = 8174.6580000009,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112201.65685713,
+                                ["y"] = 8174.6580000009,
+                            }, -- end of [7]
+                            [8] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 15,
+                                ["heading"] = 3.682644721708,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_76",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112231.80314285,
+                                            ["y"] = 8157.4671428581,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 3.682644721708,
+                                        ["name"] = "DictKey_GroupName_76",
+                                        ["type"] = "hesco_db_35m",
+                                        ["unitId"] = 15,
+                                        ["x"] = -112231.80314285,
+                                        ["y"] = 8157.4671428581,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112231.80314285,
+                                ["y"] = 8157.4671428581,
+                            }, -- end of [8]
+                            [9] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 16,
+                                ["heading"] = 5.1661745859032,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_79",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112134.21571428,
+                                            ["y"] = 8189.9282857153,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.1661745859032,
+                                        ["name"] = "DictKey_GroupName_79",
+                                        ["type"] = "hesco_db_35m",
+                                        ["unitId"] = 16,
+                                        ["x"] = -112134.21571428,
+                                        ["y"] = 8189.9282857153,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112134.21571428,
+                                ["y"] = 8189.9282857153,
+                            }, -- end of [9]
+                            [10] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 18,
+                                ["heading"] = 3.5604716740684,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_85",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112158.65428571,
+                                            ["y"] = 8196.3257142867,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 3.5604716740684,
+                                        ["name"] = "DictKey_GroupName_85",
+                                        ["type"] = "hesco_db_35m",
+                                        ["unitId"] = 18,
+                                        ["x"] = -112158.65428571,
+                                        ["y"] = 8196.3257142867,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112158.65428571,
+                                ["y"] = 8196.3257142867,
+                            }, -- end of [10]
+                            [11] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 19,
+                                ["heading"] = 5.218534463463,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_88",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112235.62428571,
+                                            ["y"] = 8132.8357142868,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.218534463463,
+                                        ["name"] = "DictKey_GroupName_88",
+                                        ["type"] = "hesco_db_35m",
+                                        ["unitId"] = 19,
+                                        ["x"] = -112235.62428571,
+                                        ["y"] = 8132.8357142868,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112235.62428571,
+                                ["y"] = 8132.8357142868,
+                            }, -- end of [11]
+                            [12] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 20,
+                                ["heading"] = 5.1661745859032,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_91",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112118.92399999,
+                                            ["y"] = 8158.6614285724,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.1661745859032,
+                                        ["name"] = "DictKey_GroupName_91",
+                                        ["type"] = "hesco_db_35m",
+                                        ["unitId"] = 20,
+                                        ["x"] = -112118.92399999,
+                                        ["y"] = 8158.6614285724,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112118.92399999,
+                                ["y"] = 8158.6614285724,
+                            }, -- end of [12]
+                            [13] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 22,
+                                ["heading"] = 5.218534463463,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_97",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112218.73114285,
+                                            ["y"] = 8102.464000001,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.218534463463,
+                                        ["name"] = "DictKey_GroupName_97",
+                                        ["type"] = "hesco_db_35m",
+                                        ["unitId"] = 22,
+                                        ["x"] = -112218.73114285,
+                                        ["y"] = 8102.464000001,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112218.73114285,
+                                ["y"] = 8102.464000001,
+                            }, -- end of [13]
+                            [14] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 26,
+                                ["heading"] = 0.50614548307836,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_109",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112187.43771427,
+                                            ["y"] = 8098.6051428582,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.50614548307836,
+                                        ["name"] = "DictKey_GroupName_109",
+                                        ["rate"] = 1,
+                                        ["type"] = "hesco_db_17m",
+                                        ["unitId"] = 26,
+                                        ["x"] = -112187.43771427,
+                                        ["y"] = 8098.6051428582,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112187.43771427,
+                                ["y"] = 8098.6051428582,
+                            }, -- end of [14]
+                            [15] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 29,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_118",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112172.57314285,
+                                            ["y"] = 8107.5751428582,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_118",
+                                        ["rate"] = 1,
+                                        ["type"] = "hesco_db_17m",
+                                        ["unitId"] = 29,
+                                        ["x"] = -112172.57314285,
+                                        ["y"] = 8107.5751428582,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112172.57314285,
+                                ["y"] = 8107.5751428582,
+                            }, -- end of [15]
+                            [16] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 30,
+                                ["heading"] = 0.50614548307836,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_121",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112202.13142856,
+                                            ["y"] = 8089.6351428582,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.50614548307836,
+                                        ["name"] = "DictKey_GroupName_121",
+                                        ["rate"] = 1,
+                                        ["type"] = "hesco_db_17m",
+                                        ["unitId"] = 30,
+                                        ["x"] = -112202.13142856,
+                                        ["y"] = 8089.6351428582,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112202.13142856,
+                                ["y"] = 8089.6351428582,
+                            }, -- end of [16]
+                            [17] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 31,
+                                ["heading"] = 2.5307274153918,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_124",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112177.92399999,
+                                            ["y"] = 8186.9622857154,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.5307274153918,
+                                        ["name"] = "DictKey_GroupName_124",
+                                        ["rate"] = 5,
+                                        ["type"] = "DESERT_HMMV",
+                                        ["unitId"] = 31,
+                                        ["x"] = -112177.92399999,
+                                        ["y"] = 8186.9622857154,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112177.92399999,
+                                ["y"] = 8186.9622857154,
+                            }, -- end of [17]
+                            [18] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 32,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_127",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112157.62314285,
+                                            ["y"] = 8116.3742857153,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_127",
+                                        ["rate"] = 1,
+                                        ["type"] = "hesco_db_17m",
+                                        ["unitId"] = 32,
+                                        ["x"] = -112157.62314285,
+                                        ["y"] = 8116.3742857153,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112157.62314285,
+                                ["y"] = 8116.3742857153,
+                            }, -- end of [18]
+                            [19] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 33,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_130",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112142.16057142,
+                                            ["y"] = 8124.490000001,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_130",
+                                        ["rate"] = 1,
+                                        ["type"] = "hesco_db_17m",
+                                        ["unitId"] = 33,
+                                        ["x"] = -112142.16057142,
+                                        ["y"] = 8124.490000001,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112142.16057142,
+                                ["y"] = 8124.490000001,
+                            }, -- end of [19]
+                            [20] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 34,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_133",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112116.44657142,
+                                            ["y"] = 8138.1585714296,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_133",
+                                        ["rate"] = 1,
+                                        ["type"] = "hesco_db_17m",
+                                        ["unitId"] = 34,
+                                        ["x"] = -112116.44657142,
+                                        ["y"] = 8138.1585714296,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112116.44657142,
+                                ["y"] = 8138.1585714296,
+                            }, -- end of [20]
+                            [21] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 35,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_136",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112128.49199999,
+                                            ["y"] = 8131.8368571439,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_136",
+                                        ["rate"] = 1,
+                                        ["type"] = "hesco_db_17m",
+                                        ["unitId"] = 35,
+                                        ["x"] = -112128.49199999,
+                                        ["y"] = 8131.8368571439,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112128.49199999,
+                                ["y"] = 8131.8368571439,
+                            }, -- end of [21]
+                            [22] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 36,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_139",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112203.59685713,
+                                            ["y"] = 8095.3005714297,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_139",
+                                        ["rate"] = 1,
+                                        ["type"] = "green_porta_john",
+                                        ["unitId"] = 36,
+                                        ["x"] = -112203.59685713,
+                                        ["y"] = 8095.3005714297,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112203.59685713,
+                                ["y"] = 8095.3005714297,
+                            }, -- end of [22]
+                            [23] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 37,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_142",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112217.3762857,
+                                            ["y"] = 8122.2311428582,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_142",
+                                        ["rate"] = 1,
+                                        ["type"] = "tan_tent_large",
+                                        ["unitId"] = 37,
+                                        ["x"] = -112217.3762857,
+                                        ["y"] = 8122.2311428582,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112217.3762857,
+                                ["y"] = 8122.2311428582,
+                            }, -- end of [23]
+                            [24] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 38,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_145",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112212.76285713,
+                                            ["y"] = 8113.624000001,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_145",
+                                        ["rate"] = 1,
+                                        ["type"] = "tan_tent_large",
+                                        ["unitId"] = 38,
+                                        ["x"] = -112212.76285713,
+                                        ["y"] = 8113.624000001,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112212.76285713,
+                                ["y"] = 8113.624000001,
+                            }, -- end of [24]
+                            [25] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 39,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_148",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112147.2362857,
+                                            ["y"] = 8193.8914285726,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_148",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "GeneratorF",
+                                        ["type"] = "GeneratorF",
+                                        ["unitId"] = 39,
+                                        ["x"] = -112147.2362857,
+                                        ["y"] = 8193.8914285726,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112147.2362857,
+                                ["y"] = 8193.8914285726,
+                            }, -- end of [25]
+                            [26] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 40,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_151",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112222.47171428,
+                                            ["y"] = 8131.2514285724,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_151",
+                                        ["rate"] = 1,
+                                        ["type"] = "tan_tent_large",
+                                        ["unitId"] = 40,
+                                        ["x"] = -112222.47171428,
+                                        ["y"] = 8131.2514285724,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112222.47171428,
+                                ["y"] = 8131.2514285724,
+                            }, -- end of [26]
+                            [27] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 41,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_154",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112258.12971428,
+                                            ["y"] = 8143.9517142869,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 5000,
+                                        ["name"] = "DictKey_GroupName_154",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "tetrapod_cargo",
+                                        ["type"] = "tetrapod_cargo",
+                                        ["unitId"] = 41,
+                                        ["x"] = -112258.12971428,
+                                        ["y"] = 8143.9517142869,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112258.12971428,
+                                ["y"] = 8143.9517142869,
+                            }, -- end of [27]
+                            [28] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 42,
+                                ["heading"] = 5.1836278784232,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_157",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112208.09485713,
+                                            ["y"] = 8090.1228571438,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.1836278784232,
+                                        ["name"] = "DictKey_GroupName_157",
+                                        ["rate"] = 10,
+                                        ["type"] = "house2arm",
+                                        ["unitId"] = 42,
+                                        ["x"] = -112208.09485713,
+                                        ["y"] = 8090.1228571438,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112208.09485713,
+                                ["y"] = 8090.1228571438,
+                            }, -- end of [28]
+                            [29] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 43,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_160",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112216.54485713,
+                                            ["y"] = 8102.618000001,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_160",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x5",
+                                        ["unitId"] = 43,
+                                        ["x"] = -112216.54485713,
+                                        ["y"] = 8102.618000001,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112216.54485713,
+                                ["y"] = 8102.618000001,
+                            }, -- end of [29]
+                            [30] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 44,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_163",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112233.65571428,
+                                            ["y"] = 8133.4957142867,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_163",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x5",
+                                        ["unitId"] = 44,
+                                        ["x"] = -112233.65571428,
+                                        ["y"] = 8133.4957142867,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112233.65571428,
+                                ["y"] = 8133.4957142867,
+                            }, -- end of [30]
+                            [31] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 45,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_166",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112220.42685713,
+                                            ["y"] = 8140.5540000009,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_166",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x3",
+                                        ["unitId"] = 45,
+                                        ["x"] = -112220.42685713,
+                                        ["y"] = 8140.5540000009,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112220.42685713,
+                                ["y"] = 8140.5540000009,
+                            }, -- end of [31]
+                            [32] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 46,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_169",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112203.34114285,
+                                            ["y"] = 8109.6682857152,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_169",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x3",
+                                        ["unitId"] = 46,
+                                        ["x"] = -112203.34114285,
+                                        ["y"] = 8109.6682857152,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112203.34114285,
+                                ["y"] = 8109.6682857152,
+                            }, -- end of [32]
+                            [33] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 47,
+                                ["heading"] = 5.2010811709431,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_172",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112212.14114285,
+                                            ["y"] = 8145.9825714295,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.2010811709431,
+                                        ["name"] = "DictKey_GroupName_172",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x10",
+                                        ["unitId"] = 47,
+                                        ["x"] = -112212.14114285,
+                                        ["y"] = 8145.9825714295,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112212.14114285,
+                                ["y"] = 8145.9825714295,
+                            }, -- end of [33]
+                            [34] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 48,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_175",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112199.98399999,
+                                            ["y"] = 8097.7894285726,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_175",
+                                        ["rate"] = 1,
+                                        ["type"] = "green_porta_john",
+                                        ["unitId"] = 48,
+                                        ["x"] = -112199.98399999,
+                                        ["y"] = 8097.7894285726,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112199.98399999,
+                                ["y"] = 8097.7894285726,
+                            }, -- end of [34]
+                            [35] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 49,
+                                ["heading"] = 2.1118483949131,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_178",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112240.36714285,
+                                            ["y"] = 8148.3294285723,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 2.1118483949131,
+                                        ["name"] = "DictKey_GroupName_178",
+                                        ["rate"] = 10,
+                                        ["type"] = "house2arm",
+                                        ["unitId"] = 49,
+                                        ["x"] = -112240.36714285,
+                                        ["y"] = 8148.3294285723,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112240.36714285,
+                                ["y"] = 8148.3294285723,
+                            }, -- end of [35]
+                            [36] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 50,
+                                ["heading"] = 5.1836278784232,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_181",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112114.98999999,
+                                            ["y"] = 8142.7540000009,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.1836278784232,
+                                        ["name"] = "DictKey_GroupName_181",
+                                        ["rate"] = 10,
+                                        ["type"] = "house2arm",
+                                        ["unitId"] = 50,
+                                        ["x"] = -112114.98999999,
+                                        ["y"] = 8142.7540000009,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112114.98999999,
+                                ["y"] = 8142.7540000009,
+                            }, -- end of [36]
+                            [37] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 51,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_184",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112133.16714285,
+                                            ["y"] = 8172.652857144,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 1500,
+                                        ["name"] = "DictKey_GroupName_184",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 51,
+                                        ["x"] = -112133.16714285,
+                                        ["y"] = 8172.652857144,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112133.16714285,
+                                ["y"] = 8172.652857144,
+                            }, -- end of [37]
+                            [38] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 52,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_187",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112133.71399999,
+                                            ["y"] = 8173.6594285723,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 1500,
+                                        ["name"] = "DictKey_GroupName_187",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 52,
+                                        ["x"] = -112133.71399999,
+                                        ["y"] = 8173.6594285723,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112133.71399999,
+                                ["y"] = 8173.6594285723,
+                            }, -- end of [38]
+                            [39] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 53,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_190",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112132.64714285,
+                                            ["y"] = 8171.5385714297,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 1500,
+                                        ["name"] = "DictKey_GroupName_190",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 53,
+                                        ["x"] = -112132.64714285,
+                                        ["y"] = 8171.5385714297,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112132.64714285,
+                                ["y"] = 8171.5385714297,
+                            }, -- end of [39]
+                            [40] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 56,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_201",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112134.45199999,
+                                            ["y"] = 8175.1860000011,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 1500,
+                                        ["name"] = "DictKey_GroupName_201",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "ammo_box_cargo",
+                                        ["type"] = "ammo_cargo",
+                                        ["unitId"] = 56,
+                                        ["x"] = -112134.45199999,
+                                        ["y"] = 8175.1860000011,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112134.45199999,
+                                ["y"] = 8175.1860000011,
+                            }, -- end of [40]
+                            [41] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 57,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_204",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112129.4222857,
+                                            ["y"] = 8139.4931428583,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 1500,
+                                        ["name"] = "DictKey_GroupName_204",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "pz2000_shell",
+                                        ["type"] = "pz2000_shell",
+                                        ["unitId"] = 57,
+                                        ["x"] = -112129.4222857,
+                                        ["y"] = 8139.4931428583,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112129.4222857,
+                                ["y"] = 8139.4931428583,
+                            }, -- end of [41]
+                            [42] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 58,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_207",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112141.13142856,
+                                            ["y"] = 8212.8320000012,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 5000,
+                                        ["name"] = "DictKey_GroupName_207",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "tetrapod_cargo",
+                                        ["type"] = "tetrapod_cargo",
+                                        ["unitId"] = 58,
+                                        ["x"] = -112141.13142856,
+                                        ["y"] = 8212.8320000012,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112141.13142856,
+                                ["y"] = 8212.8320000012,
+                            }, -- end of [42]
+                            [43] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 59,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_210",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112131.03085713,
+                                            ["y"] = 8211.0082857154,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 5000,
+                                        ["name"] = "DictKey_GroupName_210",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "tetrapod_cargo",
+                                        ["type"] = "tetrapod_cargo",
+                                        ["unitId"] = 59,
+                                        ["x"] = -112131.03085713,
+                                        ["y"] = 8211.0082857154,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112131.03085713,
+                                ["y"] = 8211.0082857154,
+                            }, -- end of [43]
+                            [44] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 60,
+                                ["heading"] = 0.41887902047864,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_213",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112269.35257142,
+                                            ["y"] = 8143.2502857154,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 0.41887902047864,
+                                        ["mass"] = 5000,
+                                        ["name"] = "DictKey_GroupName_213",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "tetrapod_cargo",
+                                        ["type"] = "tetrapod_cargo",
+                                        ["unitId"] = 60,
+                                        ["x"] = -112269.35257142,
+                                        ["y"] = 8143.2502857154,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112269.35257142,
+                                ["y"] = 8143.2502857154,
+                            }, -- end of [44]
+                            [45] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 61,
+                                ["heading"] = 5.0789081233035,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_216",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112151.72714285,
+                                            ["y"] = 8194.6594285726,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["canCargo"] = true,
+                                        ["category"] = "Cargos",
+                                        ["effectPreset"] = "1",
+                                        ["effectTransparency"] = 1,
+                                        ["heading"] = 5.0789081233035,
+                                        ["mass"] = 2300,
+                                        ["name"] = "DictKey_GroupName_216",
+                                        ["rate"] = 100,
+                                        ["shape_name"] = "oiltank_cargo",
+                                        ["type"] = "oiltank_cargo",
+                                        ["unitId"] = 61,
+                                        ["x"] = -112151.72714285,
+                                        ["y"] = 8194.6594285726,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112151.72714285,
+                                ["y"] = 8194.6594285726,
+                            }, -- end of [45]
+                            [46] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 62,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_219",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112173.94685713,
+                                            ["y"] = 8150.3822857154,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_219",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x3",
+                                        ["unitId"] = 62,
+                                        ["x"] = -112173.94685713,
+                                        ["y"] = 8150.3822857154,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112173.94685713,
+                                ["y"] = 8150.3822857154,
+                            }, -- end of [46]
+                            [47] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 63,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_222",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112166.00257142,
+                                            ["y"] = 8154.6122857154,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_222",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x3",
+                                        ["unitId"] = 63,
+                                        ["x"] = -112166.00257142,
+                                        ["y"] = 8154.6122857154,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112166.00257142,
+                                ["y"] = 8154.6122857154,
+                            }, -- end of [47]
+                            [48] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 64,
+                                ["heading"] = 0.48869219055841,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_225",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112158.05914285,
+                                            ["y"] = 8158.8620000011,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 0.48869219055841,
+                                        ["name"] = "DictKey_GroupName_225",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x3",
+                                        ["unitId"] = 64,
+                                        ["x"] = -112158.05914285,
+                                        ["y"] = 8158.8620000011,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112158.05914285,
+                                ["y"] = 8158.8620000011,
+                            }, -- end of [48]
+                            [49] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 65,
+                                ["heading"] = 5.218534463463,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_228",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112171.22142856,
+                                            ["y"] = 8182.7714285726,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.218534463463,
+                                        ["name"] = "DictKey_GroupName_228",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x3",
+                                        ["unitId"] = 65,
+                                        ["x"] = -112171.22142856,
+                                        ["y"] = 8182.7714285726,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112171.22142856,
+                                ["y"] = 8182.7714285726,
+                            }, -- end of [49]
+                            [50] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 66,
+                                ["heading"] = 5.218534463463,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_231",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -112166.84771428,
+                                            ["y"] = 8174.9394285726,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Fortifications",
+                                        ["heading"] = 5.218534463463,
+                                        ["name"] = "DictKey_GroupName_231",
+                                        ["rate"] = 1,
+                                        ["type"] = "Conc_Bar_tall_x3",
+                                        ["unitId"] = 66,
+                                        ["x"] = -112166.84771428,
+                                        ["y"] = 8174.9394285726,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -112166.84771428,
+                                ["y"] = 8174.9394285726,
+                            }, -- end of [50]
+                        }, -- end of ["group"]
+                    }, -- end of ["static"]
+                    ["vehicle"] =
+                    {
+                        ["group"] =
+                        {
+                            [1] =
+                            {
+                                ["groupId"] = 10,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_61",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 19,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_63",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -98433.105714278,
+                                            ["y"] = 11168.416571429,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_62",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "InsurgentPickUp",
+                                        ["unitId"] = 10,
+                                        ["x"] = -98433.105714278,
+                                        ["y"] = 11168.416571429,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -98433.105714278,
+                                ["y"] = 11168.416571429,
+                            }, -- end of [1]
+                            [2] =
+                            {
+                                ["groupId"] = 11,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_64",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 13,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_66",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 2,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -91543.495428563,
+                                            ["y"] = 11667.829428572,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_65",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "InsurgentPickUp",
+                                        ["unitId"] = 11,
+                                        ["x"] = -91543.495428563,
+                                        ["y"] = 11667.829428572,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -91543.495428563,
+                                ["y"] = 11667.829428572,
+                            }, -- end of [2]
+                            [3] =
+                            {
+                                ["groupId"] = 12,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_67",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 2,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_69",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 3,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -125468.00399999,
+                                            ["y"] = 11599.432857143,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_68",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "InsurgentPickUp",
+                                        ["unitId"] = 12,
+                                        ["x"] = -125468.00399999,
+                                        ["y"] = 11599.432857143,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -125468.00399999,
+                                ["y"] = 11599.432857143,
+                            }, -- end of [3]
+                            [4] =
+                            {
+                                ["groupId"] = 13,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_70",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 91,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_72",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 4,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -124223.82742856,
+                                            ["y"] = 3295.6768571434,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_71",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "InsurgentPickUp",
+                                        ["unitId"] = 13,
+                                        ["x"] = -124223.82742856,
+                                        ["y"] = 3295.6768571434,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -124223.82742856,
+                                ["y"] = 3295.6768571434,
+                            }, -- end of [4]
+                            [5] =
+                            {
+                                ["groupId"] = 54,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_193",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_195",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 5,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -112137.30799999,
+                                            ["y"] = 8140.378857144,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                        [1] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["x"] = -112146.03199999,
+                                                ["y"] = 8168.440857144,
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["x"] = -112147.39685713,
+                                                ["y"] = 8177.6737142869,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 1.9896753472735,
+                                        ["name"] = "DictKey_UnitName_194",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 54,
+                                        ["x"] = -112137.30799999,
+                                        ["y"] = 8140.378857144,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -112137.30799999,
+                                ["y"] = 8140.378857144,
+                            }, -- end of [5]
+                            [6] =
+                            {
+                                ["groupId"] = 55,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_198",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 15,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_200",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 5,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -112127.40571427,
+                                            ["y"] = 8147.4060000011,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                        [1] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["x"] = -112146.03199999,
+                                                ["y"] = 8168.440857144,
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["x"] = -112147.39685713,
+                                                ["y"] = 8177.6737142869,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 1.9896753472735,
+                                        ["name"] = "DictKey_UnitName_199",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M-109",
+                                        ["unitId"] = 55,
+                                        ["x"] = -112127.40571427,
+                                        ["y"] = 8147.4060000011,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -112127.40571427,
+                                ["y"] = 8147.4060000011,
+                            }, -- end of [6]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
                 }, -- end of [21]
             }, -- end of ["country"]
             ["name"] = "blue",
@@ -3829,7 +6482,7 @@ E057 28 169",
                     ["id"] = 0,
                     ["name"] = "Russia",
                 }, -- end of [4]
-				[5] =
+                [5] =
                 {
                     ["id"] = 17,
                     ["name"] = "Insurgents",
@@ -3924,10 +6577,10 @@ E057 28 169",
             [2] = 35,
             [3] = 7,
             [4] = 0,
-			[5] = 17,
+            [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 555,
+    ["currentKey"] = 1646,
     ["date"] =
     {
         ["Day"] = 1,
@@ -3949,7 +6602,7 @@ E057 28 169",
     }, -- end of ["goals"]
     ["groundControl"] =
     {
-        ["isPilotControlVehicles"] = false,
+        ["isPilotControlVehicles"] = true,
         ["roles"] =
         {
             ["artillery_commander"] =
@@ -3972,19 +6625,19 @@ E057 28 169",
             }, -- end of ["instructor"]
             ["observer"] =
             {
-                ["blue"] = 0,
+                ["blue"] = 2,
                 ["neutrals"] = 0,
-                ["red"] = 0,
+                ["red"] = 2,
             }, -- end of ["observer"]
         }, -- end of ["roles"]
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 23928.571428571,
-        ["centerY"] = -82857.142857143,
-        ["zoom"] = 2500000,
+        ["centerX"] = -112087.71271428,
+        ["centerY"] = 8394.5674285726,
+        ["zoom"] = 5363,
     }, -- end of ["map"]
-    ["maxDictId"] = 33,
+    ["maxDictId"] = 233,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -3996,6 +6649,8 @@ E057 28 169",
     }, -- end of ["pictureFileNameR"]
     ["requiredModules"] =
     {
+        ["Insurgent_PickUp"] = "Insurgent_PickUp",
+        ["Ranger Pack 2.4.1 by Ranger79 Productions"] = "Ranger Pack 2.4.1 by Ranger79 Productions",
     }, -- end of ["requiredModules"]
     ["result"] =
     {
