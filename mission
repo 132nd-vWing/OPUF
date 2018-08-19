@@ -6031,6 +6031,350 @@ mission =
                                 ["x"] = -112127.40571427,
                                 ["y"] = 8147.4060000011,
                             }, -- end of [2]
+                            [3] =
+                            {
+                                ["groupId"] = 150,
+                                ["hidden"] = true,
+                                ["name"] = "DictKey_GroupName_487",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 54,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_489",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -127699.36485714,
+                                            ["y"] = -88850.340571429,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_488",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot AMG",
+                                        ["unitId"] = 150,
+                                        ["x"] = -127699.36485714,
+                                        ["y"] = -88850.340571429,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_490",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ECS",
+                                        ["unitId"] = 151,
+                                        ["x"] = -127753.58942857,
+                                        ["y"] = -88919.398285714,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 5.6025068989018,
+                                        ["name"] = "DictKey_UnitName_491",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot EPP",
+                                        ["unitId"] = 152,
+                                        ["x"] = -127547.34142857,
+                                        ["y"] = -88736.518285714,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 1.535889741755,
+                                        ["name"] = "DictKey_UnitName_492",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot cp",
+                                        ["unitId"] = 153,
+                                        ["x"] = -127499.65628571,
+                                        ["y"] = -88867.888285714,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_493",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot str",
+                                        ["unitId"] = 154,
+                                        ["x"] = -127478.29771429,
+                                        ["y"] = -89013.668857143,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 5.4628805587423,
+                                        ["name"] = "DictKey_UnitName_494",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ln",
+                                        ["unitId"] = 155,
+                                        ["x"] = -127811.50142857,
+                                        ["y"] = -88994.582285714,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 1.1693705988362,
+                                        ["name"] = "DictKey_UnitName_495",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ln",
+                                        ["unitId"] = 156,
+                                        ["x"] = -127807.43742857,
+                                        ["y"] = -88739.566285714,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_496",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ln",
+                                        ["unitId"] = 157,
+                                        ["x"] = -127579.85342857,
+                                        ["y"] = -88869.614285714,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -127699.36485714,
+                                ["y"] = -88850.340571429,
+                            }, -- end of [3]
+                            [4] =
+                            {
+                                ["groupId"] = 151,
+                                ["hidden"] = true,
+                                ["name"] = "DictKey_GroupName_497",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 54,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_506",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -209470.29257143,
+                                            ["y"] = -175528.95914286,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_498",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot AMG",
+                                        ["unitId"] = 158,
+                                        ["x"] = -209470.29257143,
+                                        ["y"] = -175528.95914286,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_499",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ECS",
+                                        ["unitId"] = 159,
+                                        ["x"] = -209510.23828571,
+                                        ["y"] = -175600.86142857,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 5.6025068989018,
+                                        ["name"] = "DictKey_UnitName_500",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot EPP",
+                                        ["unitId"] = 160,
+                                        ["x"] = -209318.26914286,
+                                        ["y"] = -175415.13685714,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 1.535889741755,
+                                        ["name"] = "DictKey_UnitName_501",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot cp",
+                                        ["unitId"] = 161,
+                                        ["x"] = -209378.05428571,
+                                        ["y"] = -175616.47657143,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_502",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot str",
+                                        ["unitId"] = 162,
+                                        ["x"] = -209333.02457143,
+                                        ["y"] = -175500.99714286,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 5.4628805587423,
+                                        ["name"] = "DictKey_UnitName_503",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ln",
+                                        ["unitId"] = 163,
+                                        ["x"] = -209354.45,
+                                        ["y"] = -175766.81771429,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 1.1693705988362,
+                                        ["name"] = "DictKey_UnitName_504",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ln",
+                                        ["unitId"] = 164,
+                                        ["x"] = -209638.79085714,
+                                        ["y"] = -175595.77742857,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_505",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Patriot ln",
+                                        ["unitId"] = 165,
+                                        ["x"] = -209350.78114286,
+                                        ["y"] = -175548.23285714,
+                                    }, -- end of [8]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -209470.29257143,
+                                ["y"] = -175528.95914286,
+                            }, -- end of [4]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [21]
@@ -9845,7 +10189,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 6787,
+    ["currentKey"] = 7909,
     ["date"] =
     {
         ["Day"] = 1,
@@ -9898,11 +10242,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -212459.01914285,
-        ["centerY"] = -174405.32885714,
-        ["zoom"] = 1016,
+        ["centerX"] = -183463.28885714,
+        ["centerY"] = -161416.69714286,
+        ["zoom"] = 766762,
     }, -- end of ["map"]
-    ["maxDictId"] = 486,
+    ["maxDictId"] = 506,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -9965,9 +10309,13 @@ E057 28 169",
     {
         ["actions"] =
         {
+            [1] = "a_group_on(151);a_group_on(150); mission.trig.func[1]=nil;",
+            [2] = "a_group_off(151);a_group_off(150); mission.trig.func[2]=nil;",
         }, -- end of ["actions"]
         ["conditions"] =
         {
+            [1] = "return(c_part_of_coalition_in_zone(\"red\", 2082) )",
+            [2] = "return(c_coalition_has_airdrome(2, 4) )",
         }, -- end of ["conditions"]
         ["custom"] =
         {
@@ -9980,9 +10328,13 @@ E057 28 169",
         }, -- end of ["events"]
         ["flag"] =
         {
+            [1] = true,
+            [2] = true,
         }, -- end of ["flag"]
         ["func"] =
         {
+            [1] = "if mission.trig.conditions[1]() then mission.trig.actions[1]() end",
+            [2] = "if mission.trig.conditions[2]() then mission.trig.actions[2]() end",
         }, -- end of ["func"]
         ["funcStartup"] =
         {
@@ -9992,10 +10344,103 @@ E057 28 169",
     {
         ["zones"] =
         {
+            [1] =
+            {
+                ["color"] =
+                {
+                    [1] = 0,
+                    [2] = 1,
+                    [3] = 0,
+                    [4] = 0.14901960784314,
+                }, -- end of ["color"]
+                ["hidden"] = true,
+                ["name"] = "Patriot_AI_ON_zone",
+                ["radius"] = 152400,
+                ["x"] = -164743.20742857,
+                ["y"] = -139722.212,
+                ["zoneId"] = 2082,
+            }, -- end of [1]
         }, -- end of ["zones"]
     }, -- end of ["triggers"]
     ["trigrules"] =
     {
+        [1] =
+        {
+            ["actions"] =
+            {
+                [1] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 151,
+                    ["predicate"] = "a_group_on",
+                }, -- end of [1]
+                [2] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 150,
+                    ["predicate"] = "a_group_on",
+                }, -- end of [2]
+            }, -- end of ["actions"]
+            ["comment"] = "Patriot AI On",
+            ["eventlist"] = "",
+            ["predicate"] = "triggerOnce",
+            ["rules"] =
+            {
+                [1] =
+                {
+                    ["coalitionlist"] = "red",
+                    ["predicate"] = "c_part_of_coalition_in_zone",
+                    ["zone"] = 2082,
+                }, -- end of [1]
+            }, -- end of ["rules"]
+        }, -- end of [1]
+        [2] =
+        {
+            ["actions"] =
+            {
+                [1] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 151,
+                    ["predicate"] = "a_group_off",
+                }, -- end of [1]
+                [2] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 150,
+                    ["predicate"] = "a_group_off",
+                }, -- end of [2]
+            }, -- end of ["actions"]
+            ["comment"] = "AI off start",
+            ["eventlist"] = "",
+            ["predicate"] = "triggerOnce",
+            ["rules"] =
+            {
+                [1] =
+                {
+                    ["airdromelist"] = 4,
+                    ["coalitionlist"] = 2,
+                    ["predicate"] = "c_coalition_has_airdrome",
+                    ["zone"] = 2082,
+                }, -- end of [1]
+            }, -- end of ["rules"]
+        }, -- end of [2]
     }, -- end of ["trigrules"]
     ["version"] = 15,
     ["weather"] =
