@@ -216,6 +216,153 @@ mission =
                                 ["x"] = -97017.741428572,
                                 ["y"] = -23585.201999996,
                             }, -- end of [1]
+                            [2] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 230.5,
+                                ["groupId"] = 163,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_631",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["alt"] = 205,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["helipadId"] = 256,
+                                            ["linkUnit"] = 256,
+                                            ["name"] = "DictKey_WptName_633",
+                                            ["speed"] = 41.666666666667,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -97017.947142857,
+                                            ["y"] = -23323.481714283,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Transport",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["AdditionalArmor"] = true,
+                                            ["CargoHalfdoor"] = true,
+                                            ["ExhaustScreen"] = true,
+                                            ["GunnersAISkill"] = 90,
+                                            ["LeftEngineResource"] = 90,
+                                            ["NS430allow"] = true,
+                                            ["NetCrewControlPriority"] = 1,
+                                            ["RightEngineResource"] = 90,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 230.5,
+                                                    [2] = 124.2,
+                                                    [3] = 124.1,
+                                                    [4] = 231.5,
+                                                    [5] = 235.25,
+                                                    [6] = 234.5,
+                                                    [7] = 228,
+                                                    [8] = 248.75,
+                                                    [9] = 233,
+                                                    [10] = 227.5,
+                                                    [11] = 235,
+                                                    [12] = 119.25,
+                                                    [13] = 136.75,
+                                                    [14] = 127.75,
+                                                    [15] = 121.2,
+                                                    [16] = 121.1,
+                                                    [17] = 122.25,
+                                                    [18] = 230.75,
+                                                    [19] = 245.5,
+                                                    [20] = 243,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 35.6,
+                                                    [2] = 32.9,
+                                                    [3] = 48.5,
+                                                    [4] = 33.8,
+                                                    [5] = 36.3,
+                                                    [6] = 37.8,
+                                                    [7] = 38.2,
+                                                    [8] = 33.5,
+                                                    [9] = 38.5,
+                                                    [10] = 33.75,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 205,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 3,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Uzi11",
+                                        }, -- end of ["callsign"]
+                                        ["hardpoint_racks"] = true,
+                                        ["heading"] = 0,
+                                        ["livery_id"] = "132 259th Entropy",
+                                        ["name"] = "DictKey_UnitName_632",
+                                        ["onboard_num"] = "259",
+                                        ["parking"] = "1",
+                                        ["parking_id"] = "1",
+                                        ["payload"] =
+                                        {
+                                            ["chaff"] = 0,
+                                            ["flare"] = 128,
+                                            ["fuel"] = "1929",
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["ropeLength"] = 15,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 41.666666666667,
+                                        ["type"] = "Mi-8MT",
+                                        ["unitId"] = 258,
+                                        ["x"] = -97017.947142857,
+                                        ["y"] = -23323.481714283,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -97017.947142857,
+                                ["y"] = -23323.481714283,
+                            }, -- end of [2]
                         }, -- end of ["group"]
                     }, -- end of ["helicopter"]
                     ["id"] = 12,
@@ -999,7 +1146,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Magic11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 0.87292533207468,
+                                        ["heading"] = 0.87292533207471,
                                         ["livery_id"] = "nato",
                                         ["name"] = "DictKey_UnitName_621",
                                         ["onboard_num"] = "802",
@@ -1013,7 +1160,7 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -0.87292533207468,
+                                        ["psi"] = -0.87292533207471,
                                         ["skill"] = "Excellent",
                                         ["speed"] = 205.55555555556,
                                         ["type"] = "E-3A",
@@ -6481,6 +6628,50 @@ mission =
                                 ["x"] = -86173.235999994,
                                 ["y"] = -7881.6048571431,
                             }, -- end of [125]
+                            [126] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 161,
+                                ["heading"] = 4.7123889803847,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_624",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = -97017.947142857,
+                                            ["y"] = -23323.481714283,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Heliports",
+                                        ["heading"] = 4.7123889803847,
+                                        ["heliport_callsign_id"] = 1,
+                                        ["heliport_frequency"] = "230.5",
+                                        ["heliport_modulation"] = 0,
+                                        ["name"] = "DictKey_GroupName_624",
+                                        ["shape_name"] = "FARPS",
+                                        ["type"] = "FARP",
+                                        ["unitId"] = 256,
+                                        ["x"] = -97017.947142857,
+                                        ["y"] = -23323.481714283,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -97017.947142857,
+                                ["y"] = -23323.481714283,
+                            }, -- end of [126]
                         }, -- end of ["group"]
                     }, -- end of ["static"]
                     ["vehicle"] =
@@ -11726,7 +11917,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 14178,
+    ["currentKey"] = 15514,
     ["date"] =
     {
         ["Day"] = 1,
@@ -14964,11 +15155,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -106268.151,
-        ["centerY"] = 88150.140000003,
-        ["zoom"] = 1722667,
+        ["centerX"] = -96712.690571428,
+        ["centerY"] = -22889.935714281,
+        ["zoom"] = 4964,
     }, -- end of ["map"]
-    ["maxDictId"] = 623,
+    ["maxDictId"] = 633,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
