@@ -529,7 +529,7 @@ mission =
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
                                         ["name"] = "DictKey_UnitName_235",
-                                        ["onboard_num"] = "010",
+                                        ["onboard_num"] = "300",
                                         ["parking"] = 218,
                                         ["parking_id"] = "133",
                                         ["payload"] =
@@ -1987,6 +1987,2030 @@ mission =
                                 ["x"] = -126302.8203125,
                                 ["y"] = -89560.616333008,
                             }, -- end of [11]
+                            [12] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 186,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_707",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_709",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212397.828125,
+                                            ["y"] = -174368.875,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_708",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 217,
+                                        ["parking_id"] = "134",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 285,
+                                        ["x"] = -212397.828125,
+                                        ["y"] = -174368.875,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212397.828125,
+                                ["y"] = -174368.875,
+                            }, -- end of [12]
+                            [13] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 187,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_710",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_712",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212413.65625,
+                                            ["y"] = -174348.34375,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_711",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 216,
+                                        ["parking_id"] = "135",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 286,
+                                        ["x"] = -212413.65625,
+                                        ["y"] = -174348.34375,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212413.65625,
+                                ["y"] = -174348.34375,
+                            }, -- end of [13]
+                            [14] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 188,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_713",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_715",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212428.90625,
+                                            ["y"] = -174328.484375,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_714",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 215,
+                                        ["parking_id"] = "136",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 287,
+                                        ["x"] = -212428.90625,
+                                        ["y"] = -174328.484375,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212428.90625,
+                                ["y"] = -174328.484375,
+                            }, -- end of [14]
+                            [15] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 189,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_716",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_718",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212445.4375,
+                                            ["y"] = -174307.53125,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_717",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 214,
+                                        ["parking_id"] = "137",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 288,
+                                        ["x"] = -212445.4375,
+                                        ["y"] = -174307.53125,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212445.4375,
+                                ["y"] = -174307.53125,
+                            }, -- end of [15]
+                            [16] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 190,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_719",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_721",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212462.109375,
+                                            ["y"] = -174286.53125,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_720",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 213,
+                                        ["parking_id"] = "138",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 289,
+                                        ["x"] = -212462.109375,
+                                        ["y"] = -174286.53125,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212462.109375,
+                                ["y"] = -174286.53125,
+                            }, -- end of [16]
+                            [17] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 191,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_722",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_724",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212425.34375,
+                                            ["y"] = -174432.640625,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_723",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 219,
+                                        ["parking_id"] = "139",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 290,
+                                        ["x"] = -212425.34375,
+                                        ["y"] = -174432.640625,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212425.34375,
+                                ["y"] = -174432.640625,
+                            }, -- end of [17]
+                            [18] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 192,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_725",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_727",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212441.3125,
+                                            ["y"] = -174411.8125,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_726",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 220,
+                                        ["parking_id"] = "140",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 291,
+                                        ["x"] = -212441.3125,
+                                        ["y"] = -174411.8125,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212441.3125,
+                                ["y"] = -174411.8125,
+                            }, -- end of [18]
+                            [19] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 193,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_728",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_730",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212457.671875,
+                                            ["y"] = -174390.5625,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_729",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 221,
+                                        ["parking_id"] = "141",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 292,
+                                        ["x"] = -212457.671875,
+                                        ["y"] = -174390.5625,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212457.671875,
+                                ["y"] = -174390.5625,
+                            }, -- end of [19]
+                            [20] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 194,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_731",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_733",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212474.171875,
+                                            ["y"] = -174369.515625,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_732",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 222,
+                                        ["parking_id"] = "142",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 293,
+                                        ["x"] = -212474.171875,
+                                        ["y"] = -174369.515625,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212474.171875,
+                                ["y"] = -174369.515625,
+                            }, -- end of [20]
+                            [21] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 195,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_734",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_736",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212490.234375,
+                                            ["y"] = -174349.125,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_735",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 223,
+                                        ["parking_id"] = "143",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 294,
+                                        ["x"] = -212490.234375,
+                                        ["y"] = -174349.125,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212490.234375,
+                                ["y"] = -174349.125,
+                            }, -- end of [21]
+                            [22] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 247,
+                                ["groupId"] = 196,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_737",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 4,
+                                            ["alt"] = 16,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_739",
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAP",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Air",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 1,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -212505.328125,
+                                            ["y"] = -174329.3125,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAP",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["AddPropAircraft"] =
+                                        {
+                                            ["InnerBoard"] = 0,
+                                            ["OuterBoard"] = 0,
+                                        }, -- end of ["AddPropAircraft"]
+                                        ["Radio"] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 247,
+                                                    [2] = 227.75,
+                                                    [3] = 246,
+                                                    [4] = 226.5,
+                                                    [5] = 241,
+                                                    [6] = 225.5,
+                                                    [7] = 225.75,
+                                                    [8] = 244.25,
+                                                    [9] = 233.75,
+                                                    [10] = 239.25,
+                                                    [11] = 247.5,
+                                                    [12] = 240.75,
+                                                    [13] = 119.25,
+                                                    [14] = 136.75,
+                                                    [15] = 227.5,
+                                                    [16] = 235,
+                                                    [17] = 238,
+                                                    [18] = 300,
+                                                    [19] = 248.75,
+                                                    [20] = 301,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["channels"] =
+                                                {
+                                                    [1] = 126.1,
+                                                    [2] = 126.2,
+                                                    [3] = 126.9,
+                                                    [4] = 231.5,
+                                                    [5] = 248,
+                                                    [6] = 229,
+                                                    [7] = 235.25,
+                                                    [8] = 234.5,
+                                                    [9] = 122.25,
+                                                    [10] = 228,
+                                                    [11] = 233,
+                                                    [12] = 230.75,
+                                                    [13] = 245.5,
+                                                    [14] = 234.25,
+                                                    [15] = 121.1,
+                                                    [16] = 121.2,
+                                                    [17] = 280.7,
+                                                    [18] = 280.9,
+                                                    [19] = 248.75,
+                                                    [20] = 126.3,
+                                                }, -- end of ["channels"]
+                                            }, -- end of [2]
+                                        }, -- end of ["Radio"]
+                                        ["alt"] = 16,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 8,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Pontiac11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 1.3633001003597,
+                                        ["livery_id"] = "132_494",
+                                        ["name"] = "DictKey_UnitName_738",
+                                        ["onboard_num"] = "300",
+                                        ["parking"] = 224,
+                                        ["parking_id"] = "144",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 60,
+                                            ["flare"] = 30,
+                                            ["fuel"] = 4900,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "FA-18C_hornet",
+                                        ["unitId"] = 295,
+                                        ["x"] = -212505.328125,
+                                        ["y"] = -174329.3125,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -212505.328125,
+                                ["y"] = -174329.3125,
+                            }, -- end of [22]
                         }, -- end of ["group"]
                     }, -- end of ["plane"]
                 }, -- end of [11]
@@ -14934,7 +16958,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 21190,
+    ["currentKey"] = 21993,
     ["date"] =
     {
         ["Day"] = 1,
@@ -18172,11 +20196,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -212366.12842857,
-        ["centerY"] = -174416.11942858,
-        ["zoom"] = 2667,
+        ["centerX"] = -216568.86057143,
+        ["centerY"] = -150298.57342858,
+        ["zoom"] = 245270,
     }, -- end of ["map"]
-    ["maxDictId"] = 706,
+    ["maxDictId"] = 739,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
