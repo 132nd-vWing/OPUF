@@ -6,8 +6,8 @@ mission =
         {
             ["bullseye"] =
             {
-                ["x"] = 101201.47085714,
-                ["y"] = 91992.214571429,
+                ["x"] = 23696.559428571,
+                ["y"] = 13694.515428573,
             }, -- end of ["bullseye"]
             ["country"] =
             {
@@ -868,6 +868,165 @@ mission =
                 {
                     ["id"] = 2,
                     ["name"] = "USA",
+                    ["plane"] =
+                    {
+                        ["group"] =
+                        {
+                            [1] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 301,
+                                ["groupId"] = 160,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_620",
+                                ["radioSet"] = true,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 12192,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_622",
+                                            ["speed"] = 205.55555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "AWACS",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 3,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                        [3] =
+                                                        {
+                                                            ["auto"] = false,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "Orbit",
+                                                            ["number"] = 3,
+                                                            ["params"] =
+                                                            {
+                                                                ["altitude"] = 12192,
+                                                                ["pattern"] = "Race-Track",
+                                                                ["speed"] = 205.55555555556,
+                                                                ["speedEdited"] = true,
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [3]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -193688.5,
+                                            ["y"] = -210407.12,
+                                        }, -- end of [1]
+                                        [2] =
+                                        {
+                                            ["ETA"] = 708.65133198661,
+                                            ["ETA_locked"] = false,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 12192,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_623",
+                                            ["speed"] = 205.55555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -100084.51171429,
+                                            ["y"] = -98795.149999999,
+                                        }, -- end of [2]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "AWACS",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["alt"] = 12192,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 2,
+                                            [2] = 1,
+                                            [3] = 1,
+                                            ["name"] = "Magic11",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 0.87292533207468,
+                                        ["livery_id"] = "nato",
+                                        ["name"] = "DictKey_UnitName_621",
+                                        ["onboard_num"] = "802",
+                                        ["payload"] =
+                                        {
+                                            ["chaff"] = 120,
+                                            ["flare"] = 60,
+                                            ["fuel"] = "65000",
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = -0.87292533207468,
+                                        ["skill"] = "Excellent",
+                                        ["speed"] = 205.55555555556,
+                                        ["type"] = "E-3A",
+                                        ["unitId"] = 255,
+                                        ["x"] = -193688.5,
+                                        ["y"] = -210407.12,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -193688.5,
+                                ["y"] = -210407.12,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["plane"]
                     ["ship"] =
                     {
                         ["group"] =
@@ -10565,8 +10724,8 @@ E057 28 169",
         {
             ["bullseye"] =
             {
-                ["x"] = 112315.42285714,
-                ["y"] = 111635.47857143,
+                ["x"] = 75192.188571428,
+                ["y"] = 12219.751428574,
             }, -- end of ["bullseye"]
             ["country"] =
             {
@@ -10671,7 +10830,7 @@ E057 28 169",
                                     }, -- end of [2]
                                     [3] =
                                     {
-                                        ["heading"] = 5.8817595792209,
+                                        ["heading"] = 2.5132741228718,
                                         ["name"] = "DictKey_UnitName_538",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Average",
@@ -10681,8 +10840,8 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "S-300PS 40B6MD sr",
                                         ["unitId"] = 184,
-                                        ["x"] = 120042.05714286,
-                                        ["y"] = 14418.978,
+                                        ["x"] = 120048.91085714,
+                                        ["y"] = 14415.330571428,
                                     }, -- end of [3]
                                     [4] =
                                     {
@@ -10987,8 +11146,8 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Ural-375 PBU",
                                         ["unitId"] = 214,
-                                        ["x"] = 168391.63971429,
-                                        ["y"] = -178958.25514286,
+                                        ["x"] = 168411.36142856,
+                                        ["y"] = -178913.764,
                                     }, -- end of [6]
                                     [7] =
                                     {
@@ -11002,8 +11161,8 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "ZIL-131 KUNG",
                                         ["unitId"] = 215,
-                                        ["x"] = 168398.05400001,
-                                        ["y"] = -178957.61371429,
+                                        ["x"] = 168428.37285714,
+                                        ["y"] = -178914.47028571,
                                     }, -- end of [7]
                                     [8] =
                                     {
@@ -11017,8 +11176,8 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Ural-375",
                                         ["unitId"] = 216,
-                                        ["x"] = 168385.31171429,
-                                        ["y"] = -178963.60942856,
+                                        ["x"] = 168390.31742856,
+                                        ["y"] = -178936.54514286,
                                     }, -- end of [8]
                                     [9] =
                                     {
@@ -11137,8 +11296,8 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "ATMZ-5",
                                         ["unitId"] = 224,
-                                        ["x"] = 168422.55657144,
-                                        ["y"] = -178905.658,
+                                        ["x"] = 168495.81628571,
+                                        ["y"] = -178883.728,
                                     }, -- end of [16]
                                     [17] =
                                     {
@@ -11223,7 +11382,7 @@ E057 28 169",
                                     }, -- end of [1]
                                     [2] =
                                     {
-                                        ["heading"] = 2.7052603405912,
+                                        ["heading"] = 4.2411500823462,
                                         ["name"] = "DictKey_UnitName_603",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -11238,7 +11397,7 @@ E057 28 169",
                                     }, -- end of [2]
                                     [3] =
                                     {
-                                        ["heading"] = 2.757620218151,
+                                        ["heading"] = 4.2760566673861,
                                         ["name"] = "DictKey_UnitName_604",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -11253,7 +11412,7 @@ E057 28 169",
                                     }, -- end of [3]
                                     [4] =
                                     {
-                                        ["heading"] = 2.775073510671,
+                                        ["heading"] = 1.2042771838761,
                                         ["name"] = "DictKey_UnitName_605",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -11263,12 +11422,12 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Kub 2P25 ln",
                                         ["unitId"] = 241,
-                                        ["x"] = 377705.99085714,
-                                        ["y"] = -347889.27828571,
+                                        ["x"] = 377706.08342857,
+                                        ["y"] = -347888.96942857,
                                     }, -- end of [4]
                                     [5] =
                                     {
-                                        ["heading"] = 2.8448866807508,
+                                        ["heading"] = 1.221730476396,
                                         ["name"] = "DictKey_UnitName_606",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -11567,7 +11726,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 12870,
+    ["currentKey"] = 14178,
     ["date"] =
     {
         ["Day"] = 1,
@@ -14805,11 +14964,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 140552.05485714,
-        ["centerY"] = -251724.74342857,
-        ["zoom"] = 2500000,
+        ["centerX"] = -106268.151,
+        ["centerY"] = 88150.140000003,
+        ["zoom"] = 1722667,
     }, -- end of ["map"]
-    ["maxDictId"] = 619,
+    ["maxDictId"] = 623,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
