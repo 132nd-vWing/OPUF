@@ -6,8 +6,8 @@ mission =
         {
             ["bullseye"] =
             {
-                ["x"] = 115813.28714285,
-                ["y"] = 14221.157428568,
+                ["x"] = 101201.47085714,
+                ["y"] = 91992.214571429,
             }, -- end of ["bullseye"]
             ["country"] =
             {
@@ -10565,8 +10565,8 @@ E057 28 169",
         {
             ["bullseye"] =
             {
-                ["x"] = 115815.06971428,
-                ["y"] = 14212.244571425,
+                ["x"] = 112315.42285714,
+                ["y"] = 111635.47857143,
             }, -- end of ["bullseye"]
             ["country"] =
             {
@@ -10589,6 +10589,273 @@ E057 28 169",
                 {
                     ["id"] = 0,
                     ["name"] = "Russia",
+                    ["vehicle"] =
+                    {
+                        ["group"] =
+                        {
+                            [1] =
+                            {
+                                ["groupId"] = 156,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_535",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 21,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_548",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 120231.82285714,
+                                            ["y"] = 14219.957142857,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 6.0213859193804,
+                                        ["name"] = "DictKey_UnitName_536",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 40B6M tr",
+                                        ["unitId"] = 182,
+                                        ["x"] = 120231.82285714,
+                                        ["y"] = 14219.957142857,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 2.7052603405912,
+                                        ["name"] = "DictKey_UnitName_537",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 64H6E sr",
+                                        ["unitId"] = 183,
+                                        ["x"] = 119986.73914285,
+                                        ["y"] = 14204.798,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 5.8817595792209,
+                                        ["name"] = "DictKey_UnitName_538",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 40B6MD sr",
+                                        ["unitId"] = 184,
+                                        ["x"] = 120042.05714286,
+                                        ["y"] = 14418.978,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 3.2463124087095,
+                                        ["name"] = "DictKey_UnitName_539",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 54K6 cp",
+                                        ["unitId"] = 185,
+                                        ["x"] = 119909.59085714,
+                                        ["y"] = 14326.249428571,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 6.2308254296198,
+                                        ["name"] = "DictKey_UnitName_540",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 186,
+                                        ["x"] = 120121.59942857,
+                                        ["y"] = 13976.726571428,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 5.9515727493007,
+                                        ["name"] = "DictKey_UnitName_541",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85C ln",
+                                        ["unitId"] = 187,
+                                        ["x"] = 120070.91657143,
+                                        ["y"] = 13985.007714285,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 5.9515727493007,
+                                        ["name"] = "DictKey_UnitName_542",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 188,
+                                        ["x"] = 119982.28685714,
+                                        ["y"] = 14018.281714285,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 4.3982297150257,
+                                        ["name"] = "DictKey_UnitName_543",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85C ln",
+                                        ["unitId"] = 189,
+                                        ["x"] = 120167.19942857,
+                                        ["y"] = 14048.660571428,
+                                    }, -- end of [8]
+                                    [9] =
+                                    {
+                                        ["heading"] = 1.2566370614359,
+                                        ["name"] = "DictKey_UnitName_544",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 190,
+                                        ["x"] = 120296.45514286,
+                                        ["y"] = 14424.927142857,
+                                    }, -- end of [9]
+                                    [10] =
+                                    {
+                                        ["heading"] = 2.775073510671,
+                                        ["name"] = "DictKey_UnitName_545",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85C ln",
+                                        ["unitId"] = 191,
+                                        ["x"] = 120261.65228571,
+                                        ["y"] = 14493.897142857,
+                                    }, -- end of [10]
+                                    [11] =
+                                    {
+                                        ["heading"] = 2.775073510671,
+                                        ["name"] = "DictKey_UnitName_546",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85D ln",
+                                        ["unitId"] = 192,
+                                        ["x"] = 120201.18857143,
+                                        ["y"] = 14516.075142857,
+                                    }, -- end of [11]
+                                    [12] =
+                                    {
+                                        ["heading"] = 3.07177948351,
+                                        ["name"] = "DictKey_UnitName_547",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "S-300PS 5P85C ln",
+                                        ["unitId"] = 193,
+                                        ["x"] = 120109.78628571,
+                                        ["y"] = 14535.618571428,
+                                    }, -- end of [12]
+                                    [13] =
+                                    {
+                                        ["heading"] = 2.7227136331112,
+                                        ["name"] = "DictKey_UnitName_566",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 207,
+                                        ["x"] = 119999.25714285,
+                                        ["y"] = 14023.234857142,
+                                    }, -- end of [13]
+                                    [14] =
+                                    {
+                                        ["heading"] = 2.8448866807508,
+                                        ["name"] = "DictKey_UnitName_567",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 208,
+                                        ["x"] = 120232.94771428,
+                                        ["y"] = 14492.435428571,
+                                    }, -- end of [14]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 120231.82285714,
+                                ["y"] = 14219.957142857,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["vehicle"]
                 }, -- end of [4]
                 [5] =
                 {
@@ -10688,7 +10955,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 10266,
+    ["currentKey"] = 12195,
     ["date"] =
     {
         ["Day"] = 1,
@@ -13926,11 +14193,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 1071.4285714286,
-        ["centerY"] = -72857.142857143,
-        ["zoom"] = 2500000,
+        ["centerX"] = 13265.230428572,
+        ["centerY"] = 37477.075142856,
+        ["zoom"] = 1033759,
     }, -- end of ["map"]
-    ["maxDictId"] = 520,
+    ["maxDictId"] = 567,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -13993,13 +14260,15 @@ E057 28 169",
     {
         ["actions"] =
         {
-            [1] = "a_group_on(151);a_group_on(150); mission.trig.func[1]=nil;",
-            [2] = "a_group_off(151);a_group_off(150); mission.trig.func[2]=nil;",
+            [1] = "a_group_off(151);a_group_off(150);a_group_off(156); mission.trig.func[1]=nil;",
+            [2] = "a_group_on(151);a_group_on(150); mission.trig.func[2]=nil;",
+            [3] = "a_group_on(156); mission.trig.func[3]=nil;",
         }, -- end of ["actions"]
         ["conditions"] =
         {
-            [1] = "return(c_part_of_coalition_in_zone(\"red\", 2082) )",
-            [2] = "return(c_coalition_has_airdrome(2, 4) )",
+            [1] = "return(c_coalition_has_airdrome(2, 4) )",
+            [2] = "return(c_part_of_coalition_in_zone(\"red\", 2082) )",
+            [3] = "return(c_part_of_coalition_in_zone(\"blue\", 2141) )",
         }, -- end of ["conditions"]
         ["custom"] =
         {
@@ -14014,11 +14283,13 @@ E057 28 169",
         {
             [1] = true,
             [2] = true,
+            [3] = true,
         }, -- end of ["flag"]
         ["func"] =
         {
             [1] = "if mission.trig.conditions[1]() then mission.trig.actions[1]() end",
             [2] = "if mission.trig.conditions[2]() then mission.trig.actions[2]() end",
+            [3] = "if mission.trig.conditions[3]() then mission.trig.actions[3]() end",
         }, -- end of ["func"]
         ["funcStartup"] =
         {
@@ -14044,11 +14315,76 @@ E057 28 169",
                 ["y"] = -139722.212,
                 ["zoneId"] = 2082,
             }, -- end of [1]
+            [2] =
+            {
+                ["color"] =
+                {
+                    [1] = 1,
+                    [2] = 0,
+                    [3] = 0,
+                    [4] = 0.14901960784314,
+                }, -- end of ["color"]
+                ["hidden"] = false,
+                ["name"] = "Bandar Abbas SA-10 AI ON",
+                ["radius"] = 121920,
+                ["x"] = 118355.32571429,
+                ["y"] = 13853.066571428,
+                ["zoneId"] = 2141,
+            }, -- end of [2]
         }, -- end of ["zones"]
     }, -- end of ["triggers"]
     ["trigrules"] =
     {
         [1] =
+        {
+            ["actions"] =
+            {
+                [1] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 151,
+                    ["predicate"] = "a_group_off",
+                }, -- end of [1]
+                [2] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 150,
+                    ["predicate"] = "a_group_off",
+                }, -- end of [2]
+                [3] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 156,
+                    ["predicate"] = "a_group_off",
+                }, -- end of [3]
+            }, -- end of ["actions"]
+            ["comment"] = "AI off start",
+            ["eventlist"] = "",
+            ["predicate"] = "triggerOnce",
+            ["rules"] =
+            {
+                [1] =
+                {
+                    ["airdromelist"] = 4,
+                    ["coalitionlist"] = 2,
+                    ["predicate"] = "c_coalition_has_airdrome",
+                    ["zone"] = 2082,
+                }, -- end of [1]
+            }, -- end of ["rules"]
+        }, -- end of [1]
+        [2] =
         {
             ["actions"] =
             {
@@ -14085,8 +14421,8 @@ E057 28 169",
                     ["zone"] = 2082,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [1]
-        [2] =
+        }, -- end of [2]
+        [3] =
         {
             ["actions"] =
             {
@@ -14097,34 +14433,23 @@ E057 28 169",
                         [1] = "",
                         [2] = "",
                     }, -- end of ["ai_task"]
-                    ["group"] = 151,
-                    ["predicate"] = "a_group_off",
+                    ["group"] = 156,
+                    ["predicate"] = "a_group_on",
                 }, -- end of [1]
-                [2] =
-                {
-                    ["ai_task"] =
-                    {
-                        [1] = "",
-                        [2] = "",
-                    }, -- end of ["ai_task"]
-                    ["group"] = 150,
-                    ["predicate"] = "a_group_off",
-                }, -- end of [2]
             }, -- end of ["actions"]
-            ["comment"] = "AI off start",
+            ["comment"] = "RED Bandar SA10 AI On",
             ["eventlist"] = "",
             ["predicate"] = "triggerOnce",
             ["rules"] =
             {
                 [1] =
                 {
-                    ["airdromelist"] = 4,
-                    ["coalitionlist"] = 2,
-                    ["predicate"] = "c_coalition_has_airdrome",
-                    ["zone"] = 2082,
+                    ["coalitionlist"] = "blue",
+                    ["predicate"] = "c_part_of_coalition_in_zone",
+                    ["zone"] = 2141,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [2]
+        }, -- end of [3]
     }, -- end of ["trigrules"]
     ["version"] = 15,
     ["weather"] =
