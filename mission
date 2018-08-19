@@ -868,6 +868,143 @@ mission =
                 {
                     ["id"] = 2,
                     ["name"] = "USA",
+                    ["ship"] =
+                    {
+                        ["group"] =
+                        {
+                            [1] =
+                            {
+                                ["groupId"] = 154,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_515",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_517",
+                                            ["speed"] = 10.277777777778,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "ActivateBeacon",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["AA"] = false,
+                                                                        ["bearing"] = true,
+                                                                        ["callsign"] = "C74",
+                                                                        ["channel"] = 74,
+                                                                        ["frequency"] = 1161000000,
+                                                                        ["modeChannel"] = "X",
+                                                                        ["system"] = 3,
+                                                                        ["type"] = 4,
+                                                                        ["unitId"] = 168,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -224356.41771429,
+                                            ["y"] = 220233.13914286,
+                                        }, -- end of [1]
+                                        [2] =
+                                        {
+                                            ["ETA"] = 28389.252399907,
+                                            ["ETA_locked"] = false,
+                                            ["action"] = "Turning Point",
+                                            ["alt"] = 0,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_519",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = -128737.42571429,
+                                            ["y"] = 94805.878857143,
+                                        }, -- end of [2]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["frequency"] = 127500000,
+                                        ["heading"] = 5.3637449289973,
+                                        ["modulation"] = 0,
+                                        ["name"] = "DictKey_UnitName_516",
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Stennis",
+                                        ["unitId"] = 168,
+                                        ["x"] = -224356.41771429,
+                                        ["y"] = 220233.13914286,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["frequency"] = 127500000,
+                                        ["heading"] = 5.3637449289973,
+                                        ["modulation"] = 0,
+                                        ["name"] = "DictKey_UnitName_518",
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "TICONDEROG",
+                                        ["unitId"] = 169,
+                                        ["x"] = -211332.13285714,
+                                        ["y"] = 224494.20314286,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = -224356.41771429,
+                                ["y"] = 220233.13914286,
+                            }, -- end of [1]
+                        }, -- end of ["group"]
+                    }, -- end of ["ship"]
                     ["static"] =
                     {
                         ["group"] =
@@ -10551,7 +10688,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 9609,
+    ["currentKey"] = 10266,
     ["date"] =
     {
         ["Day"] = 1,
@@ -13789,11 +13926,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -78754.285142853,
-        ["centerY"] = -81944.114,
-        ["zoom"] = 1174844,
+        ["centerX"] = 1071.4285714286,
+        ["centerY"] = -72857.142857143,
+        ["zoom"] = 2500000,
     }, -- end of ["map"]
-    ["maxDictId"] = 514,
+    ["maxDictId"] = 520,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
