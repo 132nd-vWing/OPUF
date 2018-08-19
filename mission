@@ -10854,6 +10854,618 @@ E057 28 169",
                                 ["x"] = 120231.82285714,
                                 ["y"] = 14219.957142857,
                             }, -- end of [1]
+                            [2] =
+                            {
+                                ["groupId"] = 157,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_568",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 793,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_586",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 168421.31171429,
+                                            ["y"] = -178898.46657143,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 2.6703537555513,
+                                        ["name"] = "DictKey_UnitName_569",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 1S91 str",
+                                        ["unitId"] = 209,
+                                        ["x"] = 168421.31171429,
+                                        ["y"] = -178898.46657143,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 2.3561944901923,
+                                        ["name"] = "DictKey_UnitName_570",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 210,
+                                        ["x"] = 168207.68885715,
+                                        ["y"] = -179295.58514286,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 3.1415926535898,
+                                        ["name"] = "DictKey_UnitName_571",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 211,
+                                        ["x"] = 168256.24457143,
+                                        ["y"] = -179127.826,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 3.1415926535898,
+                                        ["name"] = "DictKey_UnitName_572",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 212,
+                                        ["x"] = 168307.67028572,
+                                        ["y"] = -179021.83885715,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 4.6600291028249,
+                                        ["name"] = "DictKey_UnitName_573",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 213,
+                                        ["x"] = 168403.57028572,
+                                        ["y"] = -178824.06828572,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_574",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375 PBU",
+                                        ["unitId"] = 214,
+                                        ["x"] = 168391.63971429,
+                                        ["y"] = -178958.25514286,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_575",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZIL-131 KUNG",
+                                        ["unitId"] = 215,
+                                        ["x"] = 168398.05400001,
+                                        ["y"] = -178957.61371429,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_576",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 216,
+                                        ["x"] = 168385.31171429,
+                                        ["y"] = -178963.60942856,
+                                    }, -- end of [8]
+                                    [9] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_577",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 217,
+                                        ["x"] = 168400.74800001,
+                                        ["y"] = -178812.52257143,
+                                    }, -- end of [9]
+                                    [10] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_578",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "GAZ-66",
+                                        ["unitId"] = 218,
+                                        ["x"] = 168312.23085715,
+                                        ["y"] = -179017.13828572,
+                                    }, -- end of [10]
+                                    [11] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_579",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "GAZ-66",
+                                        ["unitId"] = 219,
+                                        ["x"] = 168400.36314287,
+                                        ["y"] = -178925.79885715,
+                                    }, -- end of [11]
+                                    [12] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_580",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 220,
+                                        ["x"] = 168438.84885715,
+                                        ["y"] = -178887.82628572,
+                                    }, -- end of [12]
+                                    [13] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_581",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 221,
+                                        ["x"] = 168445.13485715,
+                                        ["y"] = -178887.95457143,
+                                    }, -- end of [13]
+                                    [14] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_582",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 222,
+                                        ["x"] = 168452.70371429,
+                                        ["y"] = -178887.56971429,
+                                    }, -- end of [14]
+                                    [15] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_583",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 223,
+                                        ["x"] = 168459.24628572,
+                                        ["y"] = -178887.44142857,
+                                    }, -- end of [15]
+                                    [16] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_584",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "ATMZ-5",
+                                        ["unitId"] = 224,
+                                        ["x"] = 168422.55657144,
+                                        ["y"] = -178905.658,
+                                    }, -- end of [16]
+                                    [17] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_585",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "ATMZ-5",
+                                        ["unitId"] = 225,
+                                        ["x"] = 168462.83828572,
+                                        ["y"] = -178894.11228572,
+                                    }, -- end of [17]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 168421.31171429,
+                                ["y"] = -178898.46657143,
+                            }, -- end of [2]
+                            [3] =
+                            {
+                                ["groupId"] = 159,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_601",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 1485,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_619",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 377736.006,
+                                            ["y"] = -347968.47,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 2.6703537555513,
+                                        ["name"] = "DictKey_UnitName_602",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 1S91 str",
+                                        ["unitId"] = 238,
+                                        ["x"] = 377736.006,
+                                        ["y"] = -347968.47,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 2.7052603405912,
+                                        ["name"] = "DictKey_UnitName_603",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 239,
+                                        ["x"] = 377587.29714286,
+                                        ["y"] = -348013.13342857,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 2.757620218151,
+                                        ["name"] = "DictKey_UnitName_604",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 240,
+                                        ["x"] = 377700.36342857,
+                                        ["y"] = -347906.10628571,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 2.775073510671,
+                                        ["name"] = "DictKey_UnitName_605",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 241,
+                                        ["x"] = 377705.99085714,
+                                        ["y"] = -347889.27828571,
+                                    }, -- end of [4]
+                                    [5] =
+                                    {
+                                        ["heading"] = 2.8448866807508,
+                                        ["name"] = "DictKey_UnitName_606",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Kub 2P25 ln",
+                                        ["unitId"] = 242,
+                                        ["x"] = 377697.50828571,
+                                        ["y"] = -347779.08057143,
+                                    }, -- end of [5]
+                                    [6] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_607",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375 PBU",
+                                        ["unitId"] = 243,
+                                        ["x"] = 377743.42885714,
+                                        ["y"] = -347983.48771428,
+                                    }, -- end of [6]
+                                    [7] =
+                                    {
+                                        ["heading"] = 2.3038346126325,
+                                        ["name"] = "DictKey_UnitName_608",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "ZIL-131 KUNG",
+                                        ["unitId"] = 244,
+                                        ["x"] = 377751.33085714,
+                                        ["y"] = -347972.98942857,
+                                    }, -- end of [7]
+                                    [8] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_609",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 245,
+                                        ["x"] = 377699.07228571,
+                                        ["y"] = -347807.84314286,
+                                    }, -- end of [8]
+                                    [9] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_610",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Ural-375",
+                                        ["unitId"] = 246,
+                                        ["x"] = 377696.38742857,
+                                        ["y"] = -347913.962,
+                                    }, -- end of [9]
+                                    [10] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_611",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "GAZ-66",
+                                        ["unitId"] = 247,
+                                        ["x"] = 377739.83942857,
+                                        ["y"] = -347956.69285714,
+                                    }, -- end of [10]
+                                    [11] =
+                                    {
+                                        ["heading"] = 0.5235987755983,
+                                        ["name"] = "DictKey_UnitName_612",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "GAZ-66",
+                                        ["unitId"] = 248,
+                                        ["x"] = 377592.51257143,
+                                        ["y"] = -348017.91657143,
+                                    }, -- end of [11]
+                                    [12] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_613",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 249,
+                                        ["x"] = 377760.094,
+                                        ["y"] = -347934.09914286,
+                                    }, -- end of [12]
+                                    [13] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_614",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 250,
+                                        ["x"] = 377765.10428571,
+                                        ["y"] = -347936.76085714,
+                                    }, -- end of [13]
+                                    [14] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_615",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 251,
+                                        ["x"] = 377770.58428571,
+                                        ["y"] = -347940.67514286,
+                                    }, -- end of [14]
+                                    [15] =
+                                    {
+                                        ["heading"] = 1.5707963267949,
+                                        ["name"] = "DictKey_UnitName_616",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "KAMAZ Truck",
+                                        ["unitId"] = 252,
+                                        ["x"] = 377776.84714286,
+                                        ["y"] = -347945.99857143,
+                                    }, -- end of [15]
+                                    [16] =
+                                    {
+                                        ["heading"] = 0.83775804095728,
+                                        ["name"] = "DictKey_UnitName_617",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "ATMZ-5",
+                                        ["unitId"] = 253,
+                                        ["x"] = 377706.23342857,
+                                        ["y"] = -347914.21457143,
+                                    }, -- end of [16]
+                                    [17] =
+                                    {
+                                        ["heading"] = 5.7770398241012,
+                                        ["name"] = "DictKey_UnitName_618",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "ATMZ-5",
+                                        ["unitId"] = 254,
+                                        ["x"] = 377743.96057143,
+                                        ["y"] = -347948.794,
+                                    }, -- end of [17]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 377736.006,
+                                ["y"] = -347968.47,
+                            }, -- end of [3]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [4]
@@ -10955,7 +11567,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 12195,
+    ["currentKey"] = 12870,
     ["date"] =
     {
         ["Day"] = 1,
@@ -14193,11 +14805,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 13265.230428572,
-        ["centerY"] = 37477.075142856,
-        ["zoom"] = 1033759,
+        ["centerX"] = 140552.05485714,
+        ["centerY"] = -251724.74342857,
+        ["zoom"] = 2500000,
     }, -- end of ["map"]
-    ["maxDictId"] = 567,
+    ["maxDictId"] = 619,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -14260,15 +14872,19 @@ E057 28 169",
     {
         ["actions"] =
         {
-            [1] = "a_group_off(151);a_group_off(150);a_group_off(156); mission.trig.func[1]=nil;",
+            [1] = "a_group_off(151);a_group_off(150);a_group_off(156);a_group_off(157);a_group_off(159); mission.trig.func[1]=nil;",
             [2] = "a_group_on(151);a_group_on(150); mission.trig.func[2]=nil;",
             [3] = "a_group_on(156); mission.trig.func[3]=nil;",
+            [4] = "a_group_on(157); mission.trig.func[4]=nil;",
+            [5] = "a_group_on(159); mission.trig.func[5]=nil;",
         }, -- end of ["actions"]
         ["conditions"] =
         {
             [1] = "return(c_coalition_has_airdrome(2, 4) )",
             [2] = "return(c_part_of_coalition_in_zone(\"red\", 2082) )",
             [3] = "return(c_part_of_coalition_in_zone(\"blue\", 2141) )",
+            [4] = "return(c_part_of_coalition_in_zone(\"blue\", 2200) )",
+            [5] = "return(c_part_of_coalition_in_zone(\"blue\", 2201) )",
         }, -- end of ["conditions"]
         ["custom"] =
         {
@@ -14284,12 +14900,16 @@ E057 28 169",
             [1] = true,
             [2] = true,
             [3] = true,
+            [4] = true,
+            [5] = true,
         }, -- end of ["flag"]
         ["func"] =
         {
             [1] = "if mission.trig.conditions[1]() then mission.trig.actions[1]() end",
             [2] = "if mission.trig.conditions[2]() then mission.trig.actions[2]() end",
             [3] = "if mission.trig.conditions[3]() then mission.trig.actions[3]() end",
+            [4] = "if mission.trig.conditions[4]() then mission.trig.actions[4]() end",
+            [5] = "if mission.trig.conditions[5]() then mission.trig.actions[5]() end",
         }, -- end of ["func"]
         ["funcStartup"] =
         {
@@ -14331,6 +14951,38 @@ E057 28 169",
                 ["y"] = 13853.066571428,
                 ["zoneId"] = 2141,
             }, -- end of [2]
+            [3] =
+            {
+                ["color"] =
+                {
+                    [1] = 1,
+                    [2] = 0,
+                    [3] = 0,
+                    [4] = 0.14901960784314,
+                }, -- end of ["color"]
+                ["hidden"] = false,
+                ["name"] = "IRAN Air Defence zone WEST",
+                ["radius"] = 152400,
+                ["x"] = 163949.26714287,
+                ["y"] = -179431.18942857,
+                ["zoneId"] = 2200,
+            }, -- end of [3]
+            [4] =
+            {
+                ["color"] =
+                {
+                    [1] = 1,
+                    [2] = 0,
+                    [3] = 0,
+                    [4] = 0.14901960784314,
+                }, -- end of ["color"]
+                ["hidden"] = false,
+                ["name"] = "Shiraz Air Defence zone",
+                ["radius"] = 91440,
+                ["x"] = 374683.06857143,
+                ["y"] = -352863.62714286,
+                ["zoneId"] = 2201,
+            }, -- end of [4]
         }, -- end of ["zones"]
     }, -- end of ["triggers"]
     ["trigrules"] =
@@ -14369,6 +15021,26 @@ E057 28 169",
                     ["group"] = 156,
                     ["predicate"] = "a_group_off",
                 }, -- end of [3]
+                [4] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 157,
+                    ["predicate"] = "a_group_off",
+                }, -- end of [4]
+                [5] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 159,
+                    ["predicate"] = "a_group_off",
+                }, -- end of [5]
             }, -- end of ["actions"]
             ["comment"] = "AI off start",
             ["eventlist"] = "",
@@ -14450,6 +15122,62 @@ E057 28 169",
                 }, -- end of [1]
             }, -- end of ["rules"]
         }, -- end of [3]
+        [4] =
+        {
+            ["actions"] =
+            {
+                [1] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 157,
+                    ["predicate"] = "a_group_on",
+                }, -- end of [1]
+            }, -- end of ["actions"]
+            ["comment"] = "RED LAR SA6 AI On",
+            ["eventlist"] = "",
+            ["predicate"] = "triggerOnce",
+            ["rules"] =
+            {
+                [1] =
+                {
+                    ["coalitionlist"] = "blue",
+                    ["predicate"] = "c_part_of_coalition_in_zone",
+                    ["zone"] = 2200,
+                }, -- end of [1]
+            }, -- end of ["rules"]
+        }, -- end of [4]
+        [5] =
+        {
+            ["actions"] =
+            {
+                [1] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
+                    ["group"] = 159,
+                    ["predicate"] = "a_group_on",
+                }, -- end of [1]
+            }, -- end of ["actions"]
+            ["comment"] = "RED Shiraz SA6 AI On",
+            ["eventlist"] = "",
+            ["predicate"] = "triggerOnce",
+            ["rules"] =
+            {
+                [1] =
+                {
+                    ["coalitionlist"] = "blue",
+                    ["predicate"] = "c_part_of_coalition_in_zone",
+                    ["zone"] = 2201,
+                }, -- end of [1]
+            }, -- end of ["rules"]
+        }, -- end of [5]
     }, -- end of ["trigrules"]
     ["version"] = 15,
     ["weather"] =
