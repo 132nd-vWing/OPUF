@@ -2723,12 +2723,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -102207.24457143,
-                                            ["y"] = -224611.54971428,
+                                            ["x"] = -135667.40857143,
+                                            ["y"] = -237095.40428571,
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 476.47148535531,
+                                            ["ETA"] = 411.95943464331,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -2748,8 +2748,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -55578.635428571,
-                                            ["y"] = -144094.38857143,
+                                            ["x"] = -86833.519428572,
+                                            ["y"] = -157918.12771428,
                                         }, -- end of [2]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -2773,7 +2773,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Shell11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 1.0458758202071,
+                                        ["heading"] = 1.0181396751523,
                                         ["livery_id"] = "132nd Tanker service",
                                         ["name"] = "DictKey_UnitName_508",
                                         ["onboard_num"] = "800",
@@ -2787,17 +2787,17 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -1.0458758202071,
+                                        ["psi"] = -1.0181396751523,
                                         ["skill"] = "High",
                                         ["speed"] = 195.27777777778,
                                         ["type"] = "IL-78M",
                                         ["unitId"] = 166,
-                                        ["x"] = -102207.24457143,
-                                        ["y"] = -224611.54971428,
+                                        ["x"] = -135667.40857143,
+                                        ["y"] = -237095.40428571,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
-                                ["x"] = -102207.24457143,
-                                ["y"] = -224611.54971428,
+                                ["x"] = -135667.40857143,
+                                ["y"] = -237095.40428571,
                             }, -- end of [2]
                             [3] =
                             {
@@ -17888,7 +17888,7 @@ mission =
                 }, -- end of [17]
                 [18] =
                 {
-                    ["callsignStr"] = "BANDARLENHEG",
+                    ["callsignStr"] = "BANDARLENGEH",
                     ["comment"] = "",
                     ["id"] = 319,
                     ["properties"] =
@@ -21292,6 +21292,38 @@ E057 28 169",
                     ["x"] = 160160.12371428,
                     ["y"] = 122079.91028571,
                 }, -- end of [219]
+                [220] =
+                {
+                    ["callsignStr"] = "MASAFI Log Base",
+                    ["comment"] = "",
+                    ["id"] = 2320,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -86172.451714286,
+                    ["y"] = -7563.9365714284,
+                }, -- end of [220]
+                [221] =
+                {
+                    ["callsignStr"] = "FOB BLACKFOOT",
+                    ["comment"] = "",
+                    ["id"] = 2379,
+                    ["properties"] =
+                    {
+                        ["angle"] = 0,
+                        ["scale"] = 0,
+                        ["steer"] = 2,
+                        ["vangle"] = 0,
+                        ["vnav"] = 1,
+                    }, -- end of ["properties"]
+                    ["x"] = -112190.36628571,
+                    ["y"] = 8150.3022857145,
+                }, -- end of [221]
             }, -- end of ["nav_points"]
         }, -- end of ["blue"]
         ["red"] =
@@ -22300,7 +22332,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 26863,
+    ["currentKey"] = 29698,
     ["date"] =
     {
         ["Day"] = 1,
@@ -25538,9 +25570,9 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -194232.15842857,
-        ["centerY"] = -199864.41285714,
-        ["zoom"] = 830293,
+        ["centerX"] = -116605.794,
+        ["centerY"] = 144804.98,
+        ["zoom"] = 1685222,
     }, -- end of ["map"]
     ["maxDictId"] = 898,
     ["pictureFileNameB"] =
