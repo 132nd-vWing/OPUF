@@ -1,7 +1,6 @@
 # OPUF
 Operation URGENT FURY
 
-
 Latest build can be found here: https://ci.appveyor.com/project/132nd-VirtualWing/opuf/build/artifacts
 
 The whole build history can be found here: https://ci.appveyor.com/project/132nd-VirtualWing/opuf/history
