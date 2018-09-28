@@ -160,6 +160,7 @@ ctld.pickupZones = {
 	{ "log MASAFI", "none", -1, "yes", 0 },
 	{ "FOB Blackfoot", "none", -1, "yes", 0 },
 	{ "Fujairah", "none", -1, "yes", 0 },
+	{ "FARP LONDON", "none", -1, "yes", 0 },
  
 }
 
