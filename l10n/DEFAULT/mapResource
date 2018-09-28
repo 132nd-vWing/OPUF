@@ -1,3 +1,6 @@
 mapResource = 
 {
+    ["ResKey_Action_1906"] = "CTLD.lua",
+    ["ResKey_Action_1907"] = "beacon.ogg",
+    ["ResKey_Action_1908"] = "beaconsilent.ogg",
 } -- end of mapResource
