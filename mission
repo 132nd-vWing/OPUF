@@ -2520,10 +2520,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
-                                            [2] = 1,
+                                            [1] = 2,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Springfield31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -2578,12 +2578,6 @@ mission =
                                             ["helipadId"] = 256,
                                             ["linkUnit"] = 256,
                                             ["name"] = "DictKey_WptName_633",
-                                            ["properties"] =
-                                            {
-                                                ["addopt"] =
-                                                {
-                                                }, -- end of ["addopt"]
-                                            }, -- end of ["properties"]
                                             ["speed"] = 41.666666666667,
                                             ["speed_locked"] = true,
                                             ["task"] =
@@ -2672,10 +2666,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
-                                            [2] = 1,
+                                            [1] = 2,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Springfield51",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -2730,12 +2724,6 @@ mission =
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_781",
-                                            ["properties"] =
-                                            {
-                                                ["addopt"] =
-                                                {
-                                                }, -- end of ["addopt"]
-                                            }, -- end of ["properties"]
                                             ["speed"] = 41.666666666667,
                                             ["speed_locked"] = true,
                                             ["task"] =
@@ -2824,10 +2812,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
+                                            [1] = 1,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -2970,10 +2958,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
-                                            [2] = 1,
+                                            [1] = 1,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Enfield21",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -3116,10 +3104,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
-                                            [2] = 1,
+                                            [1] = 1,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Enfield31",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -3262,10 +3250,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
-                                            [2] = 1,
+                                            [1] = 1,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Enfield41",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -3321,12 +3309,6 @@ mission =
                                             ["helipadId"] = 256,
                                             ["linkUnit"] = 256,
                                             ["name"] = "DictKey_WptName_796",
-                                            ["properties"] =
-                                            {
-                                                ["addopt"] =
-                                                {
-                                                }, -- end of ["addopt"]
-                                            }, -- end of ["properties"]
                                             ["speed"] = 41.666666666667,
                                             ["speed_locked"] = true,
                                             ["task"] =
@@ -3415,10 +3397,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
-                                            [2] = 1,
+                                            [1] = 2,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Springfield61",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -3474,12 +3456,6 @@ mission =
                                             ["helipadId"] = 256,
                                             ["linkUnit"] = 256,
                                             ["name"] = "DictKey_WptName_799",
-                                            ["properties"] =
-                                            {
-                                                ["addopt"] =
-                                                {
-                                                }, -- end of ["addopt"]
-                                            }, -- end of ["properties"]
                                             ["speed"] = 41.666666666667,
                                             ["speed_locked"] = true,
                                             ["task"] =
@@ -3568,10 +3544,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
-                                            [2] = 1,
+                                            [1] = 2,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Springfield71",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -3627,12 +3603,6 @@ mission =
                                             ["helipadId"] = 256,
                                             ["linkUnit"] = 256,
                                             ["name"] = "DictKey_WptName_802",
-                                            ["properties"] =
-                                            {
-                                                ["addopt"] =
-                                                {
-                                                }, -- end of ["addopt"]
-                                            }, -- end of ["properties"]
                                             ["speed"] = 41.666666666667,
                                             ["speed_locked"] = true,
                                             ["task"] =
@@ -3721,10 +3691,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 3,
-                                            [2] = 1,
+                                            [1] = 2,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Uzi11",
+                                            ["name"] = "Springfield81",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
@@ -3871,10 +3841,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
-                                            [2] = 1,
+                                            [1] = 2,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Springfield41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -4020,10 +3990,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
+                                            [1] = 2,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -4169,10 +4139,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
-                                            [2] = 1,
+                                            [1] = 2,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Springfield21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -4318,9 +4288,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 1,
-                                            [2] = 1,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Enfield81",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -4466,9 +4436,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 1,
-                                            [2] = 1,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Enfield71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -4614,9 +4584,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 1,
-                                            [2] = 1,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Enfield51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -4762,9 +4732,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 1,
-                                            [2] = 1,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Enfield61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 696th Standard",
@@ -5519,10 +5489,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 10,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar81",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -5653,10 +5623,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 10,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -5787,10 +5757,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 10,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -5921,10 +5891,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 10,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -6055,10 +6025,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 10,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -6189,10 +6159,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 10,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -6323,10 +6293,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
+                                            [1] = 10,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -6457,10 +6427,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 10,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Boar21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "132 617th Standard skin",
@@ -6642,9 +6612,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -6826,9 +6796,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -7010,9 +6980,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -7194,9 +7164,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -7378,9 +7348,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -7562,9 +7532,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -7746,9 +7716,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -7930,9 +7900,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 8,
-                                            [2] = 1,
+                                            [2] = 9,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Pontiac91",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -8113,10 +8083,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
+                                            [1] = 7,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -8297,10 +8267,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -8481,10 +8451,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -9821,9 +9791,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 11,
-                                            [2] = 1,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Pig11",
+                                            ["name"] = "Pig51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "66th WS Nellis AFB, Nevada (WA)",
@@ -9955,9 +9925,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 11,
-                                            [2] = 1,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Pig11",
+                                            ["name"] = "Pig71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "66th WS Nellis AFB, Nevada (WA)",
@@ -10013,9 +9983,6 @@ mission =
                                             ["name"] = "DictKey_WptName_691",
                                             ["properties"] =
                                             {
-                                                ["addopt"] =
-                                                {
-                                                }, -- end of ["addopt"]
                                                 ["angle"] = 0,
                                                 ["scale"] = 0,
                                                 ["steer"] = 2,
@@ -10092,9 +10059,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 11,
-                                            [2] = 1,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Pig11",
+                                            ["name"] = "Pig61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "66th WS Nellis AFB, Nevada (WA)",
@@ -10226,9 +10193,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 11,
-                                            [2] = 1,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Pig11",
+                                            ["name"] = "Pig41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "66th WS Nellis AFB, Nevada (WA)",
@@ -10409,10 +10376,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 5,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Dodge21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -10593,10 +10560,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 5,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Dodge31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -10777,10 +10744,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
+                                            [1] = 5,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Dodge11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -10961,10 +10928,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 9,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford91",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -11145,10 +11112,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -11329,10 +11296,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -11513,10 +11480,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -11697,10 +11664,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -11881,10 +11848,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 9,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy91",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -12065,10 +12032,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy81",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -12249,10 +12216,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -12433,10 +12400,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
+                                            [1] = 6,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -12617,10 +12584,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -12801,10 +12768,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -12985,10 +12952,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -13169,10 +13136,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 7,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Chevy61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "VMFA-531",
@@ -13304,9 +13271,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk81",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -13438,9 +13405,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 9,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk91",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -13571,10 +13538,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
+                                            [1] = 11,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Pig11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -13705,10 +13672,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 11,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Pig21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -13840,9 +13807,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -13974,9 +13941,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -14381,10 +14348,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford81",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -14565,10 +14532,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 8,
-                                            [2] = 1,
+                                            [1] = 6,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Pontiac11",
+                                            ["name"] = "Ford71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3633001003597,
                                         ["livery_id"] = "132_494",
@@ -14700,9 +14667,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -14968,9 +14935,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -15102,9 +15069,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -15236,9 +15203,9 @@ mission =
                                         ["callsign"] =
                                         {
                                             [1] = 12,
-                                            [2] = 1,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Tusk41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -15369,10 +15336,10 @@ mission =
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 12,
-                                            [2] = 1,
+                                            [1] = 11,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Tusk11",
+                                            ["name"] = "Pig31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 0,
                                         ["livery_id"] = "184th FS Arkansas ANG, Fort Smith (FS)",
@@ -15403,6 +15370,274 @@ mission =
                                 ["x"] = -210415.84375,
                                 ["y"] = -173107.4375,
                             }, -- end of [38]
+                            [39] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 251,
+                                ["groupId"] = 597,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_2600",
+                                ["radioSet"] = false,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 12,
+                                            ["alt"] = 53,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_2602",
+                                            ["properties"] =
+                                            {
+                                                ["angle"] = 0,
+                                                ["scale"] = 0,
+                                                ["steer"] = 2,
+                                                ["vangle"] = 0,
+                                                ["vnav"] = 1,
+                                            }, -- end of ["properties"]
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAS",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Helicopters",
+                                                                    [2] = "Ground Units",
+                                                                    [3] = "Light armed ships",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 6,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -126252.84289551,
+                                            ["y"] = -89459.989013672,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAS",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["alt"] = 53,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 11,
+                                            [2] = 8,
+                                            [3] = 1,
+                                            ["name"] = "Pig81",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 0,
+                                        ["livery_id"] = "66th WS Nellis AFB, Nevada (WA)",
+                                        ["name"] = "DictKey_UnitName_2601",
+                                        ["onboard_num"] = "500",
+                                        ["parking"] = 8,
+                                        ["parking_id"] = "35",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 240,
+                                            ["flare"] = 120,
+                                            ["fuel"] = 5029,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "A-10C",
+                                        ["unitId"] = 805,
+                                        ["x"] = -126252.84289551,
+                                        ["y"] = -89459.989013672,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -126252.84289551,
+                                ["y"] = -89459.989013672,
+                            }, -- end of [39]
+                            [40] =
+                            {
+                                ["communication"] = true,
+                                ["frequency"] = 251,
+                                ["groupId"] = 598,
+                                ["hidden"] = false,
+                                ["modulation"] = 0,
+                                ["name"] = "DictKey_GroupName_2603",
+                                ["radioSet"] = false,
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "From Parking Area",
+                                            ["airdromeId"] = 12,
+                                            ["alt"] = 53,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_2605",
+                                            ["properties"] =
+                                            {
+                                                ["angle"] = 0,
+                                                ["scale"] = 0,
+                                                ["steer"] = 2,
+                                                ["vangle"] = 0,
+                                                ["vnav"] = 1,
+                                            }, -- end of ["properties"]
+                                            ["speed"] = 138.88888888889,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "EngageTargets",
+                                                            ["key"] = "CAS",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["priority"] = 0,
+                                                                ["targetTypes"] =
+                                                                {
+                                                                    [1] = "Helicopters",
+                                                                    [2] = "Ground Units",
+                                                                    [3] = "Light armed ships",
+                                                                }, -- end of ["targetTypes"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = true,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "EPLRS",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["groupId"] = 6,
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "TakeOffParking",
+                                            ["x"] = -126353.33312988,
+                                            ["y"] = -89500.376831055,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "CAS",
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrolled"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["alt"] = 53,
+                                        ["alt_type"] = "BARO",
+                                        ["callsign"] =
+                                        {
+                                            [1] = 11,
+                                            [2] = 9,
+                                            [3] = 1,
+                                            ["name"] = "Pig91",
+                                        }, -- end of ["callsign"]
+                                        ["heading"] = 0,
+                                        ["livery_id"] = "66th WS Nellis AFB, Nevada (WA)",
+                                        ["name"] = "DictKey_UnitName_2604",
+                                        ["onboard_num"] = "500",
+                                        ["parking"] = 13,
+                                        ["parking_id"] = "34",
+                                        ["payload"] =
+                                        {
+                                            ["ammo_type"] = 1,
+                                            ["chaff"] = 240,
+                                            ["flare"] = 120,
+                                            ["fuel"] = 5029,
+                                            ["gun"] = 100,
+                                            ["pylons"] =
+                                            {
+                                            }, -- end of ["pylons"]
+                                        }, -- end of ["payload"]
+                                        ["psi"] = 0,
+                                        ["skill"] = "Client",
+                                        ["speed"] = 138.88888888889,
+                                        ["type"] = "A-10C",
+                                        ["unitId"] = 806,
+                                        ["x"] = -126353.33312988,
+                                        ["y"] = -89500.376831055,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = -126353.33312988,
+                                ["y"] = -89500.376831055,
+                            }, -- end of [40]
                         }, -- end of ["group"]
                     }, -- end of ["plane"]
                     ["ship"] =
@@ -33883,10 +34118,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Colt31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0736496642089,
                                         ["livery_id"] = "IRIAF - Standard",
@@ -34056,10 +34291,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 9,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Uzi91",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0824277009757,
                                         ["livery_id"] = "IR IRIAF 43rd TFS",
@@ -34252,10 +34487,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 3,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Uzi31",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0846318357514,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -34388,10 +34623,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
+                                            [1] = 3,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Uzi11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0854424162049,
                                         ["livery_id"] = "DDS_AJS37_Desert_Red",
@@ -34659,10 +34894,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Uzi21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0842204341534,
                                         ["livery_id"] = "DDS_AJS37_Desert_Red",
@@ -34854,10 +35089,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Uzi51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0842154232789,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -35049,10 +35284,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Uzi71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0821951151604,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -35244,10 +35479,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Uzi41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0827814472667,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -35439,10 +35674,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Uzi61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0838445385711,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -35634,10 +35869,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 3,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Uzi81",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0834693809065,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -35792,10 +36027,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 2,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Colt21",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0739860497958,
                                         ["livery_id"] = "IRIAF - Standard",
@@ -35965,10 +36200,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
+                                            [1] = 4,
                                             [2] = 1,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Colt11",
                                         }, -- end of ["callsign"]
                                         ["heading"] = -3.0807619362119,
                                         ["livery_id"] = "IR IRIAF 43rd TFS",
@@ -36161,10 +36396,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Colt71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3530441840399,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -36356,10 +36591,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 8,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Colt81",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.352985323788,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -36551,10 +36786,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Colt61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3530327452394,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -36746,10 +36981,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Colt51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3530750140842,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -36882,10 +37117,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Colt41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 1.3530430991184,
                                         ["livery_id"] = "DDS_AJS37_Desert_Red",
@@ -37077,10 +37312,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 5,
+                                            [2] = 4,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Dodge41",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 2.0178280513458,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -37272,10 +37507,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 5,
+                                            [2] = 7,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Dodge71",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 2.0181060096468,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -37467,10 +37702,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 5,
+                                            [2] = 5,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Dodge51",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 2.0179440792124,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -37662,10 +37897,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 2,
-                                            [2] = 1,
+                                            [1] = 5,
+                                            [2] = 6,
                                             [3] = 1,
-                                            ["name"] = "Springfield11",
+                                            ["name"] = "Dodge61",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 2.0180447126939,
                                         ["livery_id"] = "132nd IRIAF M2000C",
@@ -37798,10 +38033,10 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
                                         {
-                                            [1] = 1,
-                                            [2] = 1,
+                                            [1] = 4,
+                                            [2] = 9,
                                             [3] = 1,
-                                            ["name"] = "Enfield11",
+                                            ["name"] = "Colt91",
                                         }, -- end of ["callsign"]
                                         ["heading"] = 2.0175553468407,
                                         ["livery_id"] = "DDS_AJS37_Desert_Red",
@@ -53256,7 +53491,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 333413,
+    ["currentKey"] = 337641,
     ["date"] =
     {
         ["Day"] = 2,
@@ -56513,11 +56748,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 48087.573307022,
-        ["centerY"] = 39517.691273633,
-        ["zoom"] = 1012500.6209008,
+        ["centerX"] = 238363.24434993,
+        ["centerY"] = -250000,
+        ["zoom"] = 2096256.684492,
     }, -- end of ["map"]
-    ["maxDictId"] = 2599,
+    ["maxDictId"] = 2605,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
