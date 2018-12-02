@@ -30427,7 +30427,7 @@ E057 28 169",
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
                                         ["psi"] = 2.0080076996997,
-                                        ["skill"] = "High",
+                                        ["skill"] = "Good",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-5E-3",
                                         ["unitId"] = 739,
@@ -31510,7 +31510,7 @@ E057 28 169",
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
                                         ["psi"] = -1.6424120017967,
-                                        ["skill"] = "High",
+                                        ["skill"] = "Good",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-29A",
                                         ["unitId"] = 897,
@@ -31895,7 +31895,7 @@ E057 28 169",
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
                                         ["psi"] = -2.7095720961466,
-                                        ["skill"] = "High",
+                                        ["skill"] = "Good",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-29A",
                                         ["unitId"] = 902,
@@ -33107,7 +33107,7 @@ E057 28 169",
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
                                         ["psi"] = -2.457908390496,
-                                        ["skill"] = "High",
+                                        ["skill"] = "Excellent",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-29A",
                                         ["unitId"] = 908,
@@ -33472,7 +33472,7 @@ E057 28 169",
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
                                         ["psi"] = -1.6867241506114,
-                                        ["skill"] = "High",
+                                        ["skill"] = "Random",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-5E-3",
                                         ["unitId"] = 910,
@@ -39601,6 +39601,142 @@ E057 28 169",
                                 ["x"] = 8080.8844577413,
                                 ["y"] = 7889.301124414,
                             }, -- end of [19]
+                            [20] =
+                            {
+                                ["groupId"] = 685,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_2942",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 2,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_2944",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 2743.1282794034,
+                                            ["y"] = -2053.4460736701,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 5.1312680008633,
+                                        ["name"] = "DictKey_UnitName_2943",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "BTR-80",
+                                        ["unitId"] = 916,
+                                        ["x"] = 2743.1282794034,
+                                        ["y"] = -2053.4460736701,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 2743.1282794034,
+                                ["y"] = -2053.4460736701,
+                            }, -- end of [20]
+                            [21] =
+                            {
+                                ["groupId"] = 686,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_2945",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 2,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_2947",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 1203.9713647219,
+                                            ["y"] = -1809.7759067662,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 3.6302848441482,
+                                        ["name"] = "DictKey_UnitName_2946",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "BTR-80",
+                                        ["unitId"] = 917,
+                                        ["x"] = 1203.9713647219,
+                                        ["y"] = -1809.7759067662,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 1203.9713647219,
+                                ["y"] = -1809.7759067662,
+                            }, -- end of [21]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [1]
@@ -48215,7 +48351,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 395999,
+    ["currentKey"] = 404941,
     ["date"] =
     {
         ["Day"] = 2,
@@ -51429,7 +51565,7 @@ E057 28 169",
         ["immortal"] = false,
         ["labels"] = false,
         ["miniHUD"] = false,
-        ["optionsView"] = "optview_all",
+        ["optionsView"] = "optview_onlymap",
         ["padlock"] = false,
         ["radio"] = false,
         ["tips"] = false,
@@ -51472,11 +51608,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -454.54545454547,
-        ["centerY"] = -50000,
-        ["zoom"] = 3181818.1818182,
+        ["centerX"] = -7136.9577471348,
+        ["centerY"] = -37639.850655646,
+        ["zoom"] = 3135550.243096,
     }, -- end of ["map"]
-    ["maxDictId"] = 2941,
+    ["maxDictId"] = 2947,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -51575,13 +51711,14 @@ E057 28 169",
             [35] = "a_set_flag(22); mission.trig.func[35]=nil;",
             [36] = "a_ai_task(526, 1); mission.trig.func[36]=nil;",
             [37] = "a_ai_task(563, 1); mission.trig.func[37]=nil;",
-            [38] = "a_ai_task(562, 1);a_ai_task(678, 1);a_ai_task(679, 1);a_ai_task(680, 1); mission.trig.func[38]=nil;",
+            [38] = "a_ai_task(562, 1);a_ai_task(678, 1);a_ai_task(679, 1); mission.trig.func[38]=nil;",
             [39] = "a_ai_task(596, 1); mission.trig.func[39]=nil;",
             [40] = "a_ai_task(153, 2);a_ai_task(153, 1);a_ai_task(596, 2);a_ai_task(596, 3); mission.trig.func[40]=nil;",
             [41] = "a_ai_task(610, 1); mission.trig.func[41]=nil;",
             [42] = "a_ai_task(676, 1); mission.trig.func[42]=nil;",
             [43] = "a_ai_task(681, 1); mission.trig.func[43]=nil;",
             [44] = "a_ai_task(682, 1); mission.trig.func[44]=nil;",
+            [45] = "a_ai_task(680, 1); mission.trig.func[45]=nil;",
         }, -- end of ["actions"]
         ["conditions"] =
         {
@@ -51629,6 +51766,7 @@ E057 28 169",
             [42] = "return(c_time_after(4000) )",
             [43] = "return(c_part_of_group_in_zone(526, 2978) )",
             [44] = "return(c_group_life_less(678, 80) or c_group_life_less(679, 80) )",
+            [45] = "return(c_time_after(4200) )",
         }, -- end of ["conditions"]
         ["custom"] =
         {
@@ -51685,6 +51823,7 @@ E057 28 169",
             [42] = true,
             [43] = true,
             [44] = true,
+            [45] = true,
         }, -- end of ["flag"]
         ["func"] =
         {
@@ -51732,6 +51871,7 @@ E057 28 169",
             [42] = "if mission.trig.conditions[42]() then mission.trig.actions[42]() end",
             [43] = "if mission.trig.conditions[43]() then mission.trig.actions[43]() end",
             [44] = "if mission.trig.conditions[44]() then mission.trig.actions[44]() end",
+            [45] = "if mission.trig.conditions[45]() then mission.trig.actions[45]() end",
         }, -- end of ["func"]
         ["funcStartup"] =
         {
@@ -53765,15 +53905,6 @@ E057 28 169",
                     }, -- end of ["ai_task"]
                     ["predicate"] = "a_ai_task",
                 }, -- end of [3]
-                [4] =
-                {
-                    ["ai_task"] =
-                    {
-                        [1] = 680,
-                        [2] = 1,
-                    }, -- end of ["ai_task"]
-                    ["predicate"] = "a_ai_task",
-                }, -- end of [4]
             }, -- end of ["actions"]
             ["comment"] = "Start F-5 patrol Sir Abu Nuayr",
             ["eventlist"] = "",
@@ -54000,6 +54131,34 @@ E057 28 169",
                 }, -- end of [3]
             }, -- end of ["rules"]
         }, -- end of [44]
+        [45] =
+        {
+            ["actions"] =
+            {
+                [1] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = 680,
+                        [2] = 1,
+                    }, -- end of ["ai_task"]
+                    ["predicate"] = "a_ai_task",
+                }, -- end of [1]
+            }, -- end of ["actions"]
+            ["comment"] = "SU24 strike 3",
+            ["eventlist"] = "",
+            ["predicate"] = "triggerOnce",
+            ["rules"] =
+            {
+                [1] =
+                {
+                    ["coalitionlist"] = "red",
+                    ["predicate"] = "c_time_after",
+                    ["seconds"] = 4200,
+                    ["zone"] = 2735,
+                }, -- end of [1]
+            }, -- end of ["rules"]
+        }, -- end of [45]
     }, -- end of ["trigrules"]
     ["version"] = 15,
     ["weather"] =
