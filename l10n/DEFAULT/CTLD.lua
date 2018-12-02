@@ -198,9 +198,6 @@ ctld.transportPilotNames = {
 
 ctld.extractableGroups = {
     "JTAC T1.1",
-	"JTAC_HITMAN",
-	"JTAC_HITMAN_2"
-	"Khasab_patients"
   
     
 }
