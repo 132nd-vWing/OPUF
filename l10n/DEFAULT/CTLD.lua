@@ -201,6 +201,8 @@ ctld.transportPilotNames = {
 
 ctld.extractableGroups = {
     "JTAC T1.1",
+	"Injured personell1",
+	"Injured personell2",
   
     
 }
