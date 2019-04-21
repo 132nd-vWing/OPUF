@@ -188,11 +188,14 @@ ctld.transportPilotNames = {
     "259  FARP LONDON #4",
 	"259  FARP MADRID #1",
 	"259  FARP MADRID #2",
+	"TEST1",
 	"MI-8 Al Dahfra #1 - Park 87",
 	"MI-8 Al Dahfra #1 - Park 88", 
 	"MI-8 Al Dahfra #1 - Park 89", 
 	"MI-8 Al Dahfra #1 - Park 90",
-	"FOB_Blackfoot_Convoy1",  	
+	"FOB_Blackfoot_Convoy1",
+
+  	
 	   
 }   
 -- *************** Optional Extractable GROUPS *****************
@@ -201,8 +204,8 @@ ctld.transportPilotNames = {
 
 ctld.extractableGroups = {
     "JTAC T1.1",
-	"Injured personell1",
-	"Injured personell2",
+	"Injured_personel_1",
+	"Injured_personel_2",
   
     
 }
