@@ -31581,6 +31581,7 @@ E057 28 169",
                                 ["hidden"] = false,
                                 ["modulation"] = 0,
                                 ["name"] = "DictKey_GroupName_5480",
+                                ["radioSet"] = false,
                                 ["route"] =
                                 {
                                     ["points"] =
@@ -31927,6 +31928,9 @@ E057 28 169",
                                 {
                                     [1] =
                                     {
+                                        ["AddPropAircraft"] =
+                                        {
+                                        }, -- end of ["AddPropAircraft"]
                                         ["alt"] = 23,
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
@@ -31937,7 +31941,7 @@ E057 28 169",
                                             ["name"] = "Enfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = 0,
+                                        ["heading"] = -0.11011672461266,
                                         ["livery_id"] = "IR IRIAF Azarakhsh",
                                         ["name"] = "DictKey_UnitName_5481",
                                         ["onboard_num"] = "010",
@@ -31974,7 +31978,7 @@ E057 28 169",
                                                 }, -- end of [7]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 0.11011672461264,
+                                        ["psi"] = 0.11011672461266,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-5E-3",
@@ -31984,6 +31988,9 @@ E057 28 169",
                                     }, -- end of [1]
                                     [2] =
                                     {
+                                        ["AddPropAircraft"] =
+                                        {
+                                        }, -- end of ["AddPropAircraft"]
                                         ["alt"] = 23,
                                         ["alt_type"] = "BARO",
                                         ["callsign"] =
@@ -31993,7 +32000,7 @@ E057 28 169",
                                             [3] = 2,
                                             ["name"] = "Enfield12",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 0,
+                                        ["heading"] = -0.11011672461266,
                                         ["livery_id"] = "IR IRIAF Azarakhsh",
                                         ["name"] = "DictKey_UnitName_5483",
                                         ["onboard_num"] = "946",
@@ -32030,7 +32037,7 @@ E057 28 169",
                                                 }, -- end of [7]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 0.11011672461264,
+                                        ["psi"] = 0.11011672461266,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-5E-3",
@@ -35815,7 +35822,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 2,
+                                            ["alt"] = 1711,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_4624",
@@ -35832,15 +35839,15 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 3649.5592719835,
-                                            ["y"] = 689.73399997119,
+                                            ["x"] = 490456.14669256,
+                                            ["y"] = 57401.559462203,
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 19.964912994019,
+                                            ["ETA"] = 3056.3496660733,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 2,
+                                            ["alt"] = 1720,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_4953",
@@ -35857,15 +35864,15 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 3549.8017789374,
-                                            ["y"] = 641.24851452422,
+                                            ["x"] = 475789.42249632,
+                                            ["y"] = 65957.148576673,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 44.285166022868,
+                                            ["ETA"] = 4500.854476342,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 2,
+                                            ["alt"] = 1734,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_4954",
@@ -35882,8 +35889,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 3469.7713635358,
-                                            ["y"] = 590.20816627679,
+                                            ["x"] = 468456.06039821,
+                                            ["y"] = 69216.42062028,
                                         }, -- end of [3]
                                     }, -- end of ["points"]
                                     ["routeRelativeTOT"] = true,
@@ -35893,26 +35900,26 @@ E057 28 169",
                                         {
                                             [1] =
                                             {
-                                                ["x"] = 3649.5592719835,
-                                                ["y"] = 689.73399997119,
+                                                ["x"] = 490456.14669256,
+                                                ["y"] = 57401.559462203,
                                             }, -- end of [1]
                                             [2] =
                                             {
-                                                ["x"] = 3549.8017789374,
-                                                ["y"] = 641.24851452422,
+                                                ["x"] = 475789.42249632,
+                                                ["y"] = 65957.148576673,
                                             }, -- end of [2]
                                         }, -- end of [1]
                                         [2] =
                                         {
                                             [1] =
                                             {
-                                                ["x"] = 3549.8017789374,
-                                                ["y"] = 641.24851452422,
+                                                ["x"] = 475789.42249632,
+                                                ["y"] = 65957.148576673,
                                             }, -- end of [1]
                                             [2] =
                                             {
-                                                ["x"] = 3469.7713635358,
-                                                ["y"] = 590.20816627679,
+                                                ["x"] = 468456.06039821,
+                                                ["y"] = 69216.42062028,
                                             }, -- end of [2]
                                         }, -- end of [2]
                                         [3] =
@@ -35941,7 +35948,7 @@ E057 28 169",
                                 {
                                     [1] =
                                     {
-                                        ["heading"] = -2.6891805268471,
+                                        ["heading"] = 2.6135182051634,
                                         ["name"] = "DictKey_UnitName_4623",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -35951,13 +35958,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Ural-375",
                                         ["unitId"] = 7039,
-                                        ["x"] = 3649.5592719835,
-                                        ["y"] = 689.73399997119,
+                                        ["x"] = 490456.14669256,
+                                        ["y"] = 57401.559462203,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = 3649.5592719835,
-                                ["y"] = 689.73399997119,
+                                ["x"] = 490456.14669256,
+                                ["y"] = 57401.559462203,
                             }, -- end of [14]
                             [15] =
                             {
@@ -35974,7 +35981,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 2,
+                                            ["alt"] = 1024,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_4668",
@@ -35991,15 +35998,15 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 4800.938553678,
-                                            ["y"] = -5664.651021777,
+                                            ["x"] = 270455.28374904,
+                                            ["y"] = 165772.35491216,
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 10.712468960882,
+                                            ["ETA"] = 29528.326816491,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 2,
+                                            ["alt"] = 732,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_4956",
@@ -36016,15 +36023,15 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 4796.9925861963,
-                                            ["y"] = -5711.7647039241,
+                                            ["x"] = 271270.10175995,
+                                            ["y"] = 158846.40181949,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 14.017096219838,
+                                            ["ETA"] = 2110.479025869,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 2,
+                                            ["alt"] = 661,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_4957",
@@ -36041,8 +36048,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 4815.1098880536,
-                                            ["y"] = -5714.7341710748,
+                                            ["x"] = 273714.55579265,
+                                            ["y"] = 154772.31176498,
                                         }, -- end of [3]
                                     }, -- end of ["points"]
                                     ["routeRelativeTOT"] = true,
@@ -36052,26 +36059,26 @@ E057 28 169",
                                         {
                                             [1] =
                                             {
-                                                ["x"] = 4800.938553678,
-                                                ["y"] = -5664.651021777,
+                                                ["x"] = 270455.28374904,
+                                                ["y"] = 165772.35491216,
                                             }, -- end of [1]
                                             [2] =
                                             {
-                                                ["x"] = 4796.9925861963,
-                                                ["y"] = -5711.7647039241,
+                                                ["x"] = 271270.10175995,
+                                                ["y"] = 158846.40181949,
                                             }, -- end of [2]
                                         }, -- end of [1]
                                         [2] =
                                         {
                                             [1] =
                                             {
-                                                ["x"] = 4796.9925861963,
-                                                ["y"] = -5711.7647039241,
+                                                ["x"] = 271270.10175995,
+                                                ["y"] = 158846.40181949,
                                             }, -- end of [1]
                                             [2] =
                                             {
-                                                ["x"] = 4815.1098880536,
-                                                ["y"] = -5714.7341710748,
+                                                ["x"] = 273714.55579265,
+                                                ["y"] = 154772.31176498,
                                             }, -- end of [2]
                                         }, -- end of [2]
                                         [3] =
@@ -36100,7 +36107,7 @@ E057 28 169",
                                 {
                                     [1] =
                                     {
-                                        ["heading"] = -1.6543554813536,
+                                        ["heading"] = 4.8294977249516,
                                         ["name"] = "DictKey_UnitName_4667",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -36110,13 +36117,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Ural-375",
                                         ["unitId"] = 7052,
-                                        ["x"] = 4800.938553678,
-                                        ["y"] = -5664.651021777,
+                                        ["x"] = 270455.28374904,
+                                        ["y"] = 165772.35491216,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = 4800.938553678,
-                                ["y"] = -5664.651021777,
+                                ["x"] = 270455.28374904,
+                                ["y"] = 165772.35491216,
                             }, -- end of [15]
                             [16] =
                             {
@@ -38118,7 +38125,7 @@ E057 28 169",
                                 {
                                     [1] =
                                     {
-                                        ["heading"] = -2.9155641786899,
+                                        ["heading"] = 3.2121916312591,
                                         ["name"] = "DictKey_UnitName_5418",
                                         ["playerCanDrive"] = true,
                                         ["skill"] = "Random",
@@ -38133,7 +38140,7 @@ E057 28 169",
                                     }, -- end of [1]
                                     [2] =
                                     {
-                                        ["heading"] = -2.9155641786899,
+                                        ["heading"] = 3.2060918530323,
                                         ["name"] = "DictKey_UnitName_5420",
                                         ["playerCanDrive"] = true,
                                         ["skill"] = "Random",
@@ -38148,7 +38155,7 @@ E057 28 169",
                                     }, -- end of [2]
                                     [3] =
                                     {
-                                        ["heading"] = -2.9155641786899,
+                                        ["heading"] = 3.2060921714198,
                                         ["name"] = "DictKey_UnitName_5421",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -38163,7 +38170,7 @@ E057 28 169",
                                     }, -- end of [3]
                                     [4] =
                                     {
-                                        ["heading"] = -2.9155641786899,
+                                        ["heading"] = 3.2060922799685,
                                         ["name"] = "DictKey_UnitName_5423",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -38178,7 +38185,7 @@ E057 28 169",
                                     }, -- end of [4]
                                     [5] =
                                     {
-                                        ["heading"] = -2.9155641786899,
+                                        ["heading"] = 3.2060921316081,
                                         ["name"] = "DictKey_UnitName_5424",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Random",
@@ -61276,6 +61283,7 @@ E057 28 169",
                                 }, -- end of ["route"]
                                 ["start_time"] = 0,
                                 ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
                                 ["tasks"] =
                                 {
                                 }, -- end of ["tasks"]
@@ -61356,6 +61364,7 @@ E057 28 169",
                                 }, -- end of ["route"]
                                 ["start_time"] = 0,
                                 ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
                                 ["tasks"] =
                                 {
                                 }, -- end of ["tasks"]
@@ -61407,7 +61416,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 22,
+                                            ["alt"] = 6,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_5269",
@@ -61443,8 +61452,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -31277.987498501,
-                                            ["y"] = -17898.620847485,
+                                            ["x"] = -26578.775476192,
+                                            ["y"] = -18599.31890028,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -61472,13 +61481,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "TOYO_TECH",
                                         ["unitId"] = 7251,
-                                        ["x"] = -31277.987498501,
-                                        ["y"] = -17898.620847485,
+                                        ["x"] = -26578.775476192,
+                                        ["y"] = -18599.31890028,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = -31277.987498501,
-                                ["y"] = -17898.620847485,
+                                ["x"] = -26578.775476192,
+                                ["y"] = -18599.31890028,
                             }, -- end of [1]
                             [2] =
                             {
@@ -61530,8 +61539,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -30119.403637015,
-                                            ["y"] = -19026.969337619,
+                                            ["x"] = -26234.857077335,
+                                            ["y"] = -20172.512177647,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -61549,7 +61558,7 @@ E057 28 169",
                                 {
                                     [1] =
                                     {
-                                        ["heading"] = 0,
+                                        ["heading"] = 3.07177948351,
                                         ["name"] = "DictKey_UnitName_5271",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Average",
@@ -61559,13 +61568,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "InsurgentPickUp",
                                         ["unitId"] = 7252,
-                                        ["x"] = -30119.403637015,
-                                        ["y"] = -19026.969337619,
+                                        ["x"] = -26234.857077335,
+                                        ["y"] = -20172.512177647,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = -30119.403637015,
-                                ["y"] = -19026.969337619,
+                                ["x"] = -26234.857077335,
+                                ["y"] = -20172.512177647,
                             }, -- end of [2]
                             [3] =
                             {
@@ -61581,7 +61590,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 3,
+                                            ["alt"] = 16,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_5275",
@@ -61617,8 +61626,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -31744.158954388,
-                                            ["y"] = -22910.448565906,
+                                            ["x"] = -26980.609231517,
+                                            ["y"] = -18254.453160778,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -61636,7 +61645,7 @@ E057 28 169",
                                 {
                                     [1] =
                                     {
-                                        ["heading"] = 3.7175513067479,
+                                        ["heading"] = 2.7227136331112,
                                         ["name"] = "DictKey_UnitName_5274",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Average",
@@ -61646,13 +61655,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "DODGE_TECH",
                                         ["unitId"] = 7253,
-                                        ["x"] = -31744.158954388,
-                                        ["y"] = -22910.448565906,
+                                        ["x"] = -26980.609231517,
+                                        ["y"] = -18254.453160778,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = -31744.158954388,
-                                ["y"] = -22910.448565906,
+                                ["x"] = -26980.609231517,
+                                ["y"] = -18254.453160778,
                             }, -- end of [3]
                             [4] =
                             {
@@ -61668,7 +61677,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 22,
+                                            ["alt"] = 3,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_5302",
@@ -61704,8 +61713,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -31820.549001506,
-                                            ["y"] = -19915.165511042,
+                                            ["x"] = -26797.961911997,
+                                            ["y"] = -19125.272565883,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -61733,13 +61742,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "DODGE_TECH",
                                         ["unitId"] = 7260,
-                                        ["x"] = -31820.549001506,
-                                        ["y"] = -19915.165511042,
+                                        ["x"] = -26797.961911997,
+                                        ["y"] = -19125.272565883,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = -31820.549001506,
-                                ["y"] = -19915.165511042,
+                                ["x"] = -26797.961911997,
+                                ["y"] = -19125.272565883,
                             }, -- end of [4]
                             [5] =
                             {
@@ -61755,7 +61764,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 22,
+                                            ["alt"] = 12,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_5305",
@@ -61791,8 +61800,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -32458.128622085,
-                                            ["y"] = -21146.182444821,
+                                            ["x"] = -26881.543557136,
+                                            ["y"] = -18403.207927358,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -61810,7 +61819,7 @@ E057 28 169",
                                 {
                                     [1] =
                                     {
-                                        ["heading"] = 3.1415926535898,
+                                        ["heading"] = 5.9341194567807,
                                         ["name"] = "DictKey_UnitName_5304",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Average",
@@ -61820,13 +61829,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "DODGE_TECH",
                                         ["unitId"] = 7261,
-                                        ["x"] = -32458.128622085,
-                                        ["y"] = -21146.182444821,
+                                        ["x"] = -26881.543557136,
+                                        ["y"] = -18403.207927358,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = -32458.128622085,
-                                ["y"] = -21146.182444821,
+                                ["x"] = -26881.543557136,
+                                ["y"] = -18403.207927358,
                             }, -- end of [5]
                             [6] =
                             {
@@ -62198,8 +62207,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -41862.902165609,
-                                            ["y"] = -27505.632711398,
+                                            ["x"] = -41991.453022971,
+                                            ["y"] = -27317.282407165,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -62240,13 +62249,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Infantry AK Ins",
                                         ["unitId"] = 7289,
-                                        ["x"] = -41862.902165609,
-                                        ["y"] = -27505.632711398,
+                                        ["x"] = -41991.453022971,
+                                        ["y"] = -27317.282407165,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = -41862.902165609,
-                                ["y"] = -27505.632711398,
+                                ["x"] = -41991.453022971,
+                                ["y"] = -27317.282407165,
                             }, -- end of [10]
                             [11] =
                             {
@@ -62471,8 +62480,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -41858.302165609,
-                                            ["y"] = -27514.261282827,
+                                            ["x"] = -41995.5301007,
+                                            ["y"] = -27309.648729715,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -62513,13 +62522,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Infantry AK Ins",
                                         ["unitId"] = 7306,
-                                        ["x"] = -41858.302165609,
-                                        ["y"] = -27514.261282827,
+                                        ["x"] = -41995.5301007,
+                                        ["y"] = -27309.648729715,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = -41858.302165609,
-                                ["y"] = -27514.261282827,
+                                ["x"] = -41995.5301007,
+                                ["y"] = -27309.648729715,
                             }, -- end of [13]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
@@ -62617,7 +62626,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 946921,
+    ["currentKey"] = 949539,
     ["date"] =
     {
         ["Day"] = 5,
@@ -65874,9 +65883,9 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 66745.896347842,
-        ["centerY"] = -51958.114995479,
-        ["zoom"] = 418887.39527466,
+        ["centerX"] = -2848.1584630862,
+        ["centerY"] = -10896.742008879,
+        ["zoom"] = 88538.157390127,
     }, -- end of ["map"]
     ["maxDictId"] = 5553,
     ["pictureFileNameB"] =
@@ -66735,8 +66744,8 @@ E057 28 169",
                 {
                 }, -- end of ["properties"]
                 ["radius"] = 152.4,
-                ["x"] = -21120.733417316,
-                ["y"] = -18949.026182528,
+                ["x"] = -21123.14621133,
+                ["y"] = -18950.835778038,
                 ["zoneId"] = 3518,
             }, -- end of [37]
             [38] =
