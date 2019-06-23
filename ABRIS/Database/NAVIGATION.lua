@@ -15,151 +15,241 @@ navigation =
 	["region"] = "",
 	["waypoints"] = 
 	{
-		["ABF01"] = 
+		["WENDY"] = 
 		{
 			["type"] = 0,
-			["name"] = "ABF01",
-			["callsign"] = "ABF01",
+			["name"] = "WENDY",
+			["callsign"] = "WENDY",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.3253524563838,
-				["latitude"] = 26.2217355952429,
+				["longitude"] = 56.1148333333333,
+				["latitude"] = 26.0834666666667,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["ABF02"] = 
+		["SUZY"] = 
 		{
 			["type"] = 0,
-			["name"] = "ABF02",
-			["callsign"] = "ABF02",
+			["name"] = "SUZY",
+			["callsign"] = "SUZY",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.2218661850224,
-				["latitude"] = 26.113725934634,
+				["longitude"] = 56.25285,
+				["latitude"] = 26.06055,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["ABF03"] = 
+		["ESTER"] = 
 		{
 			["type"] = 0,
-			["name"] = "ABF03",
-			["callsign"] = "ABF03",
+			["name"] = "ESTER",
+			["callsign"] = "ESTER",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.194739336746,
-				["latitude"] = 26.1328827503943,
+				["longitude"] = 56.373,
+				["latitude"] = 26.1337333333333,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["ABF04"] = 
+		["HA1"] = 
 		{
 			["type"] = 0,
-			["name"] = "ABF04",
-			["callsign"] = "ABF04",
+			["name"] = "HA1",
+			["callsign"] = "HA1",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.198376095265,
-				["latitude"] = 26.1875585329056,
+				["longitude"] = 56.2480333333333,
+				["latitude"] = 26.0978833333333,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["RP"] = 
+		["BP1"] = 
 		{
 			["type"] = 0,
-			["name"] = "RP",
-			["callsign"] = "RP",
+			["name"] = "BP1",
+			["callsign"] = "BP1",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.314034013285,
-				["latitude"] = 26.0665534422924,
+				["longitude"] = 56.1857666666667,
+				["latitude"] = 26.1110166666667,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["TRP1"] = 
+		["BP2"] = 
 		{
 			["type"] = 0,
-			["name"] = "TRP1",
-			["callsign"] = "TRP1",
+			["name"] = "BP2",
+			["callsign"] = "BP2",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.2302982392097,
-				["latitude"] = 26.1555847248058,
+				["longitude"] = 56.2213666666667,
+				["latitude"] = 26.1109333333333,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["TRP2"] = 
+		["BP3"] = 
 		{
 			["type"] = 0,
-			["name"] = "TRP2",
-			["callsign"] = "TRP2",
+			["name"] = "BP3",
+			["callsign"] = "BP3",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.2435872524318,
-				["latitude"] = 26.1829784540885,
+				["longitude"] = 56.2703333333333,
+				["latitude"] = 26.1209,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["TRP3"] = 
+		["BP4"] = 
 		{
 			["type"] = 0,
-			["name"] = "TRP3",
-			["callsign"] = "TRP3",
+			["name"] = "BP4",
+			["callsign"] = "BP4",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.2512283384348,
-				["latitude"] = 26.2030322526131,
+				["longitude"] = 56.2342333333333,
+				["latitude"] = 26.1560166666667,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["RTE1"] = 
+		["BP5"] = 
 		{
 			["type"] = 0,
-			["name"] = "RTE1",
-			["callsign"] = "RTE1",
+			["name"] = "BP5",
+			["callsign"] = "BP5",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.317617893404,
-				["latitude"] = 26.0808965665638,
+				["longitude"] = 56.2689833333333,
+				["latitude"] = 26.1727833333333,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["RTE2"] = 
+		["Vl.B"] = 
 		{
 			["type"] = 0,
-			["name"] = "RTE2",
-			["callsign"] = "RTE2",
+			["name"] = "Vl.B",
+			["callsign"] = "Vl.B",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 56.2924776498401,
-				["latitude"] = 26.0690430053762,
+				["longitude"] = 56.2134619245368,
+				["latitude"] = 26.1428272577389,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["Vl.A"] = 
+		{
+			["type"] = 0,
+			["name"] = "Vl.A",
+			["callsign"] = "Vl.A",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 56.2018760540308,
+				["latitude"] = 26.1473139349317,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["Vl.C"] = 
+		{
+			["type"] = 0,
+			["name"] = "Vl.C",
+			["callsign"] = "Vl.C",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 56.2467018684177,
+				["latitude"] = 26.1410264970426,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["Vl.D"] = 
+		{
+			["type"] = 0,
+			["name"] = "Vl.D",
+			["callsign"] = "Vl.D",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 56.2641566896849,
+				["latitude"] = 26.1559413951874,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["LZ1"] = 
+		{
+			["type"] = 0,
+			["name"] = "LZ1",
+			["callsign"] = "LZ1",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 56.2425,
+				["latitude"] = 26.1566666666667,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["LZ2"] = 
+		{
+			["type"] = 0,
+			["name"] = "LZ2",
+			["callsign"] = "LZ2",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 56.245,
+				["latitude"] = 26.1691666666667,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["LZ3"] = 
+		{
+			["type"] = 0,
+			["name"] = "LZ3",
+			["callsign"] = "LZ3",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 56.2475,
+				["latitude"] = 26.1891666666667,
 				["course"] = 0,
 				["height"] = 0,
 			},
@@ -3855,6 +3945,54 @@ navigation =
 			},
 			["sub_type"] = 0,
 		},
+		["ABUDHABI"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "ABUDHABI",
+			["callsign"] = "ADV",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.656381,
+				["latitude"] = 24.441924,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["Abumusa"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "Abumusa",
+			["callsign"] = "ABM",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 55.023518,
+				["latitude"] = 25.877348,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["AlBateenInt"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "AlBateenInt",
+			["callsign"] = "ALB",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.469803,
+				["latitude"] = 24.418002,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
 		["BandarAbbas"] = 
 		{
 			["band"] = 1176999936,
@@ -3864,8 +4002,56 @@ navigation =
 			["class"] = "ABRIS_Waypoint_Beacon",
 			["position"] = 
 			{
-				["longitude"] = 56.366833,
-				["latitude"] = 27.197,
+				["longitude"] = 56.366971,
+				["latitude"] = 27.196943,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["BandarAbbas"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "BandarAbbas",
+			["callsign"] = "BND",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 56.359493,
+				["latitude"] = 27.215742,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["BandarEJask"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "BandarEJask",
+			["callsign"] = "KHM",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 57.795989,
+				["latitude"] = 25.653478,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["BandarLengeh"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "BandarLengeh",
+			["callsign"] = "LEN",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.831754,
+				["latitude"] = 26.530575,
 				["course"] = 0,
 				["height"] = 0,
 			},
@@ -3898,6 +4084,22 @@ navigation =
 			{
 				["longitude"] = 54.545387,
 				["latitude"] = 24.246803,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["DUBAI"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "DUBAI",
+			["callsign"] = "DO",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 55.399134,
+				["latitude"] = 25.231649,
 				["course"] = 0,
 				["height"] = 0,
 			},
@@ -3951,6 +4153,54 @@ navigation =
 			},
 			["sub_type"] = 5,
 		},
+		["Jiroft"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "Jiroft",
+			["callsign"] = "JIR",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 57.67206,
+				["latitude"] = 28.72895,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["KERMAN"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "KERMAN",
+			["callsign"] = "KER",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 56.959325,
+				["latitude"] = 30.26472,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["KERMAN"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "KERMAN",
+			["callsign"] = "KER",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 56.943809,
+				["latitude"] = 30.285146,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
 		["Khasab"] = 
 		{
 			["band"] = 1176999936,
@@ -3962,6 +4212,70 @@ navigation =
 			{
 				["longitude"] = 56.24098,
 				["latitude"] = 26.177844,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["KishIsland"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "KishIsland",
+			["callsign"] = "KIH",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 53.951904,
+				["latitude"] = 26.530354,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["LAR"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "LAR",
+			["callsign"] = "LAR",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.416221,
+				["latitude"] = 27.674948,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["LAR"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "LAR",
+			["callsign"] = "OISL",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.375895,
+				["latitude"] = 27.669854,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["LavanIsland"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "LavanIsland",
+			["callsign"] = "LVA",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 53.356069,
+				["latitude"] = 26.812181,
 				["course"] = 0,
 				["height"] = 0,
 			},
@@ -3992,8 +4306,56 @@ navigation =
 			["class"] = "ABRIS_Waypoint_Beacon",
 			["position"] = 
 			{
+				["longitude"] = 55.907839,
+				["latitude"] = 26.762802,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["GheshmIsland"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "GheshmIsland",
+			["callsign"] = "KHM",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
 				["longitude"] = 55.899569,
 				["latitude"] = 26.754748,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["SasAlNakheelAirport"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "SasAlNakheelAirport",
+			["callsign"] = "SAS",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.515602,
+				["latitude"] = 24.432797,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["SasAlNakheel"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "SasAlNakheel",
+			["callsign"] = "SAS",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.51429,
+				["latitude"] = 24.450229,
 				["course"] = 0,
 				["height"] = 0,
 			},
@@ -4010,6 +4372,70 @@ navigation =
 			{
 				["longitude"] = 55.521396,
 				["latitude"] = 25.332266,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["SHIRAZ"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "SHIRAZ",
+			["callsign"] = "SYZ",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 52.588744,
+				["latitude"] = 29.540193,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["SHIRAZ"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "SHIRAZ",
+			["callsign"] = "SYZ1",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 52.584714,
+				["latitude"] = 29.541938,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["SHIRAZ"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "SHIRAZ",
+			["callsign"] = "SR",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 52.599209,
+				["latitude"] = 29.529239,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["SirriIsland"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "SirriIsland",
+			["callsign"] = "SIR",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 54.546971,
+				["latitude"] = 25.901625,
 				["course"] = 0,
 				["height"] = 0,
 			},
@@ -4036,7 +4462,7 @@ navigation =
 			["band"] = 1176999936,
 			["type"] = 2,
 			["name"] = "Kochak",
-			["callsign"] = "",
+			["callsign"] = "KCK",
 			["class"] = "ABRIS_Waypoint_Beacon",
 			["position"] = 
 			{
@@ -4046,6 +4472,166 @@ navigation =
 				["height"] = 0,
 			},
 			["sub_type"] = 5,
+		},
+		["Kish"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "Kish",
+			["callsign"] = "KIS",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 53.962352,
+				["latitude"] = 26.525169,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["RasAlKhaiman"] = 
+		{
+			["band"] = 1176999936,
+			["type"] = 2,
+			["name"] = "RasAlKhaiman",
+			["callsign"] = "RAV",
+			["class"] = "ABRIS_Waypoint_Beacon",
+			["position"] = 
+			{
+				["longitude"] = 55.946667,
+				["latitude"] = 25.588333,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 5,
+		},
+		["Jiroft Airport"] = 
+		{
+			["type"] = 1,
+			["name"] = "Jiroft Airport",
+			["callsign"] = "OIKJ",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 57.663883333333,
+				["latitude"] = 28.731383333333,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
+		},
+		["Kish International Airport"] = 
+		{
+			["type"] = 1,
+			["name"] = "Kish International Airport",
+			["callsign"] = "OIBK",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 53.9647166666667,
+				["latitude"] = 26.5294333333333,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
+		},
+		["Bandar-e-Jask Airfield"] = 
+		{
+			["type"] = 1,
+			["name"] = "Bandar-e-Jask Airfield",
+			["callsign"] = "OIZJ",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 57.7919333333333,
+				["latitude"] = 25.6502666666667,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
+		},
+		["Lavan Island Airport"] = 
+		{
+			["type"] = 1,
+			["name"] = "Lavan Island Airport",
+			["callsign"] = "OIBV",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 53.3413833333333,
+				["latitude"] = 26.8152666666667,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
+		},
+		["Abu Dhabi International Airport"] = 
+		{
+			["type"] = 1,
+			["name"] = "Abu Dhabi International Airport",
+			["callsign"] = "OMAA",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 54.6402666666667,
+				["latitude"] = 24.4636,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
+		},
+		["Al Ain International Airport"] = 
+		{
+			["type"] = 1,
+			["name"] = "Al Ain International Airport",
+			["callsign"] = "OMAL",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 55.6113833333333,
+				["latitude"] = 24.2752666666667,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
+		},
+		["Sas Al Nakheel Airport"] = 
+		{
+			["type"] = 1,
+			["name"] = "Sas Al Nakheel Airport",
+			["callsign"] = "OMNK",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 54.5191666666667,
+				["latitude"] = 24.4338833333333,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
+		},
+		["Al Bateen Airport"] = 
+		{
+			["type"] = 1,
+			["name"] = "Al Bateen Airport",
+			["callsign"] = "OMAD",
+			["runway_length"] = 0,
+			["class"] = "ABRIS_Waypoint_Airdrome",
+			["position"] = 
+			{
+				["longitude"] = 54.45055,
+				["latitude"] = 24.4338833333333,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 6,
 		},
 		["Shiraz International Airport"] = 
 		{
