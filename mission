@@ -25483,8 +25483,8 @@ mission =
                         ["vangle"] = 0,
                         ["vnav"] = 1,
                     }, -- end of ["properties"]
-                    ["x"] = 453939.37485714,
-                    ["y"] = 71156.220285715,
+                    ["x"] = 453940.11771428,
+                    ["y"] = 71156.134571429,
                 }, -- end of [23]
                 [24] =
                 {
@@ -32079,7 +32079,7 @@ E057 28 169",
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 244.80273304418,
+                                            ["ETA"] = 244.80273304415,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7620,
@@ -33285,7 +33285,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "From Parking Area",
-                                            ["airdromeId"] = 19,
+                                            ["airdromeId"] = 18,
                                             ["alt"] = 1487,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
@@ -33319,12 +33319,12 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParking",
-                                            ["x"] = 381902.6875,
-                                            ["y"] = -353667.71875,
+                                            ["x"] = 452747.21875,
+                                            ["y"] = 71899.859375,
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 307.41843916742,
+                                            ["ETA"] = 402.67410861135,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 8229.6,
@@ -33344,12 +33344,12 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 333896.87067764,
-                                            ["y"] = -301233.92487455,
+                                            ["x"] = 362673.10378829,
+                                            ["y"] = 48284.44224681,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 2039.6044593684,
+                                            ["ETA"] = 1820.5434384286,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 8229.6,
@@ -33487,12 +33487,12 @@ E057 28 169",
                                             ["name"] = "Springfield11",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = 2.3121370544327,
+                                        ["heading"] = -2.8851859445822,
                                         ["livery_id"] = "IRIAF Blue-Grey",
                                         ["name"] = "DictKey_UnitName_6242",
                                         ["onboard_num"] = "945",
-                                        ["parking"] = 68,
-                                        ["parking_id"] = "01",
+                                        ["parking"] = "2",
+                                        ["parking_id"] = "07",
                                         ["payload"] =
                                         {
                                             ["chaff"] = 30,
@@ -33531,13 +33531,13 @@ E057 28 169",
                                                 }, -- end of [7]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -2.3121370544327,
+                                        ["psi"] = 2.8851859445822,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-29A",
                                         ["unitId"] = 7596,
-                                        ["x"] = 381902.6875,
-                                        ["y"] = -353667.71875,
+                                        ["x"] = 452747.21875,
+                                        ["y"] = 71899.859375,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -33551,12 +33551,12 @@ E057 28 169",
                                             ["name"] = "Springfield12",
                                         }, -- end of ["callsign"]
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = 2.3121370544327,
+                                        ["heading"] = -2.8851859445822,
                                         ["livery_id"] = "IRIAF Blue-Grey",
                                         ["name"] = "DictKey_UnitName_6244",
                                         ["onboard_num"] = "946",
-                                        ["parking"] = "67",
-                                        ["parking_id"] = "02",
+                                        ["parking"] = "0",
+                                        ["parking_id"] = "09",
                                         ["payload"] =
                                         {
                                             ["chaff"] = 30,
@@ -33595,17 +33595,17 @@ E057 28 169",
                                                 }, -- end of [7]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -2.3121370544327,
+                                        ["psi"] = 2.8851859445822,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-29A",
                                         ["unitId"] = 7597,
-                                        ["x"] = 381877.21875,
-                                        ["y"] = -353680.375,
+                                        ["x"] = 452845.03125,
+                                        ["y"] = 71861.46875,
                                     }, -- end of [2]
                                 }, -- end of ["units"]
-                                ["x"] = 381902.6875,
-                                ["y"] = -353667.71875,
+                                ["x"] = 452747.21875,
+                                ["y"] = 71899.859375,
                             }, -- end of [23]
                             [24] =
                             {
@@ -33698,7 +33698,7 @@ E057 28 169",
                                         }, -- end of [3]
                                         [4] =
                                         {
-                                            ["ETA"] = 4985.0119692393,
+                                            ["ETA"] = 5116.7596296668,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7315.2,
@@ -33718,8 +33718,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 207527.58937587,
-                                            ["y"] = -439080.01432239,
+                                            ["x"] = 214629.9511639,
+                                            ["y"] = -462178.65481256,
                                         }, -- end of [4]
                                         [5] =
                                         {
@@ -49826,7 +49826,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1152140,
+    ["currentKey"] = 1157120,
     ["date"] =
     {
         ["Day"] = 7,
@@ -53083,9 +53083,9 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -5585.5575152878,
-        ["centerY"] = 9656.8142251189,
-        ["zoom"] = 543155.03406623,
+        ["centerX"] = 140185.77731818,
+        ["centerY"] = -327793.735,
+        ["zoom"] = 1521853.7727273,
     }, -- end of ["map"]
     ["maxDictId"] = 6272,
     ["pictureFileNameB"] =
