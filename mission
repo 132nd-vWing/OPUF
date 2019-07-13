@@ -14753,7 +14753,7 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Shell11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 0.53648818928419,
+                                        ["heading"] = 0.6133182378652,
                                         ["livery_id"] = "100th ARW",
                                         ["name"] = "DictKey_UnitName_508",
                                         ["onboard_num"] = "800",
@@ -52498,7 +52498,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1172433,
+    ["currentKey"] = 1174981,
     ["date"] =
     {
         ["Day"] = 7,
@@ -55759,7 +55759,7 @@ E057 28 169",
         ["centerY"] = -60561.05091753,
         ["zoom"] = 640577.11434682,
     }, -- end of ["map"]
-    ["maxDictId"] = 6304,
+    ["maxDictId"] = 6307,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -55826,42 +55826,43 @@ E057 28 169",
     {
         ["actions"] =
         {
-            [1] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_4931\"));",
+            [1] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_6305\"));",
             [2] = "a_group_off(151);a_group_off(150);a_group_off(156);a_group_off(3816);a_group_off(1874);a_group_off(1826);a_group_off(1436);a_group_off(1437);a_group_off(1642);a_group_off(1644);a_group_off(1643);a_group_off(157);a_group_off(159);a_group_off(3490);a_group_off(3534);a_group_off(3535);a_group_off(55);a_group_off(54);a_group_off(2114);a_group_off(1754);a_group_off(1849);a_group_off(2159);a_group_off(2980);a_group_off(3044);a_group_off(3052);a_group_off(3053);a_group_off(3045);a_group_off(3055);a_group_off(3054);a_group_off(3057);a_group_off(3797);a_group_off(3795);a_group_off(3878);a_group_off(3857); mission.trig.func[2]=nil;",
             [3] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_1910\")); mission.trig.func[3]=nil;",
             [4] = "a_out_sound_c(21, getValueResourceByKey(\"ResKey_Action_1907\"), 0);a_out_sound_c(21, getValueResourceByKey(\"ResKey_Action_1908\"), 0); mission.trig.func[4]=nil;",
             [5] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_1911\")); mission.trig.func[5]=nil;",
-            [6] = "a_group_on(151);a_group_on(150); mission.trig.func[6]=nil;",
-            [7] = "a_group_on(157); mission.trig.func[7]=nil;",
-            [8] = "a_group_on(159);a_group_on(3490);a_group_on(3535);a_group_on(3534); mission.trig.func[8]=nil;",
-            [9] = "a_group_on(1642);a_group_on(1644);a_group_on(1643); mission.trig.func[9]=nil;",
-            [10] = "a_group_on(2114); mission.trig.func[10]=nil;",
-            [11] = "a_group_on(1850);a_group_on(1851); mission.trig.func[11]=nil;",
-            [12] = "a_group_on(1754); mission.trig.func[12]=nil;",
-            [13] = "a_group_on(1849); mission.trig.func[13]=nil;",
-            [14] = "a_group_on(54);a_group_on(55); mission.trig.func[14]=nil;",
-            [15] = "a_add_radio_item_for_group(253, getValueDictByKey(\"DictKey_ActionRadioText_1643\"), 11, 1);a_add_radio_item_for_group(253, getValueDictByKey(\"DictKey_ActionRadioText_1635\"), 10, 1); mission.trig.func[15]=nil;",
-            [16] = "a_group_on(156);a_group_on(1826);a_group_on(1874); mission.trig.func[16]=nil;",
-            [17] = "a_group_on(1436);a_group_on(1437);a_group_on(1642);a_group_on(3816);a_do_script_file(getValueResourceByKey(\"ResKey_Action_6172\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_6173\")); mission.trig.func[17]=nil;",
-            [18] = "a_ai_task(3869, 1); mission.trig.func[18]=nil;",
-            [19] = "a_ai_task(3870, 1);a_ai_task(3871, 1); mission.trig.func[19]=nil;",
-            [20] = "a_ai_task(3872, 1);a_ai_task(3873, 1); mission.trig.func[20]=nil;",
-            [21] = "a_clear_flag(10);a_ai_task(253, 1);",
-            [22] = "a_clear_flag(11);",
-            [23] = "a_ai_task(596, 1); mission.trig.func[23]=nil;",
-            [24] = "a_ai_task(153, 2);a_ai_task(153, 1);a_ai_task(596, 2);a_ai_task(596, 3); mission.trig.func[24]=nil;",
-            [25] = "a_ai_task(152, 1); mission.trig.func[25]=nil;",
-            [26] = "a_group_on(2120);a_group_on(2121);a_group_on(2980);a_group_on(2159);a_set_flag(31); mission.trig.func[26]=nil;",
-            [27] = "a_group_on(3044);a_group_on(3052); mission.trig.func[27]=nil;",
-            [28] = "a_group_on(3053); mission.trig.func[28]=nil;",
-            [29] = "a_group_on(3045); mission.trig.func[29]=nil;",
-            [30] = "a_group_on(3055);a_group_on(3054); mission.trig.func[30]=nil;",
-            [31] = "a_set_flag(50); mission.trig.func[31]=nil;",
-            [32] = "a_ai_task(3577, 1); mission.trig.func[32]=nil;",
-            [33] = "a_ai_task(3768, 1);a_group_on(3857); mission.trig.func[33]=nil;",
-            [34] = "a_ai_task(3875, 1);a_ai_task(3876, 1); mission.trig.func[34]=nil;",
-            [35] = "a_group_on(3797);a_ai_task(3877, 1);a_set_flag(20); mission.trig.func[35]=nil;",
-            [36] = "a_group_on(3795);a_group_on(3878); mission.trig.func[36]=nil;",
+            [6] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_6307\")); mission.trig.func[6]=nil;",
+            [7] = "a_group_on(151);a_group_on(150); mission.trig.func[7]=nil;",
+            [8] = "a_group_on(157); mission.trig.func[8]=nil;",
+            [9] = "a_group_on(159);a_group_on(3490);a_group_on(3535);a_group_on(3534); mission.trig.func[9]=nil;",
+            [10] = "a_group_on(1642);a_group_on(1644);a_group_on(1643); mission.trig.func[10]=nil;",
+            [11] = "a_group_on(2114); mission.trig.func[11]=nil;",
+            [12] = "a_group_on(1850);a_group_on(1851); mission.trig.func[12]=nil;",
+            [13] = "a_group_on(1754); mission.trig.func[13]=nil;",
+            [14] = "a_group_on(1849); mission.trig.func[14]=nil;",
+            [15] = "a_group_on(54);a_group_on(55); mission.trig.func[15]=nil;",
+            [16] = "a_add_radio_item_for_group(253, getValueDictByKey(\"DictKey_ActionRadioText_1643\"), 11, 1);a_add_radio_item_for_group(253, getValueDictByKey(\"DictKey_ActionRadioText_1635\"), 10, 1); mission.trig.func[16]=nil;",
+            [17] = "a_group_on(156);a_group_on(1826);a_group_on(1874); mission.trig.func[17]=nil;",
+            [18] = "a_group_on(1436);a_group_on(1437);a_group_on(1642);a_group_on(3816);a_do_script_file(getValueResourceByKey(\"ResKey_Action_6172\"));a_do_script_file(getValueResourceByKey(\"ResKey_Action_6173\")); mission.trig.func[18]=nil;",
+            [19] = "a_ai_task(3869, 1); mission.trig.func[19]=nil;",
+            [20] = "a_ai_task(3870, 1);a_ai_task(3871, 1); mission.trig.func[20]=nil;",
+            [21] = "a_ai_task(3872, 1);a_ai_task(3873, 1); mission.trig.func[21]=nil;",
+            [22] = "a_clear_flag(10);a_ai_task(253, 1);",
+            [23] = "a_clear_flag(11);",
+            [24] = "a_ai_task(596, 1); mission.trig.func[24]=nil;",
+            [25] = "a_ai_task(153, 2);a_ai_task(153, 1);a_ai_task(596, 2);a_ai_task(596, 3); mission.trig.func[25]=nil;",
+            [26] = "a_ai_task(152, 1); mission.trig.func[26]=nil;",
+            [27] = "a_group_on(2120);a_group_on(2121);a_group_on(2980);a_group_on(2159);a_set_flag(31); mission.trig.func[27]=nil;",
+            [28] = "a_group_on(3044);a_group_on(3052); mission.trig.func[28]=nil;",
+            [29] = "a_group_on(3053); mission.trig.func[29]=nil;",
+            [30] = "a_group_on(3045); mission.trig.func[30]=nil;",
+            [31] = "a_group_on(3055);a_group_on(3054); mission.trig.func[31]=nil;",
+            [32] = "a_set_flag(50); mission.trig.func[32]=nil;",
+            [33] = "a_ai_task(3577, 1); mission.trig.func[33]=nil;",
+            [34] = "a_ai_task(3768, 1);a_group_on(3857); mission.trig.func[34]=nil;",
+            [35] = "a_ai_task(3875, 1);a_ai_task(3876, 1); mission.trig.func[35]=nil;",
+            [36] = "a_group_on(3797);a_ai_task(3877, 1);a_set_flag(20); mission.trig.func[36]=nil;",
+            [37] = "a_group_on(3795);a_group_on(3878); mission.trig.func[37]=nil;",
         }, -- end of ["actions"]
         ["conditions"] =
         {
@@ -55870,37 +55871,38 @@ E057 28 169",
             [3] = "return(c_time_after(2) )",
             [4] = "return(c_time_after(4) )",
             [5] = "return(c_time_after(5) )",
-            [6] = "return(c_part_of_coalition_in_zone(\"red\", 2082) )",
-            [7] = "return(c_part_of_coalition_in_zone(\"blue\", 2200) )",
-            [8] = "return(c_part_of_coalition_in_zone(\"blue\", 2201) )",
-            [9] = "return(c_part_of_coalition_in_zone(\"blue\", 3044) )",
-            [10] = "return(c_part_of_coalition_in_zone(\"blue\", 3045) )",
-            [11] = "return(c_part_of_coalition_in_zone(\"blue\", 3046) )",
-            [12] = "return(c_part_of_coalition_in_zone(\"blue\", 3047) )",
-            [13] = "return(c_part_of_coalition_in_zone(\"blue\", 3113) )",
-            [14] = "return(c_time_after(6600) )",
-            [15] = "return(c_coalition_has_airdrome(2, 4) )",
-            [16] = "return(c_part_of_coalition_in_zone(\"blue\", 2141) )",
-            [17] = "return(c_part_of_coalition_in_zone(\"blue\", 3114) )",
-            [18] = "return(c_time_after(6400) )",
-            [19] = "return(c_time_after(5400) )",
-            [20] = "return(c_group_life_less(156, 85) or c_group_life_less(1436, 85) or c_group_life_less(1437, 85) )",
-            [21] = "return(c_flag_is_true(10) )",
-            [22] = "return(c_flag_is_true(11) )",
-            [23] = "return(c_time_after(7200) )",
-            [24] = "return(c_part_of_group_in_zone(596, 2916) )",
-            [25] = "return(c_time_after(2000) )",
-            [26] = "return(true)",
-            [27] = "return(c_part_of_coalition_in_zone(\"blue\", 3313) )",
-            [28] = "return(c_part_of_coalition_in_zone(\"blue\", 3314) )",
-            [29] = "return(c_part_of_coalition_in_zone(\"blue\", 3315) )",
-            [30] = "return(c_part_of_coalition_in_zone(\"blue\", 3317) )",
-            [31] = "return(c_part_of_coalition_in_zone(\"blue\", 3045) or c_part_of_coalition_in_zone(\"blue\", 3047) or c_part_of_coalition_in_zone(\"blue\", 3046) or c_part_of_coalition_in_zone(\"blue\", 3044) or c_part_of_coalition_in_zone(\"blue\", 3313) or c_part_of_coalition_in_zone(\"blue\", 3314) )",
-            [32] = "return(c_time_since_flag(50, 850) )",
-            [33] = "return(c_part_of_coalition_in_zone(\"blue\", 3757) )",
-            [34] = "return(c_time_after(3600) )",
-            [35] = "return(c_group_life_less(3773, 75) or c_group_life_less(3773, 75) or c_group_life_less(3773, 75) )",
-            [36] = "return(c_time_since_flag(20, 360) )",
+            [6] = "return(c_time_after(6) )",
+            [7] = "return(c_part_of_coalition_in_zone(\"red\", 2082) )",
+            [8] = "return(c_part_of_coalition_in_zone(\"blue\", 2200) )",
+            [9] = "return(c_part_of_coalition_in_zone(\"blue\", 2201) )",
+            [10] = "return(c_part_of_coalition_in_zone(\"blue\", 3044) )",
+            [11] = "return(c_part_of_coalition_in_zone(\"blue\", 3045) )",
+            [12] = "return(c_part_of_coalition_in_zone(\"blue\", 3046) )",
+            [13] = "return(c_part_of_coalition_in_zone(\"blue\", 3047) )",
+            [14] = "return(c_part_of_coalition_in_zone(\"blue\", 3113) )",
+            [15] = "return(c_time_after(6600) )",
+            [16] = "return(c_coalition_has_airdrome(2, 4) )",
+            [17] = "return(c_part_of_coalition_in_zone(\"blue\", 2141) )",
+            [18] = "return(c_part_of_coalition_in_zone(\"blue\", 3114) )",
+            [19] = "return(c_time_after(6400) )",
+            [20] = "return(c_time_after(5400) )",
+            [21] = "return(c_group_life_less(156, 85) or c_group_life_less(1436, 85) or c_group_life_less(1437, 85) )",
+            [22] = "return(c_flag_is_true(10) )",
+            [23] = "return(c_flag_is_true(11) )",
+            [24] = "return(c_time_after(7200) )",
+            [25] = "return(c_part_of_group_in_zone(596, 2916) )",
+            [26] = "return(c_time_after(2000) )",
+            [27] = "return(true)",
+            [28] = "return(c_part_of_coalition_in_zone(\"blue\", 3313) )",
+            [29] = "return(c_part_of_coalition_in_zone(\"blue\", 3314) )",
+            [30] = "return(c_part_of_coalition_in_zone(\"blue\", 3315) )",
+            [31] = "return(c_part_of_coalition_in_zone(\"blue\", 3317) )",
+            [32] = "return(c_part_of_coalition_in_zone(\"blue\", 3045) or c_part_of_coalition_in_zone(\"blue\", 3047) or c_part_of_coalition_in_zone(\"blue\", 3046) or c_part_of_coalition_in_zone(\"blue\", 3044) or c_part_of_coalition_in_zone(\"blue\", 3313) or c_part_of_coalition_in_zone(\"blue\", 3314) )",
+            [33] = "return(c_time_since_flag(50, 850) )",
+            [34] = "return(c_part_of_coalition_in_zone(\"blue\", 3757) )",
+            [35] = "return(c_time_after(3600) )",
+            [36] = "return(c_group_life_less(3773, 75) or c_group_life_less(3773, 75) or c_group_life_less(3773, 75) )",
+            [37] = "return(c_time_since_flag(20, 360) )",
         }, -- end of ["conditions"]
         ["custom"] =
         {
@@ -55949,6 +55951,7 @@ E057 28 169",
             [34] = true,
             [35] = true,
             [36] = true,
+            [37] = true,
         }, -- end of ["flag"]
         ["func"] =
         {
@@ -55971,9 +55974,9 @@ E057 28 169",
             [18] = "if mission.trig.conditions[18]() then mission.trig.actions[18]() end",
             [19] = "if mission.trig.conditions[19]() then mission.trig.actions[19]() end",
             [20] = "if mission.trig.conditions[20]() then mission.trig.actions[20]() end",
-            [21] = "if mission.trig.conditions[21]() then if not mission.trig.flag[21] then mission.trig.actions[21](); mission.trig.flag[21] = true;end; else mission.trig.flag[21] = false; end;",
+            [21] = "if mission.trig.conditions[21]() then mission.trig.actions[21]() end",
             [22] = "if mission.trig.conditions[22]() then if not mission.trig.flag[22] then mission.trig.actions[22](); mission.trig.flag[22] = true;end; else mission.trig.flag[22] = false; end;",
-            [23] = "if mission.trig.conditions[23]() then mission.trig.actions[23]() end",
+            [23] = "if mission.trig.conditions[23]() then if not mission.trig.flag[23] then mission.trig.actions[23](); mission.trig.flag[23] = true;end; else mission.trig.flag[23] = false; end;",
             [24] = "if mission.trig.conditions[24]() then mission.trig.actions[24]() end",
             [25] = "if mission.trig.conditions[25]() then mission.trig.actions[25]() end",
             [26] = "if mission.trig.conditions[26]() then mission.trig.actions[26]() end",
@@ -55987,6 +55990,7 @@ E057 28 169",
             [34] = "if mission.trig.conditions[34]() then mission.trig.actions[34]() end",
             [35] = "if mission.trig.conditions[35]() then mission.trig.actions[35]() end",
             [36] = "if mission.trig.conditions[36]() then mission.trig.actions[36]() end",
+            [37] = "if mission.trig.conditions[37]() then mission.trig.actions[37]() end",
         }, -- end of ["func"]
         ["funcStartup"] =
         {
@@ -56615,7 +56619,7 @@ E057 28 169",
                         [1] = "",
                         [2] = "",
                     }, -- end of ["ai_task"]
-                    ["file"] = "ResKey_Action_4931",
+                    ["file"] = "ResKey_Action_6305",
                     ["predicate"] = "a_do_script_file",
                 }, -- end of [1]
             }, -- end of ["actions"]
@@ -57100,6 +57104,36 @@ E057 28 169",
                         [1] = "",
                         [2] = "",
                     }, -- end of ["ai_task"]
+                    ["file"] = "ResKey_Action_6307",
+                    ["predicate"] = "a_do_script_file",
+                }, -- end of [1]
+            }, -- end of ["actions"]
+            ["colorItem"] = "0x008080ff",
+            ["comment"] = "Load SAM_Evasion",
+            ["eventlist"] = "",
+            ["predicate"] = "triggerOnce",
+            ["rules"] =
+            {
+                [1] =
+                {
+                    ["coalitionlist"] = "red",
+                    ["predicate"] = "c_time_after",
+                    ["seconds"] = 6,
+                    ["zone"] = 2735,
+                }, -- end of [1]
+            }, -- end of ["rules"]
+        }, -- end of [6]
+        [7] =
+        {
+            ["actions"] =
+            {
+                [1] =
+                {
+                    ["ai_task"] =
+                    {
+                        [1] = "",
+                        [2] = "",
+                    }, -- end of ["ai_task"]
                     ["group"] = 151,
                     ["predicate"] = "a_group_on",
                 }, -- end of [1]
@@ -57127,8 +57161,8 @@ E057 28 169",
                     ["zone"] = 2082,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [6]
-        [7] =
+        }, -- end of [7]
+        [8] =
         {
             ["actions"] =
             {
@@ -57156,8 +57190,8 @@ E057 28 169",
                     ["zone"] = 2200,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [7]
-        [8] =
+        }, -- end of [8]
+        [9] =
         {
             ["actions"] =
             {
@@ -57215,8 +57249,8 @@ E057 28 169",
                     ["zone"] = 2201,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [8]
-        [9] =
+        }, -- end of [9]
+        [10] =
         {
             ["actions"] =
             {
@@ -57264,8 +57298,8 @@ E057 28 169",
                     ["zone"] = 3044,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [9]
-        [10] =
+        }, -- end of [10]
+        [11] =
         {
             ["actions"] =
             {
@@ -57293,8 +57327,8 @@ E057 28 169",
                     ["zone"] = 3045,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [10]
-        [11] =
+        }, -- end of [11]
+        [12] =
         {
             ["actions"] =
             {
@@ -57332,8 +57366,8 @@ E057 28 169",
                     ["zone"] = 3046,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [11]
-        [12] =
+        }, -- end of [12]
+        [13] =
         {
             ["actions"] =
             {
@@ -57361,8 +57395,8 @@ E057 28 169",
                     ["zone"] = 3047,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [12]
-        [13] =
+        }, -- end of [13]
+        [14] =
         {
             ["actions"] =
             {
@@ -57390,8 +57424,8 @@ E057 28 169",
                     ["zone"] = 3113,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [13]
-        [14] =
+        }, -- end of [14]
+        [15] =
         {
             ["actions"] =
             {
@@ -57429,8 +57463,8 @@ E057 28 169",
                     ["zone"] = 2141,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [14]
-        [15] =
+        }, -- end of [15]
+        [16] =
         {
             ["actions"] =
             {
@@ -57476,8 +57510,8 @@ E057 28 169",
                     ["zone"] = 2141,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [15]
-        [16] =
+        }, -- end of [16]
+        [17] =
         {
             ["actions"] =
             {
@@ -57525,8 +57559,8 @@ E057 28 169",
                     ["zone"] = 2141,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [16]
-        [17] =
+        }, -- end of [17]
+        [18] =
         {
             ["actions"] =
             {
@@ -57604,8 +57638,8 @@ E057 28 169",
                     ["zone"] = 3114,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [17]
-        [18] =
+        }, -- end of [18]
+        [19] =
         {
             ["actions"] =
             {
@@ -57633,8 +57667,8 @@ E057 28 169",
                     ["zone"] = 2794,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [18]
-        [19] =
+        }, -- end of [19]
+        [20] =
         {
             ["actions"] =
             {
@@ -57671,8 +57705,8 @@ E057 28 169",
                     ["zone"] = 2794,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [19]
-        [20] =
+        }, -- end of [20]
+        [21] =
         {
             ["actions"] =
             {
@@ -57734,8 +57768,8 @@ E057 28 169",
                     ["zone"] = 2794,
                 }, -- end of [5]
             }, -- end of ["rules"]
-        }, -- end of [20]
-        [21] =
+        }, -- end of [21]
+        [22] =
         {
             ["actions"] =
             {
@@ -57772,8 +57806,8 @@ E057 28 169",
                     ["zone"] = 2141,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [21]
-        [22] =
+        }, -- end of [22]
+        [23] =
         {
             ["actions"] =
             {
@@ -57801,8 +57835,8 @@ E057 28 169",
                     ["zone"] = 2141,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [22]
-        [23] =
+        }, -- end of [23]
+        [24] =
         {
             ["actions"] =
             {
@@ -57830,8 +57864,8 @@ E057 28 169",
                     ["zone"] = 2735,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [23]
-        [24] =
+        }, -- end of [24]
+        [25] =
         {
             ["actions"] =
             {
@@ -57885,8 +57919,8 @@ E057 28 169",
                     ["zone"] = 2916,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [24]
-        [25] =
+        }, -- end of [25]
+        [26] =
         {
             ["actions"] =
             {
@@ -57913,8 +57947,8 @@ E057 28 169",
                     ["zone"] = 2735,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [25]
-        [26] =
+        }, -- end of [26]
+        [27] =
         {
             ["actions"] =
             {
@@ -57975,8 +58009,8 @@ E057 28 169",
             ["rules"] =
             {
             }, -- end of ["rules"]
-        }, -- end of [26]
-        [27] =
+        }, -- end of [27]
+        [28] =
         {
             ["actions"] =
             {
@@ -58013,8 +58047,8 @@ E057 28 169",
                     ["zone"] = 3313,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [27]
-        [28] =
+        }, -- end of [28]
+        [29] =
         {
             ["actions"] =
             {
@@ -58041,8 +58075,8 @@ E057 28 169",
                     ["zone"] = 3314,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [28]
-        [29] =
+        }, -- end of [29]
+        [30] =
         {
             ["actions"] =
             {
@@ -58069,8 +58103,8 @@ E057 28 169",
                     ["zone"] = 3315,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [29]
-        [30] =
+        }, -- end of [30]
+        [31] =
         {
             ["actions"] =
             {
@@ -58107,8 +58141,8 @@ E057 28 169",
                     ["zone"] = 3317,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [30]
-        [31] =
+        }, -- end of [31]
+        [32] =
         {
             ["actions"] =
             {
@@ -58185,8 +58219,8 @@ E057 28 169",
                     ["zone"] = 3314,
                 }, -- end of [11]
             }, -- end of ["rules"]
-        }, -- end of [31]
-        [32] =
+        }, -- end of [32]
+        [33] =
         {
             ["actions"] =
             {
@@ -58214,8 +58248,8 @@ E057 28 169",
                     ["zone"] = 2735,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [32]
-        [33] =
+        }, -- end of [33]
+        [34] =
         {
             ["actions"] =
             {
@@ -58252,8 +58286,8 @@ E057 28 169",
                     ["zone"] = 3757,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [33]
-        [34] =
+        }, -- end of [34]
+        [35] =
         {
             ["actions"] =
             {
@@ -58289,8 +58323,8 @@ E057 28 169",
                     ["zone"] = 2794,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [34]
-        [35] =
+        }, -- end of [35]
+        [36] =
         {
             ["actions"] =
             {
@@ -58364,8 +58398,8 @@ E057 28 169",
                     ["zone"] = 2794,
                 }, -- end of [5]
             }, -- end of ["rules"]
-        }, -- end of [35]
-        [36] =
+        }, -- end of [36]
+        [37] =
         {
             ["actions"] =
             {
@@ -58405,7 +58439,7 @@ E057 28 169",
                     ["zone"] = 2794,
                 }, -- end of [1]
             }, -- end of ["rules"]
-        }, -- end of [36]
+        }, -- end of [37]
     }, -- end of ["trigrules"]
     ["version"] = 16,
     ["weather"] =
