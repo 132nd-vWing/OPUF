@@ -2449,7 +2449,7 @@ warehouses =
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
         }, -- end of [1]
-        [7246] = 
+        [168] = 
         {
             ["gasoline"] = 
             {
@@ -2486,7 +2486,7 @@ warehouses =
             }, -- end of ["weapons"]
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
-        }, -- end of [7246]
+        }, -- end of [168]
         [7217] = 
         {
             ["gasoline"] = 
@@ -2715,7 +2715,7 @@ warehouses =
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
         }, -- end of [7147]
-        [364] = 
+        [603] = 
         {
             ["gasoline"] = 
             {
@@ -2752,7 +2752,7 @@ warehouses =
             }, -- end of ["weapons"]
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
-        }, -- end of [364]
+        }, -- end of [603]
         [641] = 
         {
             ["gasoline"] = 
@@ -2867,7 +2867,7 @@ warehouses =
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
         }, -- end of [256]
-        [603] = 
+        [364] = 
         {
             ["gasoline"] = 
             {
@@ -2904,7 +2904,7 @@ warehouses =
             }, -- end of ["weapons"]
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
-        }, -- end of [603]
+        }, -- end of [364]
         [604] = 
         {
             ["gasoline"] = 
@@ -2981,7 +2981,7 @@ warehouses =
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
         }, -- end of [831]
-        [168] = 
+        [7246] = 
         {
             ["gasoline"] = 
             {
@@ -3018,6 +3018,6 @@ warehouses =
             }, -- end of ["weapons"]
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
-        }, -- end of [168]
+        }, -- end of [7246]
     }, -- end of ["warehouses"]
 } -- end of warehouses
