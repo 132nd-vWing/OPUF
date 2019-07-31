@@ -6,8 +6,8 @@ local evasion_delay = math.random(4,8)  -- after HARM launch, delay in seconds u
 local radar_delay = math.random(120,300)   -- time in seconds until the unit will turn its radar back on (random number between the two)
 local move_distance =  math.random(50,150)-- meters the unit will move before stopping (random number between the two)
 local evasion_for_client_planes_only = true -- set to false if Sam Radars should also respond to AI planes firing
-local chance_for_group_relocating = 5   --percent chance that the group shuts down and moves to a new location further away
-local relocating_distance = math.random(800,1200)  -- distance in meters that the group relocates
+local chance_for_group_relocating = 10   --percent chance that the group shuts down and moves to a new location further away
+local relocating_distance = math.random(150,800)  -- distance in meters that the group relocates
 
 
 --- do not change below this line --- 
