@@ -4,6 +4,7 @@ mapResource =
     ["ResKey_Action_1908"] = "beaconsilent.ogg",
     ["ResKey_Action_1910"] = "mist_4_3_74.lua",
     ["ResKey_Action_1911"] = "CTLD.lua",
-    ["ResKey_Action_6305"] = "Moose.lua",
+    ["ResKey_Action_6305"] = "Moose22July19.lua",
     ["ResKey_Action_6307"] = "OPUF_ThreatSites.lua",
+    ["ResKey_Action_6397"] = "132ndFramework.lua",
 } -- end of mapResource
