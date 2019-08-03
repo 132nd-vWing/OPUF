@@ -15,13 +15,13 @@ local relocating_distance = math.random(150,800)  -- distance in meters that the
 --- RANDOMNESS COMMANDS
 local random = true     -- set to false to disable random behavior for Sams
 local prefix_random = "random_"  -- all SAM that should be added to the script need to have these word within their GROUP NAME--- /end RANDOMNESS COMMANDS
-local random_relocating_distance_min = 20  -- distance in meters that the group relocates
-local random_relocating_distance_max = 100  -- distance in meters that the group relocates
-local random_move_chance = 25    --percent chance that the group will mnove after stowing the sensors
+local random_relocating_distance_min = 50  -- distance in meters that the group relocates
+local random_relocating_distance_max = 250  -- distance in meters that the group relocates
+local random_move_chance = 20    --percent chance that the group will mnove after stowing the sensors
 local random_Radar_ON_time_min = 60 -- time in seconds the unit will have the Radar ON (random number between the two)
 local random_Radar_ON_time_max = 180 -- time in seconds the unit will have the Radar ON (random number between the two)
-local random_Radar_Off_time_min = 120 -- time in seconds the unit will have the Radar ON (random number between the two)
-local random_Radar_Off_time_max = 360 -- time in seconds the unit will have the Radar ON (random number between the two)
+local random_Radar_Off_time_min = 120 -- time in seconds the unit will have the Radar OFF (random number between the two)
+local random_Radar_Off_time_max = 400 -- time in seconds the unit will have the Radar OFF (random number between the two)
 
 
 --- do not change below this line ---

@@ -43,7 +43,7 @@ IranBorderZone = ZONE_POLYGON:New( "IranColdBorder", GROUP:FindByName( "IranCold
 A2ADispatcher:SetBorderZone( IranBorderZone )
 A2ADispatcher:SetDisengageRadius( 460000 )--important to stop caps drifting 460km is 250nm, and covers coast from Shiraz to a bit east of Abbas 
 A2ADispatcher:SetEngageRadius(200000) --everything inside 200km from the aircraft is handled by the CAP
-A2ADispatcher:SetTacticalDisplay( true ) --change to false for production
+A2ADispatcher:SetTacticalDisplay( false ) --change to false for production
 A2ADispatcher:SetDefaultCapTimeInterval( 900, 1200 ) --between 15mins and 20mins
 A2ADispatcher:SetDefaultFuelThreshold( 0.3 ) -- % including tanks before heading to refuel. Note refuel is on INTERNAL max only for AI.
 
