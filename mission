@@ -46069,7 +46069,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1257628,
+    ["currentKey"] = 1259920,
     ["date"] =
     {
         ["Day"] = 8,
@@ -49330,7 +49330,7 @@ E057 28 169",
         ["centerY"] = -15504.279472188,
         ["zoom"] = 413684.92076182,
     }, -- end of ["map"]
-    ["maxDictId"] = 6672,
+    ["maxDictId"] = 6673,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -49397,7 +49397,7 @@ E057 28 169",
             [4] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_1910\")); mission.trig.func[4]=nil;",
             [5] = "a_out_sound_c(21, getValueResourceByKey(\"ResKey_Action_1907\"), 0);a_out_sound_c(21, getValueResourceByKey(\"ResKey_Action_1908\"), 0); mission.trig.func[5]=nil;",
             [6] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_1911\")); mission.trig.func[6]=nil;",
-            [7] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_6307\")); mission.trig.func[7]=nil;",
+            [7] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_6673\")); mission.trig.func[7]=nil;",
             [8] = "a_group_on(151);a_group_on(150); mission.trig.func[8]=nil;",
             [9] = "a_group_on(157); mission.trig.func[9]=nil;",
             [10] = "a_group_on(159);a_group_on(3490);a_group_on(3535);a_group_on(3534); mission.trig.func[10]=nil;",
@@ -50679,7 +50679,7 @@ E057 28 169",
                         [1] = "",
                         [2] = "",
                     }, -- end of ["ai_task"]
-                    ["file"] = "ResKey_Action_6307",
+                    ["file"] = "ResKey_Action_6673",
                     ["predicate"] = "a_do_script_file",
                 }, -- end of [1]
             }, -- end of ["actions"]
