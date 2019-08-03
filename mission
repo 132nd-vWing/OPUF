@@ -44095,7 +44095,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1241603,
+    ["currentKey"] = 1245969,
     ["date"] =
     {
         ["Day"] = 8,
@@ -47352,11 +47352,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = -454.54545454547,
+        ["centerX"] = 183891.82058047,
         ["centerY"] = -50000,
         ["zoom"] = 3181818.1818182,
     }, -- end of ["map"]
-    ["maxDictId"] = 6552,
+    ["maxDictId"] = 6554,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -47420,7 +47420,7 @@ E057 28 169",
     {
         ["actions"] =
         {
-            [1] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_6305\"));",
+            [1] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_6554\"));",
             [2] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_6397\")); mission.trig.func[2]=nil;",
             [3] = "a_group_off(151);a_group_off(150);a_group_off(1874);a_group_off(1826);a_group_off(1436);a_group_off(1437);a_group_off(1642);a_group_off(1644);a_group_off(1643);a_group_off(157);a_group_off(159);a_group_off(3490);a_group_off(3534);a_group_off(3535);a_group_off(55);a_group_off(54);a_group_off(2114);a_group_off(1754);a_group_off(1849);a_group_off(2159);a_group_off(2980);a_group_off(3044);a_group_off(3052);a_group_off(3053);a_group_off(3045);a_group_off(3055);a_group_off(3054); mission.trig.func[3]=nil;",
             [4] = "a_do_script_file(getValueResourceByKey(\"ResKey_Action_1910\")); mission.trig.func[4]=nil;",
@@ -48253,7 +48253,7 @@ E057 28 169",
                         [1] = "",
                         [2] = "",
                     }, -- end of ["ai_task"]
-                    ["file"] = "ResKey_Action_6305",
+                    ["file"] = "ResKey_Action_6554",
                     ["predicate"] = "a_do_script_file",
                 }, -- end of [1]
             }, -- end of ["actions"]
