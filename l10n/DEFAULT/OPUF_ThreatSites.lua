@@ -5,10 +5,10 @@ local prefix = "evade_"  -- all SAM that should be added to the script need to h
 local Target_Smoke = false           -- set to TRUE if you want red smoke deployed from the Target SAM  (mainly used for debugging)
 local evasion_delay = math.random(4,8)  -- after HARM launch, delay in seconds until the SAM take evasive action (random number between the two)
 local radar_delay = math.random(120,300)   -- time in seconds until the unit will turn its radar back on (random number between the two)
-local move_distance =  math.random(50,150)-- meters the unit will move before stopping (random number between the two)
+local move_distance =  math.random(50,300)-- meters the unit will move before stopping (random number between the two)
 local evasion_for_client_planes_only = true -- set to false if Sam Radars should also respond to AI planes firing
-local chance_for_group_relocating = 10   --percent chance that the group shuts down and moves to a new location further away
-local relocating_distance = math.random(150,800)  -- distance in meters that the group relocates
+local chance_for_group_relocating = 15   --percent chance that the group shuts down and moves to a new location further away
+local relocating_distance = math.random(200,800)  -- distance in meters that the group relocates
 --- /end EVASION COMMANDS ---
 
 
@@ -16,12 +16,12 @@ local relocating_distance = math.random(150,800)  -- distance in meters that the
 local random = true     -- set to false to disable random behavior for Sams
 local prefix_random = "random_"  -- all SAM that should be added to the script need to have these word within their GROUP NAME--- /end RANDOMNESS COMMANDS
 local random_relocating_distance_min = 50  -- distance in meters that the group relocates
-local random_relocating_distance_max = 250  -- distance in meters that the group relocates
+local random_relocating_distance_max = 300  -- distance in meters that the group relocates
 local random_move_chance = 20    --percent chance that the group will mnove after stowing the sensors
 local random_Radar_ON_time_min = 60 -- time in seconds the unit will have the Radar ON (random number between the two)
 local random_Radar_ON_time_max = 180 -- time in seconds the unit will have the Radar ON (random number between the two)
 local random_Radar_Off_time_min = 120 -- time in seconds the unit will have the Radar OFF (random number between the two)
-local random_Radar_Off_time_max = 400 -- time in seconds the unit will have the Radar OFF (random number between the two)
+local random_Radar_Off_time_max = 450 -- time in seconds the unit will have the Radar OFF (random number between the two)
 
 
 --- do not change below this line ---
