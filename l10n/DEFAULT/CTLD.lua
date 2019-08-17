@@ -188,6 +188,8 @@ ctld.transportPilotNames = {
     "259  FARP LONDON #4",
 	"259  FARP MADRID #1",
 	"259  FARP MADRID #2",
+	"259  KHASAB #1",
+	"259  KHASAB #2",	
 	"MI-8 Al Dahfra #1 - Park 87",
 	"MI-8 Al Dahfra #1 - Park 88", 
 	"MI-8 Al Dahfra #1 - Park 89", 
@@ -205,6 +207,7 @@ ctld.extractableGroups = {
     "JTAC T1.1",
 	"Injured_personel_1",
 	"Injured_personel_2",
+	"JTAC WARRIOR QESHM",
   
     
 }
@@ -217,6 +220,7 @@ ctld.extractableGroups = {
 ctld.logisticUnits = {
     "Warehouse Al Minhad",
 	"Warehouse Al Dhafra",
+	"Warehouse Khasab",
 	
 }
 
