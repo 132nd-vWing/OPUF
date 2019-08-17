@@ -186,8 +186,6 @@ ctld.transportPilotNames = {
     "259  FARP LONDON #2",    
     "259  FARP LONDON #3",
     "259  FARP LONDON #4",
-	"259  FARP MADRID #1",
-	"259  FARP MADRID #2",
 	"259  KHASAB #1",
 	"259  KHASAB #2",	
 	"MI-8 Al Dahfra #1 - Park 87",
