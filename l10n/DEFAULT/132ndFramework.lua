@@ -4,7 +4,7 @@
 ShirazCap = true
 LarCap = false
 KermanCap = true
-AbbasCap = true
+AbbasCap = false
 
 JiroftGCI = true
 LarGCI = true
