@@ -206,6 +206,9 @@ ctld.extractableGroups = {
 	"Injured_personel_1",
 	"Injured_personel_2",
 	"JTAC WARRIOR QESHM",
+	"BACKUP_INFANTRY1",
+	"BACKUP_INFANTRY2",
+	"BACKUP_INFANTRY3",
   
     
 }
