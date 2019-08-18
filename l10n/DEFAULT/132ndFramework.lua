@@ -4,11 +4,11 @@
 ShirazCap = true
 LarCap = false
 KermanCap = true
-AbbasCap = false
+AbbasCap = true
 
 JiroftGCI = true
 LarGCI = true
-JaskGCI = false
+JaskGCI = true
 
 --SQUADRON SIZES
 
