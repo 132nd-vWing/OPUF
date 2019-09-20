@@ -29142,7 +29142,7 @@ E057 28 169",
                                             [3] = 1,
                                             ["name"] = "Focus11",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = -1.4109579076096,
+                                        ["heading"] = -3.0392731579732,
                                         ["livery_id"] = "IRIAF 5-8208 Simorgh",
                                         ["name"] = "DictKey_UnitName_6375",
                                         ["onboard_num"] = "906",
@@ -33732,6 +33732,7 @@ E057 28 169",
                                 ["frequency"] = 251,
                                 ["groupId"] = 250,
                                 ["hidden"] = false,
+                                ["lateActivation"] = true,
                                 ["modulation"] = 0,
                                 ["name"] = "DictKey_GroupName_919",
                                 ["radioSet"] = true,
@@ -33778,8 +33779,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParkingHot",
-                                            ["x"] = 379150.96875,
-                                            ["y"] = -350239.96875,
+                                            ["x"] = 379350.59375,
+                                            ["y"] = -350638.46875,
                                         }, -- end of [1]
                                         [2] =
                                         {
@@ -33888,6 +33889,7 @@ E057 28 169",
                                             ["y"] = -349193.76003578,
                                         }, -- end of [4]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = true,
                                 }, -- end of ["route"]
                                 ["start_time"] = 0,
                                 ["task"] = "Refueling",
@@ -33903,12 +33905,12 @@ E057 28 169",
                                         ["alt"] = 1487,
                                         ["alt_type"] = "BARO",
                                         ["callsign"] = 106,
-                                        ["heading"] = -0.08443912657588,
+                                        ["heading"] = 2.2837025079574,
                                         ["livery_id"] = "RF Air Force new",
                                         ["name"] = "DictKey_UnitName_920",
                                         ["onboard_num"] = "906",
-                                        ["parking"] = "0",
-                                        ["parking_id"] = "E06",
+                                        ["parking"] = 5,
+                                        ["parking_id"] = "E01",
                                         ["payload"] =
                                         {
                                             ["chaff"] = 96,
@@ -33919,17 +33921,17 @@ E057 28 169",
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -2.2842228256374,
+                                        ["psi"] = -2.2837025079574,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "IL-78M",
                                         ["unitId"] = 349,
-                                        ["x"] = 379150.96875,
-                                        ["y"] = -350239.96875,
+                                        ["x"] = 379350.59375,
+                                        ["y"] = -350638.46875,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
-                                ["x"] = 379150.96875,
-                                ["y"] = -350239.96875,
+                                ["x"] = 379350.59375,
+                                ["y"] = -350638.46875,
                             }, -- end of [1]
                         }, -- end of ["group"]
                     }, -- end of ["plane"]
@@ -37773,7 +37775,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1425732,
+    ["currentKey"] = 1429320,
     ["date"] =
     {
         ["Day"] = 16,
@@ -41032,9 +41034,9 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 343863.38645662,
-        ["centerY"] = -277995.66120869,
-        ["zoom"] = 1298306.4101959,
+        ["centerX"] = 379421.74433214,
+        ["centerY"] = -350468.35909046,
+        ["zoom"] = 3164.9969996377,
     }, -- end of ["map"]
     ["maxDictId"] = 7101,
     ["pictureFileNameB"] =
