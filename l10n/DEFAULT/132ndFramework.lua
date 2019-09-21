@@ -57,7 +57,7 @@ A2ADispatcher:SetSquadronTakeoffFromParkingHot( "ShirazSqn" )
 A2ADispatcher:SetSquadronLandingAtEngineShutdown( "ShirazSqn" )
 A2ADispatcher:SetSquadronCap( "ShirazSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO", 0) --start disabled
 A2ADispatcher:SetSquadronCapInterval( "ShirazSqn", 1, 900, 1200 ) -- only one CAP ever, between 15mins and 20mins
-A2ADispatcher:SetSquadronTanker("ShirazSqn", "IranRefueller")
+A2ADispatcher:SetSquadronTanker("ShirazSqn", "IranRefueller#001")
 A2ADispatcher:SetSquadronCapRacetrack("ShirazSqn", UTILS.NMToMeters(20), UTILS.NMToMeters(20), 180, 180, nil, nil, {ZONE:New("CAPshiraz"):GetCoordinate()})
 --GCI SAME SQN
 A2ADispatcher:SetSquadronGci("ShirazSqn", 900, 1200 )
@@ -73,7 +73,7 @@ A2ADispatcher:SetSquadronTakeoffFromParkingHot( "ShirazSqn2" )
 A2ADispatcher:SetSquadronLandingAtEngineShutdown( "ShirazSqn2" )
 A2ADispatcher:SetSquadronCap( "ShirazSqn2", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO", LarNumbers) --CAPZone is ignored
 A2ADispatcher:SetSquadronCapInterval( "ShirazSqn2", 1, 900, 1200 ) -- only one CAP ever, between 15mins and 20mins
---A2ADispatcher:SetSquadronTanker("ShirazSqn2", "IranRefueller") --f-5s?
+--A2ADispatcher:SetSquadronTanker("ShirazSqn2", "IranRefueller#001") --f-5s?
 A2ADispatcher:SetSquadronCapRacetrack("ShirazSqn2", UTILS.NMToMeters(20), UTILS.NMToMeters(20), 180, 180, nil, nil, {ZONE:New("CAPlar"):GetCoordinate()})
 --GCI
 --not from Lar
@@ -101,7 +101,7 @@ A2ADispatcher:SetSquadronTakeoffFromParkingHot( "KermanSqn" )
 A2ADispatcher:SetSquadronLandingAtEngineShutdown( "KermanSqn" )
 A2ADispatcher:SetSquadronCap( "KermanSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO" ,0) --start disabled
 A2ADispatcher:SetSquadronCapInterval( "KermanSqn", 1, 900, 1200 ) -- only one CAP ever, between 15mins and 20mins
-A2ADispatcher:SetSquadronTanker("KermanSqn", "IranRefueller")
+A2ADispatcher:SetSquadronTanker("KermanSqn", "IranRefueller#001")
 A2ADispatcher:SetSquadronCapRacetrack("KermanSqn", UTILS.NMToMeters(20), UTILS.NMToMeters(20), 180, 180, nil, nil, {ZONE:New("CAPkerman"):GetCoordinate()})
 --GCI INCLUDED
 A2ADispatcher:SetSquadronGci("KermanSqn", 900, 1200 )
@@ -117,7 +117,7 @@ A2ADispatcher:SetSquadronTakeoffFromParkingHot( "AbbasSqn" )
 A2ADispatcher:SetSquadronLandingAtEngineShutdown( "AbbasSqn" )
 A2ADispatcher:SetSquadronCap( "AbbasSqn", CAPZone, 5000, 9000, 600, 700, 600, 1000, "BARO", AbbasNumbers) 
 A2ADispatcher:SetSquadronCapInterval( "AbbasSqn", 1, 900, 1200 ) -- only one CAP ever, between 15mins and 20mins
-A2ADispatcher:SetSquadronTanker("AbbasSqn", "IranRefueller")
+A2ADispatcher:SetSquadronTanker("AbbasSqn", "IranRefueller#001")
 A2ADispatcher:SetSquadronCapRacetrack("AbbasSqn", UTILS.NMToMeters(20), UTILS.NMToMeters(20), 225, 225, nil, nil, {ZONE:New("CAPabbas"):GetCoordinate()})
 --GCI not included (Jiroft)
 end 
