@@ -162,6 +162,7 @@ ctld.pickupZones = {
 	{ "Fujairah", "none", -1, "yes", 0 },
 	{ "FARP LONDON", "none", -1, "yes", 0 },
 	{ "Harbourzone", "none", -1, "yes", 0 },
+	{ "BANDAR ABBAS", "none", -1, "yes", 0 },
  
 }
 
@@ -193,6 +194,8 @@ ctld.transportPilotNames = {
 	"MI-8 Al Dahfra #1 - Park 89", 
 	"MI-8 Al Dahfra #1 - Park 90",
 	"FOB_Blackfoot_Convoy1",
+	"MI-8_#1"
+	"MI-8_#2"
 
   	
 	   
@@ -209,6 +212,7 @@ ctld.extractableGroups = {
 	"BACKUP_INFANTRY1",
 	"BACKUP_INFANTRY2",
 	"BACKUP_INFANTRY3",
+	"AIR_ASSAULT_INF",
   
     
 }

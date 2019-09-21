@@ -34,7 +34,7 @@ end
 
 -- DISPATCHER
 DetectionSetGroup = SET_GROUP:New()
-DetectionSetGroup:FilterPrefixes( { "IRAN AWACS" , "COAST", "SHIRAZ EAST EWR", "SAM site 01", "Bandar Abbas EWR", "KISH EWR", "BUSHER EWR", "Bandar Abbas EWR", "Bandar Abbas WEST EWR"} )
+DetectionSetGroup:FilterPrefixes( { "IRAN AWACS#IFF:9001EN#001" , "COAST", "SHIRAZ EAST EWR", "SAM site 01", "66th_SA6_REGT_SA-6 Regiment_EWR", "KISH EWR", "BUSHER EWR", "Bandar Abbas EWR", "85th_SA3_REGT_EWR"} )
 DetectionSetGroup:FilterStart()
 CAPZone = ZONE:New( "CAPshiraz", "CAPshiraz" ) --is ignored
 Detection = DETECTION_AREAS:New( DetectionSetGroup, 15000 ) --a 15km spread single invader package will be grouped as one detection event for response
