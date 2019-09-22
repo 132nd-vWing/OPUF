@@ -6,7 +6,6 @@ mapResource =
     ["ResKey_Action_1911"] = "CTLD.lua",
     ["ResKey_Action_6397"] = "132ndFramework.lua",
     ["ResKey_Action_6673"] = "OPUF_ThreatSites.lua",
-    ["ResKey_Action_7080"] = "OPUF_Airboss.lua",
     ["ResKey_Action_7082"] = "Moose.lua",
     ["ResKey_Action_7101"] = "OPUF_tankers.lua",
 } -- end of mapResource
