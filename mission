@@ -25367,6 +25367,7 @@ mission =
                                     {
                                         ["category"] = "Unarmed",
                                         ["heading"] = 5.9690260418206,
+                                        ["livery_id"] = "autumn",
                                         ["name"] = "DictKey_GroupName_7114",
                                         ["rate"] = 3,
                                         ["type"] = "Hummer",
@@ -26496,6 +26497,249 @@ mission =
                                 ["x"] = 132460.47920581,
                                 ["y"] = -111934.53255939,
                             }, -- end of [164]
+                            [165] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250155,
+                                ["heading"] = 5.9690260418206,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8338",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 128957.49941613,
+                                            ["y"] = -109152.58883934,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 5.9690260418206,
+                                        ["name"] = "DictKey_GroupName_8338",
+                                        ["type"] = "LAV-25",
+                                        ["unitId"] = 673803,
+                                        ["x"] = 128957.49941613,
+                                        ["y"] = -109152.58883934,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 128957.49941613,
+                                ["y"] = -109152.58883934,
+                            }, -- end of [165]
+                            [166] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250156,
+                                ["heading"] = 5.9690260418206,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8341",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 129894.72091448,
+                                            ["y"] = -111681.56795014,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 5.9690260418206,
+                                        ["name"] = "DictKey_GroupName_8341",
+                                        ["type"] = "LAV-25",
+                                        ["unitId"] = 673804,
+                                        ["x"] = 129894.72091448,
+                                        ["y"] = -111681.56795014,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 129894.72091448,
+                                ["y"] = -111681.56795014,
+                            }, -- end of [166]
+                            [167] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250157,
+                                ["heading"] = 5.9690260418206,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8344",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 128870.14024655,
+                                            ["y"] = -109150.3678435,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 5.9690260418206,
+                                        ["name"] = "DictKey_GroupName_8344",
+                                        ["type"] = "LAV-25",
+                                        ["unitId"] = 673805,
+                                        ["x"] = 128870.14024655,
+                                        ["y"] = -109150.3678435,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 128870.14024655,
+                                ["y"] = -109150.3678435,
+                            }, -- end of [167]
+                            [168] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250164,
+                                ["heading"] = 5.9690260418206,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8369",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 129431.19190905,
+                                            ["y"] = -111665.89470877,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 5.9690260418206,
+                                        ["name"] = "DictKey_GroupName_8369",
+                                        ["rate"] = 1,
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 673815,
+                                        ["x"] = 129431.19190905,
+                                        ["y"] = -111665.89470877,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 129431.19190905,
+                                ["y"] = -111665.89470877,
+                            }, -- end of [168]
+                            [169] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250165,
+                                ["heading"] = 5.9690260418206,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8372",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 129489.85696402,
+                                            ["y"] = -111696.08158171,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 5.9690260418206,
+                                        ["name"] = "DictKey_GroupName_8372",
+                                        ["rate"] = 1,
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 673816,
+                                        ["x"] = 129489.85696402,
+                                        ["y"] = -111696.08158171,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 129489.85696402,
+                                ["y"] = -111696.08158171,
+                            }, -- end of [169]
+                            [170] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250166,
+                                ["heading"] = 5.9690260418206,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8375",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 129450.55707283,
+                                            ["y"] = -111731.96409106,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 5.9690260418206,
+                                        ["name"] = "DictKey_GroupName_8375",
+                                        ["rate"] = 1,
+                                        ["type"] = "Soldier M4",
+                                        ["unitId"] = 673817,
+                                        ["x"] = 129450.55707283,
+                                        ["y"] = -111731.96409106,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 129450.55707283,
+                                ["y"] = -111731.96409106,
+                            }, -- end of [170]
                         }, -- end of ["group"]
                     }, -- end of ["static"]
                     ["vehicle"] =
@@ -29635,6 +29879,132 @@ mission =
                                 ["x"] = 116191.66894837,
                                 ["y"] = 15247.052271803,
                             }, -- end of [26]
+                            [27] =
+                            {
+                                ["groupId"] = 250154,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_8335",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 249,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_8337",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 129493.27434586,
+                                            ["y"] = -111697.22070899,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                        [1] =
+                                        {
+                                            [1] =
+                                            {
+                                                ["x"] = 129742.80895299,
+                                                ["y"] = -111556.18501224,
+                                            }, -- end of [1]
+                                            [2] =
+                                            {
+                                                ["x"] = 130006.41623765,
+                                                ["y"] = -111846.15302537,
+                                            }, -- end of [2]
+                                        }, -- end of [1]
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 5.4502040405051,
+                                        ["name"] = "DictKey_UnitName_8336",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 673802,
+                                        ["x"] = 129493.27434586,
+                                        ["y"] = -111697.22070899,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 5.4502040405051,
+                                        ["name"] = "DictKey_UnitName_8365",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 673812,
+                                        ["x"] = 129454.47828569,
+                                        ["y"] = -111727.19149586,
+                                    }, -- end of [2]
+                                    [3] =
+                                    {
+                                        ["heading"] = 5.4502040405051,
+                                        ["name"] = "DictKey_UnitName_8366",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "2B11 mortar",
+                                        ["unitId"] = 673813,
+                                        ["x"] = 129435.17885454,
+                                        ["y"] = -111661.90776329,
+                                    }, -- end of [3]
+                                    [4] =
+                                    {
+                                        ["heading"] = 3.8920842319474,
+                                        ["name"] = "DictKey_UnitName_8367",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "M 818",
+                                        ["unitId"] = 673814,
+                                        ["x"] = 129426.77000004,
+                                        ["y"] = -111704.85975068,
+                                    }, -- end of [4]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 129493.27434586,
+                                ["y"] = -111697.22070899,
+                            }, -- end of [27]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [21]
@@ -49006,6 +49376,526 @@ E057 28 169",
                                 ["x"] = 179622.81993605,
                                 ["y"] = -254263.55823659,
                             }, -- end of [83]
+                            [84] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250158,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8347",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 131067.54602184,
+                                            ["y"] = -114566.94238287,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8347",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673806,
+                                        ["x"] = 131067.54602184,
+                                        ["y"] = -114566.94238287,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 131067.54602184,
+                                ["y"] = -114566.94238287,
+                            }, -- end of [84]
+                            [85] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250159,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8350",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 131075.08627112,
+                                            ["y"] = -114573.61366194,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8350",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673807,
+                                        ["x"] = 131075.08627112,
+                                        ["y"] = -114573.61366194,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 131075.08627112,
+                                ["y"] = -114573.61366194,
+                            }, -- end of [85]
+                            [86] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250160,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8353",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 128512.57196915,
+                                            ["y"] = -115083.39655366,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8353",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673808,
+                                        ["x"] = 128512.57196915,
+                                        ["y"] = -115083.39655366,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 128512.57196915,
+                                ["y"] = -115083.39655366,
+                            }, -- end of [86]
+                            [87] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250161,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8356",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 128482.6659448,
+                                            ["y"] = -115105.82607193,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8356",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673809,
+                                        ["x"] = 128482.6659448,
+                                        ["y"] = -115105.82607193,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 128482.6659448,
+                                ["y"] = -115105.82607193,
+                            }, -- end of [87]
+                            [88] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250162,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8359",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 128452.75992044,
+                                            ["y"] = -115079.65830061,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8359",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673810,
+                                        ["x"] = 128452.75992044,
+                                        ["y"] = -115079.65830061,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 128452.75992044,
+                                ["y"] = -115079.65830061,
+                            }, -- end of [88]
+                            [89] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250163,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8362",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 128458.36730001,
+                                            ["y"] = -115081.52742714,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8362",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673811,
+                                        ["x"] = 128458.36730001,
+                                        ["y"] = -115081.52742714,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 128458.36730001,
+                                ["y"] = -115081.52742714,
+                            }, -- end of [89]
+                            [90] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250167,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8378",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 132873.11459043,
+                                            ["y"] = -113900.96167422,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8378",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673818,
+                                        ["x"] = 132873.11459043,
+                                        ["y"] = -113900.96167422,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 132873.11459043,
+                                ["y"] = -113900.96167422,
+                            }, -- end of [90]
+                            [91] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250168,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8381",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 132865.3643031,
+                                            ["y"] = -113905.07407158,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8381",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673819,
+                                        ["x"] = 132865.3643031,
+                                        ["y"] = -113905.07407158,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 132865.3643031,
+                                ["y"] = -113905.07407158,
+                            }, -- end of [91]
+                            [92] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250169,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8384",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 132879.28318647,
+                                            ["y"] = -113898.27279902,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8384",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673820,
+                                        ["x"] = 132879.28318647,
+                                        ["y"] = -113898.27279902,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 132879.28318647,
+                                ["y"] = -113898.27279902,
+                            }, -- end of [92]
+                            [93] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250170,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8387",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 131062.82605318,
+                                            ["y"] = -114575.24835766,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8387",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673821,
+                                        ["x"] = 131062.82605318,
+                                        ["y"] = -114575.24835766,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 131062.82605318,
+                                ["y"] = -114575.24835766,
+                            }, -- end of [93]
+                            [94] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250171,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8390",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 131054.2756586,
+                                            ["y"] = -114584.75591765,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8390",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673822,
+                                        ["x"] = 131054.2756586,
+                                        ["y"] = -114584.75591765,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 131054.2756586,
+                                ["y"] = -114584.75591765,
+                            }, -- end of [94]
+                            [95] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250172,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8393",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 132876.7524804,
+                                            ["y"] = -113901.910689,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8393",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673823,
+                                        ["x"] = 132876.7524804,
+                                        ["y"] = -113901.910689,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 132876.7524804,
+                                ["y"] = -113901.910689,
+                            }, -- end of [95]
+                            [96] =
+                            {
+                                ["dead"] = false,
+                                ["groupId"] = 250173,
+                                ["heading"] = 2.0071286397935,
+                                ["linkOffset"] = false,
+                                ["name"] = "DictKey_GroupName_8396",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["action"] = "",
+                                            ["alt"] = 0,
+                                            ["formation_template"] = "",
+                                            ["name"] = "",
+                                            ["speed"] = 0,
+                                            ["type"] = "",
+                                            ["x"] = 132878.01783344,
+                                            ["y"] = -113895.90026209,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                }, -- end of ["route"]
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["category"] = "Unarmed",
+                                        ["heading"] = 2.0071286397935,
+                                        ["name"] = "DictKey_GroupName_8396",
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 673824,
+                                        ["x"] = 132878.01783344,
+                                        ["y"] = -113895.90026209,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["x"] = 132878.01783344,
+                                ["y"] = -113895.90026209,
+                            }, -- end of [96]
                         }, -- end of ["group"]
                     }, -- end of ["static"]
                     ["vehicle"] =
@@ -61490,7 +62380,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 1591976,
+    ["currentKey"] = 1603734,
     ["date"] =
     {
         ["Day"] = 17,
@@ -64749,11 +65639,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 204385.73156892,
-        ["centerY"] = -68869.902214329,
-        ["zoom"] = 727897.94174876,
+        ["centerX"] = 126512.72123901,
+        ["centerY"] = -92698.274086918,
+        ["zoom"] = 132095.62940197,
     }, -- end of ["map"]
-    ["maxDictId"] = 8334,
+    ["maxDictId"] = 8398,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -65754,63 +66644,6 @@ E057 28 169",
                 ["color"] =
                 {
                     [1] = 0,
-                    [2] = 0.50196078431373,
-                    [3] = 0,
-                    [4] = 0.14901960784314,
-                }, -- end of ["color"]
-                ["hidden"] = false,
-                ["name"] = "BANDAR ABBAS",
-                ["properties"] =
-                {
-                }, -- end of ["properties"]
-                ["radius"] = 2743.2,
-                ["x"] = 116381.87353253,
-                ["y"] = 14500.758522582,
-                ["zoneId"] = 5194,
-            }, -- end of [45]
-            [46] =
-            {
-                ["color"] =
-                {
-                    [1] = 1,
-                    [2] = 0,
-                    [3] = 1,
-                    [4] = 0.14901960784314,
-                }, -- end of ["color"]
-                ["hidden"] = false,
-                ["name"] = "VBIED in zone",
-                ["properties"] =
-                {
-                }, -- end of ["properties"]
-                ["radius"] = 30.48,
-                ["x"] = 115991.36662712,
-                ["y"] = 14361.461648962,
-                ["zoneId"] = 5296,
-            }, -- end of [46]
-            [47] =
-            {
-                ["color"] =
-                {
-                    [1] = 1,
-                    [2] = 1,
-                    [3] = 1,
-                    [4] = 0.15,
-                }, -- end of ["color"]
-                ["hidden"] = false,
-                ["name"] = "VBIED BANDAR ZONE",
-                ["properties"] =
-                {
-                }, -- end of ["properties"]
-                ["radius"] = 10668,
-                ["x"] = 118478.55779201,
-                ["y"] = 14029.657139644,
-                ["zoneId"] = 5398,
-            }, -- end of [47]
-            [48] =
-            {
-                ["color"] =
-                {
-                    [1] = 0,
                     [2] = 1,
                     [3] = 0.50196078431373,
                     [4] = 0.14901960784314,
@@ -65824,8 +66657,8 @@ E057 28 169",
                 ["x"] = 155983.15032073,
                 ["y"] = 1487.0589351841,
                 ["zoneId"] = 5500,
-            }, -- end of [48]
-            [49] =
+            }, -- end of [45]
+            [46] =
             {
                 ["color"] =
                 {
@@ -65843,8 +66676,8 @@ E057 28 169",
                 ["x"] = 324221.79044188,
                 ["y"] = -86574.101257719,
                 ["zoneId"] = 5602,
-            }, -- end of [49]
-            [50] =
+            }, -- end of [46]
+            [47] =
             {
                 ["color"] =
                 {
@@ -65862,8 +66695,8 @@ E057 28 169",
                 ["x"] = 324209.89458575,
                 ["y"] = -86736.554042892,
                 ["zoneId"] = 5603,
-            }, -- end of [50]
-            [51] =
+            }, -- end of [47]
+            [48] =
             {
                 ["color"] =
                 {
@@ -65881,8 +66714,8 @@ E057 28 169",
                 ["x"] = 324225.50789691,
                 ["y"] = -86649.565594996,
                 ["zoneId"] = 5604,
-            }, -- end of [51]
-            [52] =
+            }, -- end of [48]
+            [49] =
             {
                 ["color"] =
                 {
@@ -65900,8 +66733,8 @@ E057 28 169",
                 ["x"] = 324186.84636452,
                 ["y"] = -86913.876648218,
                 ["zoneId"] = 5605,
-            }, -- end of [52]
-            [53] =
+            }, -- end of [49]
+            [50] =
             {
                 ["color"] =
                 {
@@ -65919,8 +66752,8 @@ E057 28 169",
                 ["x"] = 324328.85314698,
                 ["y"] = -87014.247934252,
                 ["zoneId"] = 5606,
-            }, -- end of [53]
-            [54] =
+            }, -- end of [50]
+            [51] =
             {
                 ["color"] =
                 {
@@ -65938,8 +66771,8 @@ E057 28 169",
                 ["x"] = 324298.74176117,
                 ["y"] = -86958.114363174,
                 ["zoneId"] = 5607,
-            }, -- end of [54]
-            [55] =
+            }, -- end of [51]
+            [52] =
             {
                 ["color"] =
                 {
@@ -65957,8 +66790,8 @@ E057 28 169",
                 ["x"] = 324138.89119452,
                 ["y"] = -87019.452371305,
                 ["zoneId"] = 5608,
-            }, -- end of [55]
-            [56] =
+            }, -- end of [52]
+            [53] =
             {
                 ["color"] =
                 {
@@ -65976,8 +66809,8 @@ E057 28 169",
                 ["x"] = 73007.60522388,
                 ["y"] = -17313.692633516,
                 ["zoneId"] = 5710,
-            }, -- end of [56]
-            [57] =
+            }, -- end of [53]
+            [54] =
             {
                 ["color"] =
                 {
@@ -65995,7 +66828,7 @@ E057 28 169",
                 ["x"] = 195572.20259454,
                 ["y"] = -253715.67730246,
                 ["zoneId"] = 5711,
-            }, -- end of [57]
+            }, -- end of [54]
         }, -- end of ["zones"]
     }, -- end of ["triggers"]
     ["trigrules"] =
