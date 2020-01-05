@@ -32,6 +32,7 @@ dictionary =
     ["DictKey_ActionRadioText_8777"] = "",
     ["DictKey_ActionRadioText_8965"] = "SITREP_02",
     ["DictKey_ActionRadioText_8969"] = "SITREP_01",
+    ["DictKey_ActionRadioText_9125"] = "Check-in",
     ["DictKey_ActionText_4621"] = "local SAM_PLACEHOLDER = SPAWN:New(\"SAM_PLACEHOLDER\"):Spawn()\
 local SAM_PLACEHOLDER_Location = SAM_PLACEHOLDER:GetVec3()\
 local SAM_REAL = SPAWN:New(\"SAM_REAL\"):SpawnFromVec3(SAM_PLACEHOLDER_Location)\
@@ -91,6 +92,10 @@ A FARP have been established to support the RW units that support you. Position 
 \
 FARP MOSCOW\
 Frequency 127.8\
+\
+BLADE flight (2x MI-8) us currently transporting fuel and ammo to the FARP, and will report to you on your frequency when they have completed the drop. At that time,t the FARP should be operationa.\
+\
+BLADE flight will then hold in the area at your discretion, awaiting CASEVAC tasking.\
 ",
     ["DictKey_ActionText_8780"] = "ENEMY:\
 We have the following reports about the enemy:\
@@ -143,6 +148,17 @@ To: JTAC \
 We see the enemy MBT company moving. They are now moving SOUTH along the road in 2 groups.\
  The SA-8 is in the last group.\
 ",
+    ["DictKey_ActionText_9123"] = "FROM: Patient vehicle\
+TO: JTAC SPARTAN\
+\
+Patients are ready to be evacuated in 2nd Companys position.",
+    ["DictKey_ActionText_9124"] = "From: 1st Company\
+To: JTAC SPARTAN\
+\
+We have 2 personell beeing injured, we are sending them back to 2nd Companys position for CASEVAC back to Bandar Abbas.\
+\
+The veichle have just left our position and will be in 2nd Companys position in 7-10 minutes. They will let you know when they have arrived.\
+We request a CASEVAC to pick up the patients, they are critically ill and need evacutation as soon as possible.",
     ["DictKey_GroupName_6"] = "Hornet 204",
     ["DictKey_GroupName_9"] = "Shell_S3",
     ["DictKey_GroupName_13"] = "AJS 198",
@@ -2061,10 +2077,10 @@ We see the enemy MBT company moving. They are now moving SOUTH along the road in
     ["DictKey_GroupName_8030"] = "A10 #17 - Park F06",
     ["DictKey_GroupName_8033"] = "KA50 #5 - Park F16",
     ["DictKey_GroupName_8036"] = "KA50 #6 - Park F26",
-    ["DictKey_GroupName_8039"] = "Ammo #006",
+    ["DictKey_GroupName_8039"] = "FARP Fuel",
     ["DictKey_GroupName_8042"] = "Ammo #007",
     ["DictKey_GroupName_8045"] = "Static_HMMWV_Bandar #001",
-    ["DictKey_GroupName_8048"] = "Ammo #009",
+    ["DictKey_GroupName_8048"] = "FARP Ammo",
     ["DictKey_GroupName_8051"] = "Static_HMMWV_Bandar #002",
     ["DictKey_GroupName_8054"] = "",
     ["DictKey_GroupName_8057"] = "AIR_ASSAULT_INF",
@@ -2292,12 +2308,18 @@ We see the enemy MBT company moving. They are now moving SOUTH along the road in
     ["DictKey_GroupName_9010"] = "151st_logistics_statics #004",
     ["DictKey_GroupName_9013"] = "151st_logistics_statics #005",
     ["DictKey_GroupName_9057"] = "FARP",
-    ["DictKey_GroupName_9060"] = "FARP MOSCOW",
+    ["DictKey_GroupName_9060"] = "FARP MOSCOW HMMWV",
     ["DictKey_GroupName_9067"] = "Windsock_FARP",
     ["DictKey_GroupName_9070"] = "Windsock_FARP",
     ["DictKey_GroupName_9073"] = "",
     ["DictKey_GroupName_9077"] = "SHL_KC-135_MPRS_SHELL #IFF:5003FR",
     ["DictKey_GroupName_9085"] = "ARO_KC-130_ARCO #IFF:5005FR",
+    ["DictKey_GroupName_9093"] = "FARP MOSCOW Tankers",
+    ["DictKey_GroupName_9102"] = "FARP MOSCOW Ammo",
+    ["DictKey_GroupName_9106"] = "",
+    ["DictKey_GroupName_9110"] = "EAST_PATIENT_VEHICLE",
+    ["DictKey_GroupName_9117"] = "Patient #1",
+    ["DictKey_GroupName_9120"] = "Patient #2",
     ["DictKey_UnitName_7"] = "Pilot #001",
     ["DictKey_UnitName_10"] = "Pilot #002",
     ["DictKey_UnitName_14"] = "Pilot #003",
@@ -5666,7 +5688,7 @@ We see the enemy MBT company moving. They are now moving SOUTH along the road in
     ["DictKey_UnitName_9011"] = "151st_logistics_statics #003",
     ["DictKey_UnitName_9014"] = "151st_logistics_statics #004",
     ["DictKey_UnitName_9058"] = "",
-    ["DictKey_UnitName_9061"] = "Unit #056",
+    ["DictKey_UnitName_9061"] = "FARP MOSCOW HMMWV",
     ["DictKey_UnitName_9063"] = "Unit #059",
     ["DictKey_UnitName_9064"] = "Unit #060",
     ["DictKey_UnitName_9065"] = "Unit #061",
@@ -5676,6 +5698,20 @@ We see the enemy MBT company moving. They are now moving SOUTH along the road in
     ["DictKey_UnitName_9074"] = "",
     ["DictKey_UnitName_9078"] = "SHL_KC-135_MPRS_SHELL #IFF:5003FR",
     ["DictKey_UnitName_9086"] = "ARO_KC-130_ARCO #IFF:5005FR",
+    ["DictKey_UnitName_9094"] = "FARP MOSCOW Tankers #001",
+    ["DictKey_UnitName_9095"] = "Unit #059",
+    ["DictKey_UnitName_9096"] = "Unit #060",
+    ["DictKey_UnitName_9097"] = "Unit #061",
+    ["DictKey_UnitName_9098"] = "Unit #062",
+    ["DictKey_UnitName_9100"] = "FARP MOSCOW HMMWV #001",
+    ["DictKey_UnitName_9101"] = "FARP MOSCOW Tankers",
+    ["DictKey_UnitName_9103"] = "FARP MOSCOW Ammo",
+    ["DictKey_UnitName_9104"] = "FARP MOSCOW Tankers",
+    ["DictKey_UnitName_9107"] = "",
+    ["DictKey_UnitName_9109"] = "",
+    ["DictKey_UnitName_9111"] = "EAST_PATIENT_VEHICLE",
+    ["DictKey_UnitName_9118"] = "Patient #1",
+    ["DictKey_UnitName_9121"] = "Patient #2",
     ["DictKey_WptName_8"] = "",
     ["DictKey_WptName_11"] = "",
     ["DictKey_WptName_12"] = "",
@@ -9132,6 +9168,16 @@ We see the enemy MBT company moving. They are now moving SOUTH along the road in
     ["DictKey_WptName_9090"] = "",
     ["DictKey_WptName_9091"] = "",
     ["DictKey_WptName_9092"] = "",
+    ["DictKey_WptName_9099"] = "",
+    ["DictKey_WptName_9105"] = "",
+    ["DictKey_WptName_9108"] = "",
+    ["DictKey_WptName_9112"] = "",
+    ["DictKey_WptName_9113"] = "",
+    ["DictKey_WptName_9114"] = "",
+    ["DictKey_WptName_9115"] = "",
+    ["DictKey_WptName_9116"] = "",
+    ["DictKey_WptName_9119"] = "",
+    ["DictKey_WptName_9122"] = "",
     ["DictKey_descriptionBlueTask_3"] = "",
     ["DictKey_descriptionNeutralsTask_4"] = "",
     ["DictKey_descriptionRedTask_2"] = "",
