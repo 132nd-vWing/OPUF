@@ -2,7 +2,7 @@
  
 --CHANGE TO FALSE if disabling
 ShirazCap = false
-LarCap = true
+LarCap = false
 KermanCap = true
 AbbasCap = false
 
