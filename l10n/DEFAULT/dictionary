@@ -51,14 +51,19 @@ SAM_REAL_Group1:SetAIOn()",
     ["DictKey_ActionText_6378"] = "A2ADispatcher:SetTacticalDisplay( false ) --delete for testing, keep for live",
     ["DictKey_ActionText_8765"] = "",
     ["DictKey_ActionText_8766"] = "Welcome!\
-We need your support urgently.\
-We have intelligence that enemy forces have recived reinforcements and are arriving from the NORTH, and EAST (East of Dehbarez).\
+\
 \
 Use F10 menu for additional information",
     ["DictKey_ActionText_8772"] = "GROUND FORCE COMMANDERS INTENTIONS\
 \
-My biggest concern is beeing overrun by enemy armored forces moving at speed on roads.\
-My second concern is enemy trying to outflank our position to the East/South-East coming from the valley EAST Dehbarez (086 for 18nm from JTAC location), so we need to spread our forces.\
+Currently we have been able to fend off the attack from the 15st from the NORTH. In accordance with the intelligence the 151st should not pose a threat anymore.\
+\
+However, the enemy from the EAST   (Valley, 086 for 18nm from JTAC location), which we do not have any intelligence on, is pouring into the area EAST of Dhebarez.\
+\
+\
+I have a couple concerns:\
+- Unlocated units/formations coming in from the NORTH.\
+- Beeing overrun from the formation to the EAST, as we do not know its size\
 \
 We do not have eyes on in the valley east of Debharez, but we have recived indications of enemy forces there.\
 \
@@ -66,9 +71,13 @@ MY TARGET PRIORITIES:\
 1. Main Battle tanks moving along roads.\
 2. Main Battle tanks in static positions\
 3. Artillery\
-4. Logistical vehicles.\
-5. Any other vehicles\
-",
+4. IFV\
+5. C2\
+6. Any other vehicles\
+\
+Type 3: Approved EAST of Dhebarez.\
+\
+Danger Close approved if required,GFC  initials H.M",
     ["DictKey_ActionText_8778"] = "ARTILLERY\
 \
 Currently no artillery in support.",
@@ -78,45 +87,36 @@ A Mechanized Battalion from the 82nd Airborne are in the area holding the frontl
 Positions as follows (From JTAC Position):\
 075 degree for 3,5nm:  1st company\
 106 degree for 1nm: 2nd company\
-083 degree for 8,5nm: 3rd company\
 \
-3rd Company is protecting the outskirts of Dehbarez from enemy to the EAST.\
 \
-1st Company is protecting the junction from enemy forces coming from the NORTH.\
+Third company needed to pull back due to heavy fighting from a superior force, but was killed during their egress. Currently we are pushing forward 2nd Company to reinforce 1st Companys position to protect the entrance to the pass.\
 \
-2nd Company is protecting the pass, and acting as reserver for 1st and 3rd in case the enemy comes through.\
 \
-We have a friendly Observation post 026 for 6nm from JTAC location, covering the road going SOUTH toward 1st Company.\
+1st Company is protecting the junction from enemy forces coming from the EAST and NORTH\
+\
+\
+\
+We have a friendly Observation Post 026 for 6nm from JTAC location, covering the road going SOUTH toward 1st Company.\
 \
 A FARP have been established to support the RW units that support you. Position is 266 degree for 2,7 nm from JTAC position.\
 \
 FARP MOSCOW\
 Frequency 127.8\
 \
-BLADE flight (2x MI-8) us currently transporting fuel and ammo to the FARP, and will report to you on your frequency when they have completed the drop. At that time,t the FARP should be operationa.\
-\
-BLADE flight will then hold in the area at your discretion, awaiting CASEVAC tasking.\
 ",
     ["DictKey_ActionText_8780"] = "ENEMY:\
 We have the following reports about the enemy:\
 \
-1st Company have reported about enemy MBT and mortars roughly 2nm NORTH of their positions. Mortars are located IVO a small village, and MBTs are located EAST along the road.\
-\
-Friendly Observation post reports about location of Artillery battery in the following location:\
-N27 34.500 E057 06.700, elevation 2119ft\
-\
-Friendly observation post also reports about atleast one Company of MBT currently doing Refuel and Rearm, in what they assess to be a preperation for an attack and push SOUTH.\
 \
 \
 \
 ",
     ["DictKey_ActionText_8781"] = "THREAT:\
+1x Friendly A-10 was shot down a few hours ago. Unknown what system that took him out.\
 \
-Friendly Observation Post reports one SA-8 in the company sized group of Main Battle Tanks to the NORTH.\
+A SA-8 was neutralized from 151st coming from the NORTH. Also an manpad protecting a mortar site was destroyed.\
 \
-1st Company reports about possible sighting of one manpad IVO the mortar position.\
-\
-Currently no information about possible threats to the EAST, due to no eyes on the area.\
+Currently no reports of any other threats to aircrafts.\
 \
 \
 \
@@ -159,6 +159,15 @@ We have 2 personell beeing injured, we are sending them back to 2nd Companys pos
 \
 The veichle have just left our position and will be in 2nd Companys position in 7-10 minutes. They will let you know when they have arrived.\
 We request a CASEVAC to pick up the patients, they are critically ill and need evacutation as soon as possible.",
+    ["DictKey_ActionText_9437"] = "SITREP:\
+From: Friendly Observation Post\
+To: JTAC \
+\
+We have observed 2x motorized platoons on their way south.\
+Platoons were observed  passing through N27 33 400 E057 06.400 \
+\
+",
+    ["DictKey_ActionText_9438"] = "",
     ["DictKey_GroupName_6"] = "Hornet 204",
     ["DictKey_GroupName_9"] = "Shell_S3",
     ["DictKey_GroupName_13"] = "AJS 198",
@@ -1983,8 +1992,8 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_GroupName_7577"] = "222ND_MECH_REGT_4_HQ",
     ["DictKey_GroupName_7585"] = "222ND_MECH_REGT_1_1_1",
     ["DictKey_GroupName_7590"] = "222ND_MECH_REGT_1_1_2",
-    ["DictKey_GroupName_7595"] = "222ND_MECH_REGT_1_2_1",
-    ["DictKey_GroupName_7600"] = "222ND_MECH_REGT_1_2_2",
+    ["DictKey_GroupName_7595"] = "AR1_G8_222ND_MECH_REGT_1_2_1",
+    ["DictKey_GroupName_7600"] = "AR1_G6",
     ["DictKey_GroupName_7605"] = "222ND_MECH_REGT_2_1_2",
     ["DictKey_GroupName_7610"] = "222ND_MECH_REGT_2_1_1",
     ["DictKey_GroupName_7615"] = "222ND_MECH_REGT_2_2_2",
@@ -1994,9 +2003,9 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_GroupName_7635"] = "222ND_MECH_REGT_2_3_2",
     ["DictKey_GroupName_7640"] = "222ND_MECH_REGT_2_3_1",
     ["DictKey_GroupName_7645"] = "222ND_MECH_REGT_3_Arty",
-    ["DictKey_GroupName_7652"] = "AR1_AD_BN_SA19_lotatc_ignore_",
+    ["DictKey_GroupName_7652"] = "AR1_G7_AD_BN_SA19_lotatc_ignore_evade_",
     ["DictKey_GroupName_7656"] = "Air_Defence_BN_BAT2_SA19",
-    ["DictKey_GroupName_7660"] = "AR1_Air_Defence_BN_BAT1_SA13",
+    ["DictKey_GroupName_7660"] = "AR1_G2_Air_Defence_BN_BAT1_SA13",
     ["DictKey_GroupName_7664"] = "Air_Defence_BN_BAT2_SA13",
     ["DictKey_GroupName_7668"] = "Air_Defence_BN_BAT1_Manpads",
     ["DictKey_GroupName_7676"] = "Air_Defence_BN_BAT2_Manpads",
@@ -2015,8 +2024,8 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_GroupName_7728"] = "AR1_Statics #004",
     ["DictKey_GroupName_7731"] = "AR1_Statics #005",
     ["DictKey_GroupName_7734"] = "AR1_Statics #006",
-    ["DictKey_GroupName_7737"] = "AR1_Group",
-    ["DictKey_GroupName_7742"] = "AR1_Shilka_lotatc_ignore_",
+    ["DictKey_GroupName_7737"] = "AR1_G4",
+    ["DictKey_GroupName_7742"] = "AR1_G1_Shilka_lotatc_ignore_",
     ["DictKey_GroupName_7747"] = "AR2_MBT_PLT1_lotatc_ignore_",
     ["DictKey_GroupName_7750"] = "AR2_Statics_T72",
     ["DictKey_GroupName_7753"] = "AR2_Statics_T72 #001",
@@ -2094,8 +2103,8 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_GroupName_8091"] = "AR1_Friendlies_static #006",
     ["DictKey_GroupName_8094"] = "AR1_Friendlies_static #007",
     ["DictKey_GroupName_8097"] = "AR1_Friendlies_static #008",
-    ["DictKey_GroupName_8100"] = "AR1_Group2",
-    ["DictKey_GroupName_8110"] = "AR1_Group3",
+    ["DictKey_GroupName_8100"] = "AR1_G10",
+    ["DictKey_GroupName_8110"] = "AR1_G5_lotatc_ignore_evade_",
     ["DictKey_GroupName_8118"] = "CAS Statics",
     ["DictKey_GroupName_8121"] = "CAS Statics #001",
     ["DictKey_GroupName_8124"] = "CAS Statics #002",
@@ -2320,6 +2329,71 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_GroupName_9110"] = "EAST_PATIENT_VEHICLE",
     ["DictKey_GroupName_9117"] = "Patient #1",
     ["DictKey_GroupName_9120"] = "Patient #2",
+    ["DictKey_GroupName_9126"] = "Jenah Power Plant Subsidiary 3",
+    ["DictKey_GroupName_9129"] = "Jenah Power Plant",
+    ["DictKey_GroupName_9132"] = "Jenah Power Plant Subsidiary 1",
+    ["DictKey_GroupName_9135"] = "Jenah Power Plant Subsidiary 2",
+    ["DictKey_GroupName_9138"] = "Jenah Power Plant hangar 1",
+    ["DictKey_GroupName_9141"] = "Jenah Power Plant Subsidiary 4",
+    ["DictKey_GroupName_9144"] = "AR1_Air_Defence_BN_BAT1_SA13 #001",
+    ["DictKey_GroupName_9147"] = "AR1_G9_lotatc_ignore_",
+    ["DictKey_GroupName_9170"] = "AR1_G3_Arty_SA19_lotatc_ignore_evade_",
+    ["DictKey_GroupName_9185"] = "JENAH_AD_3",
+    ["DictKey_GroupName_9193"] = "JENAH_AD_2",
+    ["DictKey_GroupName_9201"] = "JENAH_AD_1",
+    ["DictKey_GroupName_9209"] = "JENAH_AD_4",
+    ["DictKey_GroupName_9217"] = "",
+    ["DictKey_GroupName_9220"] = "Jenah Power Plant Subsidiary 4 #001",
+    ["DictKey_GroupName_9223"] = "Jenah Power Plant Subsidiary 4 #002",
+    ["DictKey_GroupName_9226"] = "Jenah Power Plant Subsidiary 4 #003",
+    ["DictKey_GroupName_9229"] = "Jenah Power Plant Subsidiary 4 #004",
+    ["DictKey_GroupName_9232"] = "Jenah Power Plant Subsidiary 4 #005",
+    ["DictKey_GroupName_9235"] = "Jenah Power Plant Subsidiary 4 #006",
+    ["DictKey_GroupName_9238"] = "Jenah Power Plant Subsidiary 4 #007",
+    ["DictKey_GroupName_9241"] = "Jenah Power Plant Subsidiary 4 #008",
+    ["DictKey_GroupName_9244"] = "Jenah Power Plant Subsidiary 4 #009",
+    ["DictKey_GroupName_9247"] = "JENAH_AD_5",
+    ["DictKey_GroupName_9251"] = "151st_Arty_static_dead #002",
+    ["DictKey_GroupName_9254"] = "151st_Arty_static_dead #001",
+    ["DictKey_GroupName_9257"] = "151st_Arty_static_dead #003",
+    ["DictKey_GroupName_9260"] = "151st_Arty_static_dead",
+    ["DictKey_GroupName_9263"] = "151st_Mortar_static_dead",
+    ["DictKey_GroupName_9266"] = "151st_Mortar_static_dead #001",
+    ["DictKey_GroupName_9269"] = "151st_Mortar_static_dead #002",
+    ["DictKey_GroupName_9272"] = "151st_Mortar_static_dead #003",
+    ["DictKey_GroupName_9275"] = "151st_Mortar_static_dead #004",
+    ["DictKey_GroupName_9278"] = "XX_MBT_static_dead",
+    ["DictKey_GroupName_9281"] = "XX_MBT_static_dead #001",
+    ["DictKey_GroupName_9284"] = "XX_MBT_static_dead #002",
+    ["DictKey_GroupName_9287"] = "XX_MBT_static_dead #003",
+    ["DictKey_GroupName_9290"] = "XX_MBT_static_dead #004",
+    ["DictKey_GroupName_9293"] = "XX_MBT_static_dead #005",
+    ["DictKey_GroupName_9296"] = "XX_MBT_static_dead #003",
+    ["DictKey_GroupName_9299"] = "XX_MBT_static_dead #006",
+    ["DictKey_GroupName_9302"] = "XX_IFV_static_dead",
+    ["DictKey_GroupName_9305"] = "XX_IFV_static_dead #001",
+    ["DictKey_GroupName_9308"] = "XX_IFV_static_dead #002",
+    ["DictKey_GroupName_9311"] = "CAS2_friendly_static",
+    ["DictKey_GroupName_9314"] = "CAS2_friendly_static #001",
+    ["DictKey_GroupName_9317"] = "CAS2_friendly_static #002",
+    ["DictKey_GroupName_9320"] = "CAS2_friendly_static #003",
+    ["DictKey_GroupName_9323"] = "CAS2_friendly_static #004",
+    ["DictKey_GroupName_9326"] = "EAST_MBT_PLT1_static #003",
+    ["DictKey_GroupName_9329"] = "EAST_MBT_PLT1_static #004",
+    ["DictKey_GroupName_9332"] = "EAST_MBT_PLT1_static #009",
+    ["DictKey_GroupName_9335"] = "EAST_MBT_PLT1_static #010",
+    ["DictKey_GroupName_9338"] = "EAST_MBT_PLT1_static #011",
+    ["DictKey_GroupName_9341"] = "EAST_MBT_PLT1_static #012",
+    ["DictKey_GroupName_9344"] = "EAST_MBT_PLT1_static #013",
+    ["DictKey_GroupName_9347"] = "EAST_MBT_PLT1_static #014",
+    ["DictKey_GroupName_9350"] = "XX_T90_BN2_PLT1",
+    ["DictKey_GroupName_9357"] = "XX_T90_BN2_PLT2_evade",
+    ["DictKey_GroupName_9364"] = "XX_T90_BN2_PLT4_evade_",
+    ["DictKey_GroupName_9371"] = "XX_T90_BN2_PLT3",
+    ["DictKey_GroupName_9408"] = "XX_APC_PLT1",
+    ["DictKey_GroupName_9414"] = "XX_APC_PLT3",
+    ["DictKey_GroupName_9420"] = "XX_APC_PLT2",
+    ["DictKey_GroupName_9439"] = "",
     ["DictKey_UnitName_7"] = "Pilot #001",
     ["DictKey_UnitName_10"] = "Pilot #002",
     ["DictKey_UnitName_14"] = "Pilot #003",
@@ -5343,7 +5417,7 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_UnitName_8111"] = "AR1_Group3",
     ["DictKey_UnitName_8112"] = "AR1_Group3 #001",
     ["DictKey_UnitName_8113"] = "AR1_Group3 #002",
-    ["DictKey_UnitName_8117"] = "Unit #042",
+    ["DictKey_UnitName_8117"] = "AR1_Group3_AD",
     ["DictKey_UnitName_8119"] = "",
     ["DictKey_UnitName_8122"] = "CAS Statics",
     ["DictKey_UnitName_8125"] = "CAS Statics #001",
@@ -5712,6 +5786,124 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_UnitName_9111"] = "EAST_PATIENT_VEHICLE",
     ["DictKey_UnitName_9118"] = "Patient #1",
     ["DictKey_UnitName_9121"] = "Patient #2",
+    ["DictKey_UnitName_9127"] = "Jenah Power Plant Subsidiary 3",
+    ["DictKey_UnitName_9130"] = "Jenah Power Plant",
+    ["DictKey_UnitName_9133"] = "Jenah Power Plant Subsidiary 1",
+    ["DictKey_UnitName_9136"] = "Jenah Power Plant Subsidiary 2",
+    ["DictKey_UnitName_9139"] = "Jenah Power Plant hangar 1",
+    ["DictKey_UnitName_9142"] = "Jenah Power Plant Subsidiary 4",
+    ["DictKey_UnitName_9145"] = "Unit #004",
+    ["DictKey_UnitName_9148"] = "AR1_Group5",
+    ["DictKey_UnitName_9149"] = "AR1_Group5 #001",
+    ["DictKey_UnitName_9150"] = "AR1_Group5 #002",
+    ["DictKey_UnitName_9154"] = "AR1_Group5 #003",
+    ["DictKey_UnitName_9171"] = "AR_Group_6Arty_SA19",
+    ["DictKey_UnitName_9173"] = "AR_Group_6Arty_SA19 #003",
+    ["DictKey_UnitName_9174"] = "AR_Group_6Arty_SA19 #001",
+    ["DictKey_UnitName_9175"] = "AR_Group_6Arty_SA19 #004",
+    ["DictKey_UnitName_9176"] = "AR_Group_6Arty_SA19 #005",
+    ["DictKey_UnitName_9186"] = "JENAH_AD_3",
+    ["DictKey_UnitName_9188"] = "JENAH_AD_3 #001",
+    ["DictKey_UnitName_9189"] = "JENAH_AD_3 #002",
+    ["DictKey_UnitName_9190"] = "JENAH_AD_3 #003",
+    ["DictKey_UnitName_9191"] = "JENAH_AD_3 #004",
+    ["DictKey_UnitName_9192"] = "JENAH_AD_3 #005",
+    ["DictKey_UnitName_9194"] = "JENAH_AD_2",
+    ["DictKey_UnitName_9195"] = "JENAH_AD_2 #001",
+    ["DictKey_UnitName_9196"] = "JENAH_AD_2 #002",
+    ["DictKey_UnitName_9197"] = "JENAH_AD_2 #003",
+    ["DictKey_UnitName_9198"] = "JENAH_AD_2 #004",
+    ["DictKey_UnitName_9199"] = "JENAH_AD_2 #005",
+    ["DictKey_UnitName_9202"] = "JENAH_AD_1",
+    ["DictKey_UnitName_9203"] = "JENAH_AD_1 #001",
+    ["DictKey_UnitName_9204"] = "JENAH_AD_1 #002",
+    ["DictKey_UnitName_9205"] = "JENAH_AD_1 #003",
+    ["DictKey_UnitName_9206"] = "JENAH_AD_1 #004",
+    ["DictKey_UnitName_9207"] = "JENAH_AD_1 #005",
+    ["DictKey_UnitName_9210"] = "JENAH_AD_4",
+    ["DictKey_UnitName_9211"] = "JENAH_AD_4 #001",
+    ["DictKey_UnitName_9212"] = "JENAH_AD_4 #002",
+    ["DictKey_UnitName_9213"] = "JENAH_AD_4 #003",
+    ["DictKey_UnitName_9214"] = "JENAH_AD_4 #004",
+    ["DictKey_UnitName_9215"] = "JENAH_AD_4 #005",
+    ["DictKey_UnitName_9218"] = "",
+    ["DictKey_UnitName_9221"] = "",
+    ["DictKey_UnitName_9224"] = "Jenah Power Plant Subsidiary 4 #001",
+    ["DictKey_UnitName_9227"] = "Jenah Power Plant Subsidiary 4 #002",
+    ["DictKey_UnitName_9230"] = "Jenah Power Plant Subsidiary 4 #002",
+    ["DictKey_UnitName_9233"] = "Jenah Power Plant Subsidiary 4 #004",
+    ["DictKey_UnitName_9236"] = "Jenah Power Plant Subsidiary 4 #005",
+    ["DictKey_UnitName_9239"] = "Jenah Power Plant Subsidiary 4 #004",
+    ["DictKey_UnitName_9242"] = "Jenah Power Plant Subsidiary 4 #007",
+    ["DictKey_UnitName_9245"] = "Jenah Power Plant Subsidiary 4 #008",
+    ["DictKey_UnitName_9248"] = "JENAH_AD_5",
+    ["DictKey_UnitName_9252"] = "",
+    ["DictKey_UnitName_9255"] = "Jenah Power Plant Subsidiary 4 #010",
+    ["DictKey_UnitName_9258"] = "Jenah Power Plant Subsidiary 4 #010",
+    ["DictKey_UnitName_9261"] = "Jenah Power Plant Subsidiary 4 #010",
+    ["DictKey_UnitName_9264"] = "",
+    ["DictKey_UnitName_9267"] = "151st_Mortar_static_dead",
+    ["DictKey_UnitName_9270"] = "151st_Mortar_static_dead #001",
+    ["DictKey_UnitName_9273"] = "151st_Mortar_static_dead #002",
+    ["DictKey_UnitName_9276"] = "151st_Mortar_static_dead #003",
+    ["DictKey_UnitName_9279"] = "",
+    ["DictKey_UnitName_9282"] = "XX_MBT_static_dead",
+    ["DictKey_UnitName_9285"] = "XX_MBT_static_dead",
+    ["DictKey_UnitName_9288"] = "XX_MBT_static_dead",
+    ["DictKey_UnitName_9291"] = "XX_MBT_static_dead #003",
+    ["DictKey_UnitName_9294"] = "XX_MBT_static_dead #003",
+    ["DictKey_UnitName_9297"] = "XX_MBT_static_dead #003",
+    ["DictKey_UnitName_9300"] = "XX_MBT_static_dead #006",
+    ["DictKey_UnitName_9303"] = "XX_MBT_static_dead #007",
+    ["DictKey_UnitName_9306"] = "XX_IFV_static_dead",
+    ["DictKey_UnitName_9309"] = "XX_IFV_static_dead #001",
+    ["DictKey_UnitName_9312"] = "",
+    ["DictKey_UnitName_9315"] = "CAS2_friendly_static",
+    ["DictKey_UnitName_9318"] = "CAS2_friendly_static #001",
+    ["DictKey_UnitName_9321"] = "CAS2_friendly_static #002",
+    ["DictKey_UnitName_9324"] = "CAS2_friendly_static #003",
+    ["DictKey_UnitName_9327"] = "EAST_MBT_PLT1_static #002",
+    ["DictKey_UnitName_9330"] = "EAST_MBT_PLT1_static #003",
+    ["DictKey_UnitName_9333"] = "EAST_MBT_PLT1_static #004",
+    ["DictKey_UnitName_9336"] = "EAST_MBT_PLT1_static #001",
+    ["DictKey_UnitName_9339"] = "EAST_MBT_PLT1_static #010",
+    ["DictKey_UnitName_9342"] = "EAST_MBT_PLT1_static #011",
+    ["DictKey_UnitName_9345"] = "EAST_MBT_PLT1_static #011",
+    ["DictKey_UnitName_9348"] = "EAST_MBT_PLT1_static #013",
+    ["DictKey_UnitName_9351"] = "XX_T90_BN2_PLT1",
+    ["DictKey_UnitName_9352"] = "XX_T90_BN2_PLT1 #001",
+    ["DictKey_UnitName_9353"] = "XX_T90_BN2_PLT1 #002",
+    ["DictKey_UnitName_9354"] = "XX_T90_BN2_PLT1 #003",
+    ["DictKey_UnitName_9355"] = "XX_T90_BN2_PLT1 #004",
+    ["DictKey_UnitName_9358"] = "XX_T90_BN2_PLT2",
+    ["DictKey_UnitName_9359"] = "XX_T90_BN2_PLT2 #001",
+    ["DictKey_UnitName_9360"] = "XX_T90_BN2_PLT2 #002",
+    ["DictKey_UnitName_9361"] = "XX_T90_BN2_PLT2 #003",
+    ["DictKey_UnitName_9362"] = "XX_T90_BN2_PLT2 #004",
+    ["DictKey_UnitName_9365"] = "XX_T90_BN2_PLT4",
+    ["DictKey_UnitName_9366"] = "XX_T90_BN2_PLT4 #001",
+    ["DictKey_UnitName_9367"] = "XX_T90_BN2_PLT4 #002",
+    ["DictKey_UnitName_9368"] = "XX_T90_BN2_PLT4 #003",
+    ["DictKey_UnitName_9369"] = "XX_T90_BN2_PLT4 #004",
+    ["DictKey_UnitName_9372"] = "XX_T90_BN2_PLT3",
+    ["DictKey_UnitName_9373"] = "XX_T90_BN2_PLT3 #001",
+    ["DictKey_UnitName_9374"] = "XX_T90_BN2_PLT3 #002",
+    ["DictKey_UnitName_9375"] = "XX_T90_BN2_PLT3 #003",
+    ["DictKey_UnitName_9376"] = "XX_T90_BN2_PLT3 #004",
+    ["DictKey_UnitName_9378"] = "Unit #010",
+    ["DictKey_UnitName_9409"] = "XX_APC_PLT1",
+    ["DictKey_UnitName_9411"] = "XX_APC_PLT1 #001",
+    ["DictKey_UnitName_9412"] = "XX_APC_PLT1 #002",
+    ["DictKey_UnitName_9413"] = "XX_APC_PLT1 #003",
+    ["DictKey_UnitName_9415"] = "XX_APC_PLT3",
+    ["DictKey_UnitName_9416"] = "XX_APC_PLT3 #001",
+    ["DictKey_UnitName_9417"] = "XX_APC_PLT3 #002",
+    ["DictKey_UnitName_9418"] = "XX_APC_PLT3 #003",
+    ["DictKey_UnitName_9421"] = "XX_APC_PLT2",
+    ["DictKey_UnitName_9422"] = "XX_APC_PLT2 #001",
+    ["DictKey_UnitName_9423"] = "XX_APC_PLT2 #002",
+    ["DictKey_UnitName_9424"] = "XX_APC_PLT2 #003",
+    ["DictKey_UnitName_9440"] = "",
     ["DictKey_WptName_8"] = "",
     ["DictKey_WptName_11"] = "",
     ["DictKey_WptName_12"] = "",
@@ -9178,6 +9370,138 @@ We request a CASEVAC to pick up the patients, they are critically ill and need e
     ["DictKey_WptName_9116"] = "",
     ["DictKey_WptName_9119"] = "",
     ["DictKey_WptName_9122"] = "",
+    ["DictKey_WptName_9128"] = "",
+    ["DictKey_WptName_9131"] = "",
+    ["DictKey_WptName_9134"] = "",
+    ["DictKey_WptName_9137"] = "",
+    ["DictKey_WptName_9140"] = "",
+    ["DictKey_WptName_9143"] = "",
+    ["DictKey_WptName_9146"] = "",
+    ["DictKey_WptName_9151"] = "",
+    ["DictKey_WptName_9152"] = "",
+    ["DictKey_WptName_9153"] = "",
+    ["DictKey_WptName_9155"] = "",
+    ["DictKey_WptName_9156"] = "",
+    ["DictKey_WptName_9157"] = "",
+    ["DictKey_WptName_9158"] = "",
+    ["DictKey_WptName_9159"] = "",
+    ["DictKey_WptName_9160"] = "",
+    ["DictKey_WptName_9161"] = "",
+    ["DictKey_WptName_9162"] = "",
+    ["DictKey_WptName_9163"] = "",
+    ["DictKey_WptName_9164"] = "",
+    ["DictKey_WptName_9165"] = "",
+    ["DictKey_WptName_9166"] = "",
+    ["DictKey_WptName_9167"] = "",
+    ["DictKey_WptName_9168"] = "",
+    ["DictKey_WptName_9169"] = "",
+    ["DictKey_WptName_9172"] = "",
+    ["DictKey_WptName_9177"] = "",
+    ["DictKey_WptName_9178"] = "",
+    ["DictKey_WptName_9179"] = "",
+    ["DictKey_WptName_9180"] = "",
+    ["DictKey_WptName_9181"] = "",
+    ["DictKey_WptName_9182"] = "",
+    ["DictKey_WptName_9183"] = "",
+    ["DictKey_WptName_9184"] = "",
+    ["DictKey_WptName_9187"] = "",
+    ["DictKey_WptName_9200"] = "",
+    ["DictKey_WptName_9208"] = "",
+    ["DictKey_WptName_9216"] = "",
+    ["DictKey_WptName_9219"] = "",
+    ["DictKey_WptName_9222"] = "",
+    ["DictKey_WptName_9225"] = "",
+    ["DictKey_WptName_9228"] = "",
+    ["DictKey_WptName_9231"] = "",
+    ["DictKey_WptName_9234"] = "",
+    ["DictKey_WptName_9237"] = "",
+    ["DictKey_WptName_9240"] = "",
+    ["DictKey_WptName_9243"] = "",
+    ["DictKey_WptName_9246"] = "",
+    ["DictKey_WptName_9249"] = "",
+    ["DictKey_WptName_9250"] = "",
+    ["DictKey_WptName_9253"] = "",
+    ["DictKey_WptName_9256"] = "",
+    ["DictKey_WptName_9259"] = "",
+    ["DictKey_WptName_9262"] = "",
+    ["DictKey_WptName_9265"] = "",
+    ["DictKey_WptName_9268"] = "",
+    ["DictKey_WptName_9271"] = "",
+    ["DictKey_WptName_9274"] = "",
+    ["DictKey_WptName_9277"] = "",
+    ["DictKey_WptName_9280"] = "",
+    ["DictKey_WptName_9283"] = "",
+    ["DictKey_WptName_9286"] = "",
+    ["DictKey_WptName_9289"] = "",
+    ["DictKey_WptName_9292"] = "",
+    ["DictKey_WptName_9295"] = "",
+    ["DictKey_WptName_9298"] = "",
+    ["DictKey_WptName_9301"] = "",
+    ["DictKey_WptName_9304"] = "",
+    ["DictKey_WptName_9307"] = "",
+    ["DictKey_WptName_9310"] = "",
+    ["DictKey_WptName_9313"] = "",
+    ["DictKey_WptName_9316"] = "",
+    ["DictKey_WptName_9319"] = "",
+    ["DictKey_WptName_9322"] = "",
+    ["DictKey_WptName_9325"] = "",
+    ["DictKey_WptName_9328"] = "",
+    ["DictKey_WptName_9331"] = "",
+    ["DictKey_WptName_9334"] = "",
+    ["DictKey_WptName_9337"] = "",
+    ["DictKey_WptName_9340"] = "",
+    ["DictKey_WptName_9343"] = "",
+    ["DictKey_WptName_9346"] = "",
+    ["DictKey_WptName_9349"] = "",
+    ["DictKey_WptName_9356"] = "",
+    ["DictKey_WptName_9363"] = "",
+    ["DictKey_WptName_9370"] = "",
+    ["DictKey_WptName_9377"] = "",
+    ["DictKey_WptName_9379"] = "",
+    ["DictKey_WptName_9380"] = "",
+    ["DictKey_WptName_9381"] = "",
+    ["DictKey_WptName_9382"] = "",
+    ["DictKey_WptName_9383"] = "",
+    ["DictKey_WptName_9384"] = "",
+    ["DictKey_WptName_9385"] = "",
+    ["DictKey_WptName_9386"] = "",
+    ["DictKey_WptName_9387"] = "",
+    ["DictKey_WptName_9388"] = "",
+    ["DictKey_WptName_9389"] = "",
+    ["DictKey_WptName_9390"] = "",
+    ["DictKey_WptName_9391"] = "",
+    ["DictKey_WptName_9392"] = "",
+    ["DictKey_WptName_9393"] = "",
+    ["DictKey_WptName_9394"] = "",
+    ["DictKey_WptName_9395"] = "",
+    ["DictKey_WptName_9396"] = "",
+    ["DictKey_WptName_9397"] = "",
+    ["DictKey_WptName_9398"] = "",
+    ["DictKey_WptName_9399"] = "",
+    ["DictKey_WptName_9400"] = "",
+    ["DictKey_WptName_9401"] = "",
+    ["DictKey_WptName_9402"] = "",
+    ["DictKey_WptName_9403"] = "",
+    ["DictKey_WptName_9404"] = "",
+    ["DictKey_WptName_9405"] = "",
+    ["DictKey_WptName_9406"] = "",
+    ["DictKey_WptName_9407"] = "",
+    ["DictKey_WptName_9410"] = "",
+    ["DictKey_WptName_9419"] = "",
+    ["DictKey_WptName_9425"] = "",
+    ["DictKey_WptName_9426"] = "",
+    ["DictKey_WptName_9427"] = "",
+    ["DictKey_WptName_9428"] = "",
+    ["DictKey_WptName_9429"] = "",
+    ["DictKey_WptName_9430"] = "",
+    ["DictKey_WptName_9431"] = "",
+    ["DictKey_WptName_9432"] = "",
+    ["DictKey_WptName_9433"] = "",
+    ["DictKey_WptName_9434"] = "",
+    ["DictKey_WptName_9435"] = "",
+    ["DictKey_WptName_9436"] = "",
+    ["DictKey_WptName_9441"] = "",
+    ["DictKey_WptName_9442"] = "",
     ["DictKey_descriptionBlueTask_3"] = "",
     ["DictKey_descriptionNeutralsTask_4"] = "",
     ["DictKey_descriptionRedTask_2"] = "",
