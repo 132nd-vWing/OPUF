@@ -4848,6 +4848,72 @@ warehouses =
                     }, -- end of ["wsType"]
                     ["initialAmount"] = 100,
                 }, -- end of [434]
+                [435] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 335,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [435]
+                [436] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 34,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [436]
+                [437] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 35,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [437]
+                [438] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 37,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [438]
+                [439] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 8,
+                        [3] = 10,
+                        [4] = 257,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [439]
+                [440] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 8,
+                        [3] = 10,
+                        [4] = 311,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [440]
             }, -- end of ["weapons"]
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
@@ -5159,6 +5225,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 158,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["AH-64D"]
@@ -5170,6 +5242,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 156,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Ka-52"]
@@ -5181,6 +5259,12 @@ warehouses =
                             [2] = 2,
                             [3] = 25,
                             [4] = 164,
+                            [5] = "Transport helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SH-3W"]
@@ -5192,6 +5276,12 @@ warehouses =
                             [2] = 2,
                             [3] = 25,
                             [4] = 162,
+                            [5] = "Transport helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["UH-60A"]
@@ -5203,6 +5293,12 @@ warehouses =
                             [2] = 2,
                             [3] = 25,
                             [4] = 160,
+                            [5] = "Transport helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["CH-53E"]
@@ -5214,6 +5310,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 151,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Mi-8MT"]
@@ -5225,6 +5327,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 152,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Mi-24V"]
@@ -5236,6 +5344,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 278,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SA342Minigun"]
@@ -5247,6 +5361,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 276,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SA342L"]
@@ -5258,6 +5378,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 155,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Ka-50"]
@@ -5269,6 +5395,12 @@ warehouses =
                             [2] = 2,
                             [3] = 25,
                             [4] = 159,
+                            [5] = "Transport helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["CH-47D"]
@@ -5280,6 +5412,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 157,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["AH-64A"]
@@ -5291,6 +5429,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 163,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["AH-1W"]
@@ -5302,6 +5446,12 @@ warehouses =
                             [2] = 2,
                             [3] = 25,
                             [4] = 153,
+                            [5] = "Transport helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Mi-26"]
@@ -5313,6 +5463,12 @@ warehouses =
                             [2] = 2,
                             [3] = 25,
                             [4] = 154,
+                            [5] = "Transport helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Ka-27"]
@@ -5324,6 +5480,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 275,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SA342M"]
@@ -5335,6 +5497,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 161,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SH-60B"]
@@ -5346,6 +5514,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 167,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Mi-28N"]
@@ -5357,6 +5531,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 168,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["OH-58D"]
@@ -5368,6 +5548,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 166,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["UH-1H"]
@@ -5379,6 +5565,12 @@ warehouses =
                             [2] = 2,
                             [3] = 6,
                             [4] = 277,
+                            [5] = "Attack helicopters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Helicopters",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SA342Mistral"]
@@ -5393,6 +5585,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 42,
+                            [5] = "Aux",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["S-3B"]
@@ -5404,6 +5602,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 7,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-16C bl.50"]
@@ -5415,6 +5623,14 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 41,
+                            [5] = "AWACS",
+                            [6] = "Datalink",
+                            [7] = "Link16",
+                            [8] = "All",
+                            [9] = "NonAndLightArmoredUnits",
+                            [10] = "NonArmoredUnits",
+                            [11] = "Air",
+                            [12] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["E-2C"]
@@ -5426,6 +5642,12 @@ warehouses =
                             [2] = 1,
                             [3] = 4,
                             [4] = 282,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["DECKCREW"]
@@ -5437,6 +5659,13 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 61,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["L-39ZA"]
@@ -5448,6 +5677,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 281,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["A_380"]
@@ -5459,6 +5694,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 275,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-19P"]
@@ -5470,6 +5712,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 273,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["I-16"]
@@ -5481,6 +5730,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 48,
+                            [5] = "Bombers",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-17M4"]
@@ -5492,6 +5748,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 274,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-21Bis"]
@@ -5503,6 +5766,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 14,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F/A-18A"]
@@ -5514,6 +5785,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 50,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-29S"]
@@ -5525,6 +5803,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 51,
+                            [5] = "Aux",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-24MR"]
@@ -5536,6 +5821,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 39,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["An-26B"]
@@ -5547,6 +5838,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 280,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["A_320"]
@@ -5558,6 +5855,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 13,
+                            [5] = "Multirole fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-30"]
@@ -5569,6 +5873,12 @@ warehouses =
                             [2] = 1,
                             [3] = 4,
                             [4] = 283,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MD_3"]
@@ -5580,6 +5890,12 @@ warehouses =
                             [2] = 1,
                             [3] = 4,
                             [4] = 284,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MD_3_Air"]
@@ -5591,6 +5907,15 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 260,
+                            [5] = "Bombers",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "All",
+                            [9] = "NonAndLightArmoredUnits",
+                            [10] = "NonArmoredUnits",
+                            [11] = "Air",
+                            [12] = "Planes",
+                            [13] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["AV8BNA"]
@@ -5602,6 +5927,13 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 16,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-25"]
@@ -5613,6 +5945,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 284,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["B_747"]
@@ -5624,6 +5962,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 268,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-16C_50"]
@@ -5635,6 +5983,15 @@ warehouses =
                             [2] = 1,
                             [3] = 2,
                             [4] = 18,
+                            [5] = "Strategic bombers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
+                            [13] = "Bombers",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Tu-160"]
@@ -5646,6 +6003,15 @@ warehouses =
                             [2] = 1,
                             [3] = 4,
                             [4] = 22,
+                            [5] = "Strategic bombers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
+                            [13] = "Bombers",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Tu-142"]
@@ -5657,6 +6023,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 59,
+                            [5] = "Fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-15E"]
@@ -5668,6 +6044,17 @@ warehouses =
                             [2] = 1,
                             [3] = 4,
                             [4] = 23,
+                            [5] = "Strategic bombers",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
+                            [15] = "Bombers",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["B-52H"]
@@ -5679,6 +6066,14 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 37,
+                            [5] = "Bombers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-117A"]
@@ -5690,6 +6085,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 285,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["B_757"]
@@ -5701,6 +6102,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 271,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["M-2000C"]
@@ -5712,6 +6121,13 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 261,
+                            [5] = "Tankers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["KC130"]
@@ -5723,6 +6139,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 259,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["AJS37"]
@@ -5734,6 +6157,15 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 56,
+                            [5] = "Bombers",
+                            [6] = "Datalink",
+                            [7] = "Link16",
+                            [8] = "All",
+                            [9] = "NonAndLightArmoredUnits",
+                            [10] = "NonArmoredUnits",
+                            [11] = "Air",
+                            [12] = "Planes",
+                            [13] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Tornado IDS"]
@@ -5745,6 +6177,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 15,
+                            [5] = "Bombers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-111F"]
@@ -5756,6 +6196,14 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 33,
+                            [5] = "Aux",
+                            [6] = "Tankers",
+                            [7] = "Refuelable",
+                            [8] = "All",
+                            [9] = "NonAndLightArmoredUnits",
+                            [10] = "NonArmoredUnits",
+                            [11] = "Air",
+                            [12] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["S-3B Tanker"]
@@ -5767,6 +6215,13 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 54,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-25T"]
@@ -5778,6 +6233,15 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 266,
+                            [5] = "Multirole fighters",
+                            [6] = "Datalink",
+                            [7] = "Link16",
+                            [8] = "All",
+                            [9] = "NonAndLightArmoredUnits",
+                            [10] = "NonArmoredUnits",
+                            [11] = "Air",
+                            [12] = "Planes",
+                            [13] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["JF-17"]
@@ -5789,6 +6253,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 1,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-23MLD"]
@@ -5800,6 +6271,13 @@ warehouses =
                             [2] = 1,
                             [3] = 2,
                             [4] = 25,
+                            [5] = "Bombers",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Tu-22M3"]
@@ -5811,6 +6289,13 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 47,
+                            [5] = "Transports",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["C-17A"]
@@ -5822,6 +6307,12 @@ warehouses =
                             [2] = 1,
                             [3] = 3,
                             [4] = 8,
+                            [5] = "Aux",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-25RBT"]
@@ -5833,6 +6324,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 267,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-86F Sabre"]
@@ -5844,6 +6342,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 282,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["B_727"]
@@ -5855,6 +6359,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 279,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Yak-52"]
@@ -5866,6 +6377,13 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 38,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-25TM"]
@@ -5877,6 +6395,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 268,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["FA-18C_hornet"]
@@ -5888,6 +6416,13 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 265,
+                            [5] = "AWACS",
+                            [6] = "Datalink",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["KJ-2000"]
@@ -5899,6 +6434,15 @@ warehouses =
                             [2] = 1,
                             [3] = 4,
                             [4] = 21,
+                            [5] = "Strategic bombers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
+                            [13] = "Bombers",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Tu-95MS"]
@@ -5910,6 +6454,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 4,
+                            [5] = "Fighters",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-33"]
@@ -5921,6 +6473,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 256,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["FW-190A8"]
@@ -5932,6 +6491,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 3,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-27"]
@@ -5943,6 +6509,13 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 60,
+                            [5] = "Tankers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["KC-135"]
@@ -5954,6 +6527,13 @@ warehouses =
                             [2] = 1,
                             [3] = 3,
                             [4] = 24,
+                            [5] = "Interceptors",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-25PD"]
@@ -5965,6 +6545,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 11,
+                            [5] = "Bombers",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-27K"]
@@ -5976,6 +6563,16 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 58,
+                            [5] = "Battleplanes",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["A-10C"]
@@ -5987,6 +6584,13 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 263,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["C-101EB"]
@@ -5998,6 +6602,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 256,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Bf-109K-4"]
@@ -6009,6 +6620,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 6,
+                            [5] = "Fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-15C"]
@@ -6020,6 +6641,15 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 10,
+                            [5] = "Bombers",
+                            [6] = "Datalink",
+                            [7] = "Link16",
+                            [8] = "All",
+                            [9] = "NonAndLightArmoredUnits",
+                            [10] = "NonArmoredUnits",
+                            [11] = "Air",
+                            [12] = "Planes",
+                            [13] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Tornado GR4"]
@@ -6031,6 +6661,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 40,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["An-30M"]
@@ -6042,6 +6678,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 273,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-15bis"]
@@ -6053,6 +6696,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 12,
+                            [5] = "Bombers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-24M"]
@@ -6064,6 +6715,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 52,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-16A MLU"]
@@ -6075,6 +6734,15 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 269,
+                            [5] = "Fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "All",
+                            [9] = "NonAndLightArmoredUnits",
+                            [10] = "NonArmoredUnits",
+                            [11] = "Air",
+                            [12] = "Planes",
+                            [13] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-14B"]
@@ -6086,6 +6754,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 2,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-29A"]
@@ -6097,6 +6772,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 66,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["J-11A"]
@@ -6108,6 +6790,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 266,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Christen Eagle II"]
@@ -6119,6 +6808,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 257,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SpitfireLFMkIX"]
@@ -6130,6 +6826,15 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 27,
+                            [5] = "AWACS",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["E-3A"]
@@ -6141,6 +6846,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 272,
+                            [5] = "Battleplanes",
+                            [6] = "UAVs",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MQ-9 Reaper"]
@@ -6152,6 +6865,17 @@ warehouses =
                             [2] = 1,
                             [3] = 2,
                             [4] = 19,
+                            [5] = "Strategic bombers",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
+                            [15] = "Bombers",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["B-1B"]
@@ -6163,6 +6887,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 5,
+                            [5] = "Fighters",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-14A"]
@@ -6174,6 +6906,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 269,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Hawk"]
@@ -6185,6 +6924,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 34,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Mirage 2000-5"]
@@ -6196,6 +6945,13 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 270,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["L-39C"]
@@ -6207,6 +6963,12 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 55,
+                            [5] = "UAVs",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["RQ-1A Predator"]
@@ -6218,6 +6980,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 258,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["SpitfireLFMkIXCW"]
@@ -6229,6 +6998,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 52,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-16A"]
@@ -6240,6 +7017,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 63,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["P-51D"]
@@ -6251,6 +7035,14 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 17,
+                            [5] = "Battleplanes",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["A-10A"]
@@ -6262,6 +7054,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 255,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["FW-190D9"]
@@ -6273,6 +7072,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 57,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Yak-40"]
@@ -6284,6 +7089,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 64,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["P-51D-30-NA"]
@@ -6295,6 +7107,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 31,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["C-130"]
@@ -6306,6 +7124,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 49,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-29G"]
@@ -6317,6 +7142,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 7,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-16C bl.52d"]
@@ -6328,6 +7163,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 32,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-29K"]
@@ -6339,6 +7182,14 @@ warehouses =
                             [2] = 1,
                             [3] = 3,
                             [4] = 9,
+                            [5] = "Interceptors",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["MiG-31"]
@@ -6350,6 +7201,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 266,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-5E-3"]
@@ -6361,6 +7219,13 @@ warehouses =
                             [2] = 1,
                             [3] = 6,
                             [4] = 264,
+                            [5] = "Battleplanes",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["C-101CC"]
@@ -6372,6 +7237,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 46,
+                            [5] = "Fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-5E"]
@@ -6383,6 +7255,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 28,
+                            [5] = "Tankers",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["IL-78M"]
@@ -6394,6 +7272,13 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 26,
+                            [5] = "AWACS",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["A-50"]
@@ -6405,6 +7290,13 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 262,
+                            [5] = "Tankers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["KC135MPRS"]
@@ -6416,6 +7308,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 30,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["IL-76MD"]
@@ -6427,6 +7325,16 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 53,
+                            [5] = "Multirole fighters",
+                            [6] = "Refuelable",
+                            [7] = "Datalink",
+                            [8] = "Link16",
+                            [9] = "All",
+                            [10] = "NonAndLightArmoredUnits",
+                            [11] = "NonArmoredUnits",
+                            [12] = "Air",
+                            [13] = "Planes",
+                            [14] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F/A-18C"]
@@ -6438,6 +7346,14 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 20,
+                            [5] = "Bombers",
+                            [6] = "Refuelable",
+                            [7] = "All",
+                            [8] = "NonAndLightArmoredUnits",
+                            [9] = "NonArmoredUnits",
+                            [10] = "Air",
+                            [11] = "Planes",
+                            [12] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["Su-34"]
@@ -6449,6 +7365,13 @@ warehouses =
                             [2] = 1,
                             [3] = 1,
                             [4] = 45,
+                            [5] = "Multirole fighters",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
+                            [11] = "Battle airplanes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["F-4E"]
@@ -6460,6 +7383,12 @@ warehouses =
                             [2] = 1,
                             [3] = 5,
                             [4] = 283,
+                            [5] = "Transports",
+                            [6] = "All",
+                            [7] = "NonAndLightArmoredUnits",
+                            [8] = "NonArmoredUnits",
+                            [9] = "Air",
+                            [10] = "Planes",
                         }, -- end of ["wsType"]
                         ["initialAmount"] = 100,
                     }, -- end of ["B_737"]
@@ -11317,6 +12246,72 @@ warehouses =
                     }, -- end of ["wsType"]
                     ["initialAmount"] = 100,
                 }, -- end of [434]
+                [435] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 335,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [435]
+                [436] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 34,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [436]
+                [437] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 35,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [437]
+                [438] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 7,
+                        [3] = 33,
+                        [4] = 37,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [438]
+                [439] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 8,
+                        [3] = 10,
+                        [4] = 257,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [439]
+                [440] = 
+                {
+                    ["wsType"] = 
+                    {
+                        [1] = 4,
+                        [2] = 8,
+                        [3] = 10,
+                        [4] = 311,
+                    }, -- end of ["wsType"]
+                    ["initialAmount"] = 100,
+                }, -- end of [440]
             }, -- end of ["weapons"]
             ["OperatingLevel_Fuel"] = 10,
             ["unlimitedAircrafts"] = true,
