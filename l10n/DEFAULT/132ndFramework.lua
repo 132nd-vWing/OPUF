@@ -1,8 +1,8 @@
 --assert(loadfile("D:\\_Google Drive\\DCS Missions\\132ndFramework.lua"))()
  
 --CHANGE TO FALSE if disabling
-ShirazCap = false
-LarCap = false
+ShirazCap = true
+LarCap = true
 KermanCap = true
 AbbasCap = false
 
