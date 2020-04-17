@@ -1,13 +1,13 @@
 --assert(loadfile("D:\\_Google Drive\\DCS Missions\\132ndFramework.lua"))()
  
 --CHANGE TO FALSE if disabling
-ShirazCap = false
+ShirazCap = true
 LarCap = true
 KermanCap = true
 AbbasCap = false
 
 JiroftGCI = false
-LarGCI = true
+LarGCI = false
 JaskGCI = false
 
 --SQUADRON SIZES
@@ -26,9 +26,9 @@ JaskGCINumbers = 2
 function pickNumber() -- picks a random number of 1-4 with a weighting of 2 about 2/3rds of the time
 local choose = math.random(1,100)
 if choose < 6 then env.info("someone is a singleton") return 1
-elseif choose >=6 and choose < 85 then env.info("someone is a 2ship") return 2
-elseif choose >= 85 and choose < 95 then env.info("someone is a 3 ship") return 3
-elseif choose >= 95 then env.info("someone is a fourship") return 4
+elseif choose >=6 and choose < 90 then env.info("someone is a 2ship") return 2
+elseif choose >= 90 and choose < 97 then env.info("someone is a 3 ship") return 3
+elseif choose >= 97 then env.info("someone is a fourship") return 4
 end
 end
 
