@@ -9253,6 +9253,34 @@ mission =
                                             ["gun"] = 100,
                                             ["pylons"] =
                                             {
+                                                [2] =
+                                                {
+                                                    ["CLSID"] = "{BRU55_2*AGM-154C}",
+                                                }, -- end of [2]
+                                                [3] =
+                                                {
+                                                    ["CLSID"] = "{BRU55_2*AGM-154C}",
+                                                }, -- end of [3]
+                                                [4] =
+                                                {
+                                                    ["CLSID"] = "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}",
+                                                }, -- end of [4]
+                                                [5] =
+                                                {
+                                                    ["CLSID"] = "<CLEAN>",
+                                                }, -- end of [5]
+                                                [6] =
+                                                {
+                                                    ["CLSID"] = "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}",
+                                                }, -- end of [6]
+                                                [7] =
+                                                {
+                                                    ["CLSID"] = "{BRU55_2*AGM-154C}",
+                                                }, -- end of [7]
+                                                [8] =
+                                                {
+                                                    ["CLSID"] = "{BRU55_2*AGM-154C}",
+                                                }, -- end of [8]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
                                         ["psi"] = 0,
@@ -9413,6 +9441,7 @@ mission =
                                             {
                                             }, -- end of ["Points"]
                                         }, -- end of ["dataCartridge"]
+                                        ["hardpoint_racks"] = true,
                                         ["heading"] = 0,
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_5908",
@@ -58107,6 +58136,74 @@ E057 28 169",
                                 ["x"] = 104070.15753097,
                                 ["y"] = 115853.62940264,
                             }, -- end of [66]
+                            [67] =
+                            {
+                                ["groupId"] = 686012,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_10684",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 1075,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_10686",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 323385.26692536,
+                                            ["y"] = 207551.16337265,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0,
+                                        ["name"] = "DictKey_UnitName_10685",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "UAZ-469",
+                                        ["unitId"] = 1855114,
+                                        ["x"] = 323385.26692536,
+                                        ["y"] = 207551.16337265,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 323385.26692536,
+                                ["y"] = 207551.16337265,
+                            }, -- end of [67]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [4]
@@ -58208,7 +58305,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 2400202,
+    ["currentKey"] = 2417541,
     ["date"] =
     {
         ["Day"] = 20,
@@ -65142,11 +65239,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 77582.966227056,
-        ["centerY"] = 170501.54135045,
-        ["zoom"] = 333486.73255753,
+        ["centerX"] = 324141.83882669,
+        ["centerY"] = 208698.98192639,
+        ["zoom"] = 13291.88680343,
     }, -- end of ["map"]
-    ["maxDictId"] = 10683,
+    ["maxDictId"] = 10701,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
