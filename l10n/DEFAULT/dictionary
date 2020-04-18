@@ -33,6 +33,7 @@ dictionary =
     ["DictKey_ActionRadioText_8965"] = "SITREP_02",
     ["DictKey_ActionRadioText_8969"] = "SITREP_01",
     ["DictKey_ActionRadioText_9125"] = "Check-in",
+    ["DictKey_ActionRadioText_11166"] = "CONDITIONS SET",
     ["DictKey_ActionText_4621"] = "local SAM_PLACEHOLDER = SPAWN:New(\"SAM_PLACEHOLDER\"):Spawn()\
 local SAM_PLACEHOLDER_Location = SAM_PLACEHOLDER:GetVec3()\
 local SAM_REAL = SPAWN:New(\"SAM_REAL\"):SpawnFromVec3(SAM_PLACEHOLDER_Location)\
@@ -56,78 +57,38 @@ SAM_REAL_Group1:SetAIOn()",
 Use F10 menu for additional information",
     ["DictKey_ActionText_8772"] = "GROUND FORCE COMMANDERS INTENTIONS\
 \
-Currently we have been able to fend off the attack from the 15st from the NORTH. In accordance with the intelligence the 151st should not pose a threat anymore.\
-\
-However, the enemy from the EAST   (Valley, 086 for 18nm from JTAC location), which we do not have any intelligence on, is pouring into the area EAST of Dhebarez.\
-\
-\
-I have a couple concerns:\
-- Unlocated units/formations coming in from the NORTH.\
-- Beeing overrun from the formation to the EAST, as we do not know its size\
-\
-We do not have eyes on in the valley east of Debharez, but we have recived indications of enemy forces there.\
-\
-MY TARGET PRIORITIES:\
-1. Main Battle tanks moving along roads.\
-2. Main Battle tanks in static positions\
-3. Artillery\
-4. IFV\
-5. C2\
-6. Any other vehicles\
-\
-Type 3: Approved EAST of Dhebarez.\
+My only change is that only 50% of forces in blocking position 1 need to be neutralized before starting the attattack. The remaining forces can be attacked with CAS while my LAV platoon 1 is moving toward the blocking position.\
 \
 Danger Close approved if required,GFC  initials H.M",
     ["DictKey_ActionText_8778"] = "ARTILLERY\
 \
-Currently no artillery in support.",
+No change.",
     ["DictKey_ActionText_8779"] = "FRIENDLIES\
-A Mechanized Battalion from the 82nd Airborne are in the area holding the frontline.\
+I have 4 LAV-25 platoons.\
+Platoon1 will be used in the blocking positon.\
 \
-Positions as follows (From JTAC Position):\
-075 degree for 3,5nm:  1st company\
-106 degree for 1nm: 2nd company\
-\
-\
-Third company needed to pull back due to heavy fighting from a superior force, but was killed during their egress. Currently we are pushing forward 2nd Company to reinforce 1st Companys position to protect the entrance to the pass.\
-\
-\
-1st Company is protecting the junction from enemy forces coming from the EAST and NORTH\
-\
-\
-\
-We have a friendly Observation Post 026 for 6nm from JTAC location, covering the road going SOUTH toward 1st Company.\
-\
-A FARP have been established to support the RW units that support you. Position is 266 degree for 2,7 nm from JTAC position.\
-\
-FARP MOSCOW\
-Frequency 127.8\
-\
+Platoon 2, 3 and 4 will be used in the main attack\
 ",
     ["DictKey_ActionText_8780"] = "ENEMY:\
-We have the following reports about the enemy:\
+No change to enemy.\
+Appear to be BTR in enemy position 1 and BMPs in enemy position 2.\
 \
 \
 \
 \
 ",
     ["DictKey_ActionText_8781"] = "THREAT:\
-1x Friendly A-10 was shot down a few hours ago. Unknown what system that took him out.\
-\
-A SA-8 was neutralized from 151st coming from the NORTH. Also an manpad protecting a mortar site was destroyed.\
-\
-Currently no reports of any other threats to aircrafts.\
+You are our forward line of observation and what you can see are what we know.\
+We have not had any air support the last 12 hours, and thus we have no had any reports of threats the last 12 hours.\
 \
 \
 \
 ",
-    ["DictKey_ActionText_8966"] = "SITREP 01:\
-From: Friendly Observation Post\
-To: JTAC \
+    ["DictKey_ActionText_8966"] = "TO JTAC:\
+FROM: GFC\
 \
-We see the enemy MBT company moving. They are now moving SOUTH along the road in 2 groups.\
- The SA-8 is in the last group.\
-",
+We are commencing our attack. \
+Clear the way ahead of us with CAS to minimize damage to my forces!",
     ["DictKey_ActionText_8967"] = "SITREP 02:\
 From: Friendly Observation Post\
 To: JTAC \
@@ -2714,7 +2675,7 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_GroupName_10720"] = "LAVAN HAWK site #007",
     ["DictKey_GroupName_10723"] = "TGT OBJ SIRIUS #001",
     ["DictKey_GroupName_10726"] = "TGT OBJ SIRIUS #002",
-    ["DictKey_GroupName_10729"] = "TGT OBJ SIRIUS #003",
+    ["DictKey_GroupName_10729"] = "JTAC_VIKING",
     ["DictKey_GroupName_10732"] = "CENTRAL_SA15_evade_lotatc_ignore_",
     ["DictKey_GroupName_10736"] = "AA_unknown_bombers",
     ["DictKey_GroupName_10743"] = "AA_unknown_bombers #001",
@@ -2774,6 +2735,56 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_GroupName_10921"] = "XX_T90_BN_X #025",
     ["DictKey_GroupName_10925"] = "",
     ["DictKey_GroupName_10929"] = "New Airplane Group",
+    ["DictKey_GroupName_10937"] = "123_PLT1",
+    ["DictKey_GroupName_10943"] = "123_PLT3",
+    ["DictKey_GroupName_10949"] = "123_PLT2",
+    ["DictKey_GroupName_10955"] = "245_PLT1",
+    ["DictKey_GroupName_10964"] = "245_PLT2",
+    ["DictKey_GroupName_10970"] = "245_PLT3",
+    ["DictKey_GroupName_10976"] = "245_PLT4",
+    ["DictKey_GroupName_10982"] = "245_Air_Defence1_SA19",
+    ["DictKey_GroupName_10986"] = "245_Air_Defence2_SA19",
+    ["DictKey_GroupName_10990"] = "CAS_VIKING_USMC_PLT1",
+    ["DictKey_GroupName_10996"] = "CAS_VIKING_USMC_Arty",
+    ["DictKey_GroupName_11003"] = "CAS_VIKING_USMC_PLT2",
+    ["DictKey_GroupName_11009"] = "CAS_VIKING_USMC_PLT3",
+    ["DictKey_GroupName_11015"] = "CAS_VIKING_USMC_PLT4",
+    ["DictKey_GroupName_11024"] = "Jenah Power Plant Subsidiary 2 #001",
+    ["DictKey_GroupName_11027"] = "Jenah Power Plant Subsidiary 2 #002",
+    ["DictKey_GroupName_11030"] = "Jenah Power Plant Subsidiary 2 #003",
+    ["DictKey_GroupName_11033"] = "Jenah Power Plant Subsidiary 2 #004",
+    ["DictKey_GroupName_11036"] = "Jenah Power Plant Subsidiary 2 #005",
+    ["DictKey_GroupName_11039"] = "Jenah Power Plant Subsidiary 2 #006",
+    ["DictKey_GroupName_11042"] = "Jenah Power Plant Subsidiary 2 #007",
+    ["DictKey_GroupName_11045"] = "Jenah Power Plant Subsidiary 2 #008",
+    ["DictKey_GroupName_11048"] = "Jenah Power Plant Subsidiary 2 #009",
+    ["DictKey_GroupName_11051"] = "123_Air_Defence1_SA9",
+    ["DictKey_GroupName_11055"] = "Jenah Power Plant Subsidiary 2 #010",
+    ["DictKey_GroupName_11058"] = "Jenah Power Plant Subsidiary 2 #011",
+    ["DictKey_GroupName_11064"] = "Jenah Power Plant Subsidiary 2 #006",
+    ["DictKey_GroupName_11067"] = "123_Air_Defence1_SA-15",
+    ["DictKey_GroupName_11071"] = "Revet",
+    ["DictKey_GroupName_11074"] = "CAS_VIKING_USMC__SOUTH",
+    ["DictKey_GroupName_11121"] = "245_PLT5",
+    ["DictKey_GroupName_11129"] = "Jenah Power Plant Subsidiary 2 #012",
+    ["DictKey_GroupName_11132"] = "Jenah Power Plant Subsidiary 2 #013",
+    ["DictKey_GroupName_11135"] = "Jenah Power Plant Subsidiary 2 #014",
+    ["DictKey_GroupName_11138"] = "Jenah Power Plant Subsidiary 2 #015",
+    ["DictKey_GroupName_11141"] = "Jenah Power Plant Subsidiary 2 #016",
+    ["DictKey_GroupName_11144"] = "133_PLT1",
+    ["DictKey_GroupName_11154"] = "Jenah Power Plant Subsidiary 2 #017",
+    ["DictKey_GroupName_11157"] = "133_PLT1",
+    ["DictKey_GroupName_11163"] = "Jenah Power Plant Subsidiary 2 #018",
+    ["DictKey_GroupName_11167"] = "CAS_VIKING_USMC_PLT2",
+    ["DictKey_GroupName_11183"] = "CAS_VIKING_USMC_PLT4",
+    ["DictKey_GroupName_11199"] = "CAS_VIKING_USMC_PLT4",
+    ["DictKey_GroupName_11215"] = "Jenah Power Plant Subsidiary 2 #019",
+    ["DictKey_GroupName_11218"] = "Jenah Power Plant Subsidiary 2 #020",
+    ["DictKey_GroupName_11221"] = "Jenah Power Plant Subsidiary 2 #021",
+    ["DictKey_GroupName_11224"] = "Jenah Power Plant Subsidiary 2 #022",
+    ["DictKey_GroupName_11227"] = "Jenah Power Plant Subsidiary 2 #023",
+    ["DictKey_GroupName_11232"] = "Truck manpad",
+    ["DictKey_GroupName_11235"] = "Truck manpad #001",
     ["DictKey_UnitName_7"] = "Pilot #001",
     ["DictKey_UnitName_10"] = "Pilot #002",
     ["DictKey_UnitName_14"] = "Pilot #003",
@@ -6736,7 +6747,7 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_UnitName_10721"] = "Unit #051",
     ["DictKey_UnitName_10724"] = "Unit #046",
     ["DictKey_UnitName_10727"] = "Unit #050",
-    ["DictKey_UnitName_10730"] = "Unit #053",
+    ["DictKey_UnitName_10730"] = "JTAC_VIKING",
     ["DictKey_UnitName_10733"] = "CENTRAL_SA15_evade_lotatc_ignore_",
     ["DictKey_UnitName_10735"] = "CENTRAL_SA15_evade_lotatc_ignore_ #001",
     ["DictKey_UnitName_10737"] = "AA_unknown_bombers",
@@ -6802,6 +6813,127 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_UnitName_10926"] = "",
     ["DictKey_UnitName_10930"] = "Pilot #001",
     ["DictKey_UnitName_10933"] = "Unit #004",
+    ["DictKey_UnitName_10938"] = "123_PLT1",
+    ["DictKey_UnitName_10940"] = "123_PLT1 #001",
+    ["DictKey_UnitName_10941"] = "123_PLT1 #002",
+    ["DictKey_UnitName_10942"] = "123_PLT1 #003",
+    ["DictKey_UnitName_10944"] = "123_PLT3",
+    ["DictKey_UnitName_10945"] = "123_PLT3 #001",
+    ["DictKey_UnitName_10946"] = "123_PLT3 #002",
+    ["DictKey_UnitName_10947"] = "Unit #026",
+    ["DictKey_UnitName_10950"] = "123_PLT2 #003",
+    ["DictKey_UnitName_10951"] = "123_PLT2 #002",
+    ["DictKey_UnitName_10952"] = "123_PLT2 #001",
+    ["DictKey_UnitName_10953"] = "123_PLT2",
+    ["DictKey_UnitName_10956"] = "245_PLT1",
+    ["DictKey_UnitName_10957"] = "123_PLT3 #001",
+    ["DictKey_UnitName_10958"] = "123_PLT3 #002",
+    ["DictKey_UnitName_10959"] = "Unit #026",
+    ["DictKey_UnitName_10961"] = "245_PLT1 #001",
+    ["DictKey_UnitName_10962"] = "245_PLT1 #002",
+    ["DictKey_UnitName_10963"] = "245_PLT1 #003",
+    ["DictKey_UnitName_10965"] = "245_PLT2",
+    ["DictKey_UnitName_10966"] = "245_PLT2 #001",
+    ["DictKey_UnitName_10967"] = "245_PLT2 #002",
+    ["DictKey_UnitName_10968"] = "245_PLT2 #003",
+    ["DictKey_UnitName_10971"] = "245_PLT3",
+    ["DictKey_UnitName_10972"] = "245_PLT3 #001",
+    ["DictKey_UnitName_10973"] = "245_PLT3 #002",
+    ["DictKey_UnitName_10974"] = "245_PLT3 #003",
+    ["DictKey_UnitName_10977"] = "245_PLT4",
+    ["DictKey_UnitName_10978"] = "245_PLT4 #001",
+    ["DictKey_UnitName_10979"] = "245_PLT4 #002",
+    ["DictKey_UnitName_10980"] = "245_PLT4 #003",
+    ["DictKey_UnitName_10983"] = "245_Air_Defence1_SA19",
+    ["DictKey_UnitName_10985"] = "245_Air_Defence1_SA19 #001",
+    ["DictKey_UnitName_10987"] = "245_Air_Defence2_SA19",
+    ["DictKey_UnitName_10988"] = "245_Air_Defence2_SA19 #001",
+    ["DictKey_UnitName_10991"] = "CAS_VIKING_USMC_PLT1",
+    ["DictKey_UnitName_10993"] = "CAS_VIKING_USMC_PLT1 #001",
+    ["DictKey_UnitName_10994"] = "CAS_VIKING_USMC_PLT1 #002",
+    ["DictKey_UnitName_10995"] = "CAS_VIKING_USMC_PLT1 #003",
+    ["DictKey_UnitName_10997"] = "CAS_VIKING_USMC_Arty #003",
+    ["DictKey_UnitName_10999"] = "CAS_VIKING_USMC_Arty #002",
+    ["DictKey_UnitName_11000"] = "CAS_VIKING_USMC_Arty #001",
+    ["DictKey_UnitName_11001"] = "CAS_VIKING_USMC_Arty",
+    ["DictKey_UnitName_11004"] = "CAS_VIKING_USMC_PLT2",
+    ["DictKey_UnitName_11005"] = "CAS_VIKING_USMC_PLT2 #001",
+    ["DictKey_UnitName_11006"] = "CAS_VIKING_USMC_PLT2 #002",
+    ["DictKey_UnitName_11007"] = "CAS_VIKING_USMC_PLT2 #003",
+    ["DictKey_UnitName_11010"] = "CAS_VIKING_USMC_PLT3",
+    ["DictKey_UnitName_11011"] = "CAS_VIKING_USMC_PLT3 #001",
+    ["DictKey_UnitName_11012"] = "CAS_VIKING_USMC_PLT3 #002",
+    ["DictKey_UnitName_11013"] = "CAS_VIKING_USMC_PLT3 #003",
+    ["DictKey_UnitName_11016"] = "CAS_VIKING_USMC_PLT4",
+    ["DictKey_UnitName_11017"] = "CAS_VIKING_USMC_PLT4 #001",
+    ["DictKey_UnitName_11018"] = "CAS_VIKING_USMC_PLT4 #002",
+    ["DictKey_UnitName_11019"] = "CAS_VIKING_USMC_PLT4 #003",
+    ["DictKey_UnitName_11025"] = "",
+    ["DictKey_UnitName_11028"] = "Jenah Power Plant Subsidiary 2 #001",
+    ["DictKey_UnitName_11031"] = "Jenah Power Plant Subsidiary 2 #002",
+    ["DictKey_UnitName_11034"] = "Jenah Power Plant Subsidiary 2 #003",
+    ["DictKey_UnitName_11037"] = "Jenah Power Plant Subsidiary 2 #004",
+    ["DictKey_UnitName_11040"] = "Jenah Power Plant Subsidiary 2 #005",
+    ["DictKey_UnitName_11043"] = "Jenah Power Plant Subsidiary 2 #006",
+    ["DictKey_UnitName_11046"] = "Jenah Power Plant Subsidiary 2 #007",
+    ["DictKey_UnitName_11049"] = "Jenah Power Plant Subsidiary 2 #008",
+    ["DictKey_UnitName_11052"] = "123_Air_Defence1_SA9",
+    ["DictKey_UnitName_11053"] = "123_Air_Defence1_SA9 #001",
+    ["DictKey_UnitName_11056"] = "Jenah Power Plant Subsidiary 2 #004",
+    ["DictKey_UnitName_11059"] = "Jenah Power Plant Subsidiary 2 #006",
+    ["DictKey_UnitName_11065"] = "Jenah Power Plant Subsidiary 2 #006",
+    ["DictKey_UnitName_11068"] = "123_Air_Defence1_SA-15 #001",
+    ["DictKey_UnitName_11069"] = "123_Air_Defence1_SA-15",
+    ["DictKey_UnitName_11072"] = "",
+    ["DictKey_UnitName_11075"] = "CAS_VIKING_USMC__SOUTH",
+    ["DictKey_UnitName_11076"] = "CAS_VIKING_USMC__SOUTH #001",
+    ["DictKey_UnitName_11077"] = "CAS_VIKING_USMC__SOUTH #002",
+    ["DictKey_UnitName_11078"] = "CAS_VIKING_USMC_PLT1 #003",
+    ["DictKey_UnitName_11122"] = "245_PLT5",
+    ["DictKey_UnitName_11123"] = "245_PLT5 #001",
+    ["DictKey_UnitName_11124"] = "245_PLT5 #002",
+    ["DictKey_UnitName_11125"] = "245_PLT5 #003",
+    ["DictKey_UnitName_11128"] = "Unit #016",
+    ["DictKey_UnitName_11130"] = "Jenah Power Plant Subsidiary 2 #011",
+    ["DictKey_UnitName_11133"] = "Jenah Power Plant Subsidiary 2 #012",
+    ["DictKey_UnitName_11136"] = "Jenah Power Plant Subsidiary 2 #013",
+    ["DictKey_UnitName_11139"] = "Jenah Power Plant Subsidiary 2 #014",
+    ["DictKey_UnitName_11142"] = "Jenah Power Plant Subsidiary 2 #011",
+    ["DictKey_UnitName_11145"] = "133_PLT1",
+    ["DictKey_UnitName_11146"] = "245_PLT3 #001",
+    ["DictKey_UnitName_11147"] = "245_PLT3 #002",
+    ["DictKey_UnitName_11148"] = "245_PLT3 #003",
+    ["DictKey_UnitName_11149"] = "Unit #016",
+    ["DictKey_UnitName_11151"] = "133_PLT1 #001",
+    ["DictKey_UnitName_11152"] = "133_PLT1 #002",
+    ["DictKey_UnitName_11153"] = "Unit #017",
+    ["DictKey_UnitName_11155"] = "Jenah Power Plant Subsidiary 2 #011",
+    ["DictKey_UnitName_11158"] = "133_PLT1",
+    ["DictKey_UnitName_11159"] = "133_PLT1 #001",
+    ["DictKey_UnitName_11160"] = "133_PLT1 #002",
+    ["DictKey_UnitName_11161"] = "Unit #017",
+    ["DictKey_UnitName_11164"] = "Jenah Power Plant Subsidiary 2 #017",
+    ["DictKey_UnitName_11168"] = "CAS_VIKING_USMC_PLT3 #004",
+    ["DictKey_UnitName_11169"] = "CAS_VIKING_USMC_PLT3 #005",
+    ["DictKey_UnitName_11170"] = "CAS_VIKING_USMC_PLT3 #006",
+    ["DictKey_UnitName_11171"] = "CAS_VIKING_USMC_PLT3 #007",
+    ["DictKey_UnitName_11184"] = "CAS_VIKING_USMC_PLT3 #008",
+    ["DictKey_UnitName_11185"] = "CAS_VIKING_USMC_PLT3 #009",
+    ["DictKey_UnitName_11186"] = "CAS_VIKING_USMC_PLT3 #010",
+    ["DictKey_UnitName_11187"] = "CAS_VIKING_USMC_PLT3 #011",
+    ["DictKey_UnitName_11200"] = "CAS_VIKING_USMC_PLT3 #008",
+    ["DictKey_UnitName_11201"] = "CAS_VIKING_USMC_PLT3 #009",
+    ["DictKey_UnitName_11202"] = "CAS_VIKING_USMC_PLT3 #010",
+    ["DictKey_UnitName_11203"] = "CAS_VIKING_USMC_PLT3 #011",
+    ["DictKey_UnitName_11216"] = "Jenah Power Plant Subsidiary 2 #016",
+    ["DictKey_UnitName_11219"] = "Jenah Power Plant Subsidiary 2 #019",
+    ["DictKey_UnitName_11222"] = "Jenah Power Plant Subsidiary 2 #019",
+    ["DictKey_UnitName_11225"] = "Jenah Power Plant Subsidiary 2 #021",
+    ["DictKey_UnitName_11228"] = "Jenah Power Plant Subsidiary 2 #022",
+    ["DictKey_UnitName_11230"] = "Unit #018",
+    ["DictKey_UnitName_11231"] = "Unit #019",
+    ["DictKey_UnitName_11233"] = "",
+    ["DictKey_UnitName_11236"] = "Truck manpad",
     ["DictKey_WptName_8"] = "",
     ["DictKey_WptName_11"] = "",
     ["DictKey_WptName_12"] = "",
@@ -10996,6 +11128,135 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_WptName_10934"] = "",
     ["DictKey_WptName_10935"] = "",
     ["DictKey_WptName_10936"] = "",
+    ["DictKey_WptName_10939"] = "",
+    ["DictKey_WptName_10948"] = "",
+    ["DictKey_WptName_10954"] = "",
+    ["DictKey_WptName_10960"] = "",
+    ["DictKey_WptName_10969"] = "",
+    ["DictKey_WptName_10975"] = "",
+    ["DictKey_WptName_10981"] = "",
+    ["DictKey_WptName_10984"] = "",
+    ["DictKey_WptName_10989"] = "",
+    ["DictKey_WptName_10992"] = "",
+    ["DictKey_WptName_10998"] = "",
+    ["DictKey_WptName_11002"] = "",
+    ["DictKey_WptName_11008"] = "",
+    ["DictKey_WptName_11014"] = "",
+    ["DictKey_WptName_11020"] = "",
+    ["DictKey_WptName_11021"] = "",
+    ["DictKey_WptName_11022"] = "",
+    ["DictKey_WptName_11023"] = "",
+    ["DictKey_WptName_11026"] = "",
+    ["DictKey_WptName_11029"] = "",
+    ["DictKey_WptName_11032"] = "",
+    ["DictKey_WptName_11035"] = "",
+    ["DictKey_WptName_11038"] = "",
+    ["DictKey_WptName_11041"] = "",
+    ["DictKey_WptName_11044"] = "",
+    ["DictKey_WptName_11047"] = "",
+    ["DictKey_WptName_11050"] = "",
+    ["DictKey_WptName_11054"] = "",
+    ["DictKey_WptName_11057"] = "",
+    ["DictKey_WptName_11060"] = "",
+    ["DictKey_WptName_11061"] = "",
+    ["DictKey_WptName_11062"] = "",
+    ["DictKey_WptName_11063"] = "",
+    ["DictKey_WptName_11066"] = "",
+    ["DictKey_WptName_11070"] = "",
+    ["DictKey_WptName_11073"] = "",
+    ["DictKey_WptName_11079"] = "",
+    ["DictKey_WptName_11080"] = "",
+    ["DictKey_WptName_11081"] = "",
+    ["DictKey_WptName_11082"] = "",
+    ["DictKey_WptName_11083"] = "",
+    ["DictKey_WptName_11084"] = "",
+    ["DictKey_WptName_11085"] = "",
+    ["DictKey_WptName_11086"] = "",
+    ["DictKey_WptName_11087"] = "",
+    ["DictKey_WptName_11088"] = "",
+    ["DictKey_WptName_11089"] = "",
+    ["DictKey_WptName_11090"] = "",
+    ["DictKey_WptName_11091"] = "",
+    ["DictKey_WptName_11092"] = "",
+    ["DictKey_WptName_11093"] = "",
+    ["DictKey_WptName_11094"] = "",
+    ["DictKey_WptName_11095"] = "",
+    ["DictKey_WptName_11096"] = "",
+    ["DictKey_WptName_11097"] = "",
+    ["DictKey_WptName_11098"] = "",
+    ["DictKey_WptName_11099"] = "",
+    ["DictKey_WptName_11100"] = "",
+    ["DictKey_WptName_11101"] = "",
+    ["DictKey_WptName_11102"] = "",
+    ["DictKey_WptName_11103"] = "",
+    ["DictKey_WptName_11104"] = "",
+    ["DictKey_WptName_11105"] = "",
+    ["DictKey_WptName_11106"] = "",
+    ["DictKey_WptName_11107"] = "",
+    ["DictKey_WptName_11108"] = "",
+    ["DictKey_WptName_11109"] = "",
+    ["DictKey_WptName_11110"] = "",
+    ["DictKey_WptName_11111"] = "",
+    ["DictKey_WptName_11112"] = "",
+    ["DictKey_WptName_11113"] = "",
+    ["DictKey_WptName_11114"] = "",
+    ["DictKey_WptName_11115"] = "",
+    ["DictKey_WptName_11116"] = "",
+    ["DictKey_WptName_11117"] = "",
+    ["DictKey_WptName_11118"] = "",
+    ["DictKey_WptName_11119"] = "",
+    ["DictKey_WptName_11120"] = "",
+    ["DictKey_WptName_11126"] = "",
+    ["DictKey_WptName_11127"] = "",
+    ["DictKey_WptName_11131"] = "",
+    ["DictKey_WptName_11134"] = "",
+    ["DictKey_WptName_11137"] = "",
+    ["DictKey_WptName_11140"] = "",
+    ["DictKey_WptName_11143"] = "",
+    ["DictKey_WptName_11150"] = "",
+    ["DictKey_WptName_11156"] = "",
+    ["DictKey_WptName_11162"] = "",
+    ["DictKey_WptName_11165"] = "",
+    ["DictKey_WptName_11172"] = "",
+    ["DictKey_WptName_11173"] = "",
+    ["DictKey_WptName_11174"] = "",
+    ["DictKey_WptName_11175"] = "",
+    ["DictKey_WptName_11176"] = "",
+    ["DictKey_WptName_11177"] = "",
+    ["DictKey_WptName_11178"] = "",
+    ["DictKey_WptName_11179"] = "",
+    ["DictKey_WptName_11180"] = "",
+    ["DictKey_WptName_11181"] = "",
+    ["DictKey_WptName_11182"] = "",
+    ["DictKey_WptName_11188"] = "",
+    ["DictKey_WptName_11189"] = "",
+    ["DictKey_WptName_11190"] = "",
+    ["DictKey_WptName_11191"] = "",
+    ["DictKey_WptName_11192"] = "",
+    ["DictKey_WptName_11193"] = "",
+    ["DictKey_WptName_11194"] = "",
+    ["DictKey_WptName_11195"] = "",
+    ["DictKey_WptName_11196"] = "",
+    ["DictKey_WptName_11197"] = "",
+    ["DictKey_WptName_11198"] = "",
+    ["DictKey_WptName_11204"] = "",
+    ["DictKey_WptName_11205"] = "",
+    ["DictKey_WptName_11206"] = "",
+    ["DictKey_WptName_11207"] = "",
+    ["DictKey_WptName_11208"] = "",
+    ["DictKey_WptName_11209"] = "",
+    ["DictKey_WptName_11210"] = "",
+    ["DictKey_WptName_11211"] = "",
+    ["DictKey_WptName_11212"] = "",
+    ["DictKey_WptName_11213"] = "",
+    ["DictKey_WptName_11214"] = "",
+    ["DictKey_WptName_11217"] = "",
+    ["DictKey_WptName_11220"] = "",
+    ["DictKey_WptName_11223"] = "",
+    ["DictKey_WptName_11226"] = "",
+    ["DictKey_WptName_11229"] = "",
+    ["DictKey_WptName_11234"] = "",
+    ["DictKey_WptName_11237"] = "",
     ["DictKey_descriptionBlueTask_3"] = "",
     ["DictKey_descriptionNeutralsTask_4"] = "",
     ["DictKey_descriptionRedTask_2"] = "",
