@@ -135,11 +135,11 @@ navigation =
 			},
 			["sub_type"] = 0,
 		},
-		["HA01"] = 
+		["HA RC"] = 
 		{
 			["type"] = 0,
-			["name"] = "HA01",
-			["callsign"] = "HA01",
+			["name"] = "HA RC",
+			["callsign"] = "HA RC",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
@@ -150,26 +150,26 @@ navigation =
 			},
 			["sub_type"] = 0,
 		},
-		["ABF 3"] = 
+		["ABF N1"] = 
 		{
 			["type"] = 0,
-			["name"] = "ABF 3",
-			["callsign"] = "ABF 3",
+			["name"] = "ABF N1",
+			["callsign"] = "ABF N1",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 54.6633333333333,
-				["latitude"] = 26.8616666666667,
+				["longitude"] = 54.5717219882796,
+				["latitude"] = 26.922401908133,
 				["course"] = 0,
 				["height"] = 0,
 			},
 			["sub_type"] = 0,
 		},
-		["ABF 1"] = 
+		["ABF C1"] = 
 		{
 			["type"] = 0,
-			["name"] = "ABF 1",
-			["callsign"] = "ABF 1",
+			["name"] = "ABF C1",
+			["callsign"] = "ABF C1",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
@@ -180,11 +180,11 @@ navigation =
 			},
 			["sub_type"] = 0,
 		},
-		["ABF 2"] = 
+		["ABF C2"] = 
 		{
 			["type"] = 0,
-			["name"] = "ABF 2",
-			["callsign"] = "ABF 2",
+			["name"] = "ABF C2",
+			["callsign"] = "ABF C2",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
@@ -195,11 +195,11 @@ navigation =
 			},
 			["sub_type"] = 0,
 		},
-		["SBF 1"] = 
+		["SBF C"] = 
 		{
 			["type"] = 0,
-			["name"] = "SBF 1",
-			["callsign"] = "SBF 1",
+			["name"] = "SBF C",
+			["callsign"] = "SBF C",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
@@ -255,16 +255,16 @@ navigation =
 			},
 			["sub_type"] = 0,
 		},
-		["SBF 2"] = 
+		["SBF N"] = 
 		{
 			["type"] = 0,
-			["name"] = "SBF 2",
-			["callsign"] = "SBF 2",
+			["name"] = "SBF N",
+			["callsign"] = "SBF N",
 			["class"] = "ABRIS_Waypoint",
 			["position"] = 
 			{
-				["longitude"] = 54.71,
-				["latitude"] = 26.87,
+				["longitude"] = 54.6635569825307,
+				["latitude"] = 26.8659691348163,
 				["course"] = 0,
 				["height"] = 0,
 			},
@@ -280,6 +280,111 @@ navigation =
 			{
 				["longitude"] = 54.5208,
 				["latitude"] = 26.7733833333333,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["ABF S"] = 
+		{
+			["type"] = 0,
+			["name"] = "ABF S",
+			["callsign"] = "ABF S",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 54.6216666666667,
+				["latitude"] = 26.65,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["BP D"] = 
+		{
+			["type"] = 0,
+			["name"] = "BP D",
+			["callsign"] = "BP D",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 54.44,
+				["latitude"] = 63.11,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["BP D"] = 
+		{
+			["type"] = 0,
+			["name"] = "BP D",
+			["callsign"] = "BP D",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 54.4416666666667,
+				["latitude"] = 26.6366666666667,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["HA RS"] = 
+		{
+			["type"] = 0,
+			["name"] = "HA RS",
+			["callsign"] = "HA RS",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 54.7233333333333,
+				["latitude"] = 26.5466666666667,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["HA RN"] = 
+		{
+			["type"] = 0,
+			["name"] = "HA RN",
+			["callsign"] = "HA RN",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 54.725,
+				["latitude"] = 26.845,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["ABF N2"] = 
+		{
+			["type"] = 0,
+			["name"] = "ABF N2",
+			["callsign"] = "ABF N2",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 54.6417181729222,
+				["latitude"] = 26.9074225049712,
+				["course"] = 0,
+				["height"] = 0,
+			},
+			["sub_type"] = 0,
+		},
+		["VILLAGE"] = 
+		{
+			["type"] = 0,
+			["name"] = "VILLAGE",
+			["callsign"] = "VILLAGE",
+			["class"] = "ABRIS_Waypoint",
+			["position"] = 
+			{
+				["longitude"] = 54.5539475901571,
+				["latitude"] = 26.7452364450331,
 				["course"] = 0,
 				["height"] = 0,
 			},

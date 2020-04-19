@@ -59,7 +59,7 @@ routes =
 						["latitude"] = 26.7603698746448,
 					},
 					["sub_type"] = 0,
-					["callsign"] = "HA01",
+					["callsign"] = "HA RC",
 				},
 				["preset_ground_speed"] = 194.38444924406,
 				["preset_atmospheric_temperature"] = 20,
