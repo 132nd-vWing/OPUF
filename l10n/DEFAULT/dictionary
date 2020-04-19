@@ -57,7 +57,8 @@ SAM_REAL_Group1:SetAIOn()",
 Use F10 menu for additional information",
     ["DictKey_ActionText_8772"] = "GROUND FORCE COMMANDERS INTENTIONS\
 \
-My only change is that only 50% of forces in blocking position 1 need to be neutralized before starting the attattack. The remaining forces can be attacked with CAS while my LAV platoon 1 is moving toward the blocking position.\
+My only change is that only 25% of forces in blocking position 1 need to be neutralized before starting the attattack. The remaining forces can be attacked with CAS while my LAV platoon 1 is moving toward the blocking position.\
+I want to speed up this offensive before enemy armor from 133nd Armored Battalion is able to mount a counteroffensive.\
 \
 Danger Close approved if required,GFC  initials H.M",
     ["DictKey_ActionText_8778"] = "ARTILLERY\
@@ -129,6 +130,14 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
 \
 ",
     ["DictKey_ActionText_9438"] = "",
+    ["DictKey_ActionText_11277"] = "TO: JTAC\
+FROM: GFC\
+\
+Friendly forces have reached their first objective. They will hold in current position and establish defensive positions while waiting for resupplies before the final push toward JENAH.\
+\
+You can clear all CAS flights to RTB in the next 10 minutes.\
+\
+Good work!",
     ["DictKey_GroupName_6"] = "Hornet 204",
     ["DictKey_GroupName_9"] = "Shell_S3",
     ["DictKey_GroupName_13"] = "AJS 198",
@@ -2785,6 +2794,17 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_GroupName_11227"] = "Jenah Power Plant Subsidiary 2 #023",
     ["DictKey_GroupName_11232"] = "Truck manpad",
     ["DictKey_GroupName_11235"] = "Truck manpad #001",
+    ["DictKey_GroupName_11238"] = "CAS_SA11",
+    ["DictKey_GroupName_11245"] = "CENTRAL_SA15_2_evade_lotatc_ignore_",
+    ["DictKey_GroupName_11249"] = "133_plt1",
+    ["DictKey_GroupName_11252"] = "133_plt1 #001",
+    ["DictKey_GroupName_11255"] = "133_plt1 #002",
+    ["DictKey_GroupName_11258"] = "133_plt1 #003",
+    ["DictKey_GroupName_11261"] = "133_plt1 #004",
+    ["DictKey_GroupName_11264"] = "133_plt1 #005",
+    ["DictKey_GroupName_11267"] = "245_Air_Defence2_SA19_3",
+    ["DictKey_GroupName_11271"] = "Jenah Power Plant Subsidiary 2 #024",
+    ["DictKey_GroupName_11274"] = "KA50_LENGEH_#5",
     ["DictKey_UnitName_7"] = "Pilot #001",
     ["DictKey_UnitName_10"] = "Pilot #002",
     ["DictKey_UnitName_14"] = "Pilot #003",
@@ -6934,6 +6954,23 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_UnitName_11231"] = "Unit #019",
     ["DictKey_UnitName_11233"] = "",
     ["DictKey_UnitName_11236"] = "Truck manpad",
+    ["DictKey_UnitName_11239"] = "CAS_SA11",
+    ["DictKey_UnitName_11240"] = "CAS_SA11 #001",
+    ["DictKey_UnitName_11241"] = "CAS_SA11 #002",
+    ["DictKey_UnitName_11242"] = "CAS_SA11 #003",
+    ["DictKey_UnitName_11243"] = "CAS_SA11 #004",
+    ["DictKey_UnitName_11246"] = "CENTRAL_SA15_evade_lotatc_ignore_ #002",
+    ["DictKey_UnitName_11247"] = "CENTRAL_SA15_evade_lotatc_ignore_ #003",
+    ["DictKey_UnitName_11250"] = "",
+    ["DictKey_UnitName_11253"] = "133_plt1",
+    ["DictKey_UnitName_11256"] = "133_plt1",
+    ["DictKey_UnitName_11259"] = "133_plt1 #001",
+    ["DictKey_UnitName_11262"] = "133_plt1 #003",
+    ["DictKey_UnitName_11265"] = "133_plt1 #004",
+    ["DictKey_UnitName_11268"] = "245_Air_Defence2_SA19_3",
+    ["DictKey_UnitName_11269"] = "245_Air_Defence2_SA19_3 #001",
+    ["DictKey_UnitName_11272"] = "Jenah Power Plant Subsidiary 2 #014",
+    ["DictKey_UnitName_11275"] = "KA50_LENGEH_#5",
     ["DictKey_WptName_8"] = "",
     ["DictKey_WptName_11"] = "",
     ["DictKey_WptName_12"] = "",
@@ -11257,6 +11294,17 @@ Platoons were observed  passing through N27 33 400 E057 06.400 \
     ["DictKey_WptName_11229"] = "",
     ["DictKey_WptName_11234"] = "",
     ["DictKey_WptName_11237"] = "",
+    ["DictKey_WptName_11244"] = "",
+    ["DictKey_WptName_11248"] = "",
+    ["DictKey_WptName_11251"] = "",
+    ["DictKey_WptName_11254"] = "",
+    ["DictKey_WptName_11257"] = "",
+    ["DictKey_WptName_11260"] = "",
+    ["DictKey_WptName_11263"] = "",
+    ["DictKey_WptName_11266"] = "",
+    ["DictKey_WptName_11270"] = "",
+    ["DictKey_WptName_11273"] = "",
+    ["DictKey_WptName_11276"] = "",
     ["DictKey_descriptionBlueTask_3"] = "",
     ["DictKey_descriptionNeutralsTask_4"] = "",
     ["DictKey_descriptionRedTask_2"] = "",
