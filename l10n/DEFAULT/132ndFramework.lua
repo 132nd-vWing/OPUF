@@ -2,11 +2,11 @@
  
 --CHANGE TO FALSE if disabling
 ShirazCap = true
-LarCap = true
+LarCap = false
 KermanCap = true
 AbbasCap = false
 
-JiroftGCI = false
+JiroftGCI = true
 LarGCI = false
 JaskGCI = false
 
