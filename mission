@@ -282,7 +282,7 @@ mission =
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 331,
+                                            ["alt"] = 958,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_10731",
@@ -335,8 +335,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 72500.696382649,
-                                            ["y"] = -167795.80823986,
+                                            ["x"] = 165149.39991927,
+                                            ["y"] = -183456.77844744,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -364,14 +364,118 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Soldier stinger",
                                         ["unitId"] = 1855124,
-                                        ["x"] = 72500.696382649,
-                                        ["y"] = -167795.80823986,
+                                        ["x"] = 165149.39991927,
+                                        ["y"] = -183456.77844744,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = 72500.696382649,
-                                ["y"] = -167795.80823986,
+                                ["x"] = 165149.39991927,
+                                ["y"] = -183456.77844744,
                             }, -- end of [3]
+                            [4] =
+                            {
+                                ["groupId"] = 686141,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_11278",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 1600,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_11280",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                        [1] =
+                                                        {
+                                                            ["auto"] = false,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 1,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "SetInvisible",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [1]
+                                                        [2] =
+                                                        {
+                                                            ["auto"] = false,
+                                                            ["enabled"] = true,
+                                                            ["id"] = "WrappedAction",
+                                                            ["number"] = 2,
+                                                            ["params"] =
+                                                            {
+                                                                ["action"] =
+                                                                {
+                                                                    ["id"] = "SetImmortal",
+                                                                    ["params"] =
+                                                                    {
+                                                                        ["value"] = true,
+                                                                    }, -- end of ["params"]
+                                                                }, -- end of ["action"]
+                                                            }, -- end of ["params"]
+                                                        }, -- end of [2]
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 163396.78406786,
+                                            ["y"] = -176137.59479118,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 3.2463124087095,
+                                        ["name"] = "DictKey_UnitName_11279",
+                                        ["playerCanDrive"] = true,
+                                        ["skill"] = "Average",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Soldier stinger",
+                                        ["unitId"] = 1855326,
+                                        ["x"] = 163396.78406786,
+                                        ["y"] = -176137.59479118,
+                                    }, -- end of [1]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 163396.78406786,
+                                ["y"] = -176137.59479118,
+                            }, -- end of [4]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [4]
@@ -59058,10 +59162,10 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 2597038,
+    ["currentKey"] = 2615122,
     ["date"] =
     {
-        ["Day"] = 21,
+        ["Day"] = 22,
         ["Month"] = 6,
         ["Year"] = 2011,
     }, -- end of ["date"]
@@ -65992,11 +66096,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 110474.50769036,
-        ["centerY"] = -266031.45239226,
-        ["zoom"] = 442651.82035542,
+        ["centerX"] = 153536.53650757,
+        ["centerY"] = -109815.70040649,
+        ["zoom"] = 550094.24698719,
     }, -- end of ["map"]
-    ["maxDictId"] = 11277,
+    ["maxDictId"] = 11292,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -66052,7 +66156,7 @@ E057 28 169",
         ["total"] = 0,
     }, -- end of ["result"]
     ["sortie"] = "DictKey_sortie_5",
-    ["start_time"] = 54000,
+    ["start_time"] = 45000,
     ["theatre"] = "PersianGulf",
     ["trig"] =
     {
@@ -69606,7 +69710,7 @@ E057 28 169",
         ["clouds"] =
         {
             ["base"] = 4500,
-            ["density"] = 2,
+            ["density"] = 1,
             ["iprecptns"] = 0,
             ["thickness"] = 1270,
         }, -- end of ["clouds"]
@@ -69631,7 +69735,7 @@ E057 28 169",
         ["qnh"] = 762.254,
         ["season"] =
         {
-            ["temperature"] = 22,
+            ["temperature"] = 17,
         }, -- end of ["season"]
         ["type_weather"] = 0,
         ["visibility"] =
@@ -69642,18 +69746,18 @@ E057 28 169",
         {
             ["at2000"] =
             {
-                ["dir"] = 272,
-                ["speed"] = 6.1848,
+                ["dir"] = 289,
+                ["speed"] = 5.6694,
             }, -- end of ["at2000"]
             ["at8000"] =
             {
-                ["dir"] = 266,
-                ["speed"] = 6.1848,
+                ["dir"] = 297,
+                ["speed"] = 5.6694,
             }, -- end of ["at8000"]
             ["atGround"] =
             {
-                ["dir"] = 264,
-                ["speed"] = 2.577,
+                ["dir"] = 280,
+                ["speed"] = 3,
             }, -- end of ["atGround"]
         }, -- end of ["wind"]
     }, -- end of ["weather"]
