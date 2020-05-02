@@ -183,19 +183,9 @@ ctld.wpZones = {
 
 -- Use any of the predefined names or set your own ones
 ctld.transportPilotNames = {
-    "259  FARP LONDON #1",
-    "259  FARP LONDON #2",    
-    "259  FARP LONDON #3",
-    "259  FARP LONDON #4",
-	"259  KHASAB #1",
-	"259  KHASAB #2",	
-	"MI-8 Al Dahfra #1 - Park 87",
-	"MI-8 Al Dahfra #1 - Park 88", 
-	"MI-8 Al Dahfra #1 - Park 89", 
-	"MI-8 Al Dahfra #1 - Park 90",
-	"FOB_Blackfoot_Convoy1",
-	"MI-8_#1"
-	"MI-8_#2"
+    "MI-8_FARP_1",
+	"CTLD_TEST",
+
 
   	
 	   
@@ -205,14 +195,10 @@ ctld.transportPilotNames = {
 -- Use any of the predefined names or set your own ones
 
 ctld.extractableGroups = {
-    "JTAC T1.1",
-	"Injured_personel_1",
-	"Injured_personel_2",
-	"JTAC WARRIOR QESHM",
-	"BACKUP_INFANTRY1",
-	"BACKUP_INFANTRY2",
-	"BACKUP_INFANTRY3",
+    "JTAC_VIKING_1",
+	"JTAC_VIKING_2",
 	"AIR_ASSAULT_INF",
+
   
     
 }
