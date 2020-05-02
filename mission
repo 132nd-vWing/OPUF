@@ -609,7 +609,7 @@ mission =
                                         }, -- end of [3]
                                         [4] =
                                         {
-                                            ["ETA"] = 37154.436663074,
+                                            ["ETA"] = 37728.513136532,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 868,
@@ -629,12 +629,12 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = -184103.61561507,
-                                            ["y"] = -384094.44479686,
+                                            ["x"] = -193595.41935982,
+                                            ["y"] = -348407.81167213,
                                         }, -- end of [4]
                                         [5] =
                                         {
-                                            ["ETA"] = 43382.193074703,
+                                            ["ETA"] = 42663.041805515,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 868,
@@ -654,8 +654,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 50541.634189398,
-                                            ["y"] = -217046.4316749,
+                                            ["x"] = -20319.148210325,
+                                            ["y"] = -188943.41720846,
                                         }, -- end of [5]
                                         [6] =
                                         {
@@ -8553,8 +8553,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParking",
-                                            ["x"] = -126312.14245605,
-                                            ["y"] = -88090.050231934,
+                                            ["x"] = -126378.9765625,
+                                            ["y"] = -90309.515625,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -8720,8 +8720,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_5899",
                                         ["onboard_num"] = "341",
-                                        ["parking"] = 47,
-                                        ["parking_id"] = "49",
+                                        ["parking"] = 23,
+                                        ["parking_id"] = "18",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -8738,8 +8738,8 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7505,
-                                        ["x"] = -126312.14245605,
-                                        ["y"] = -88090.050231934,
+                                        ["x"] = -126378.9765625,
+                                        ["y"] = -90309.515625,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -8895,8 +8895,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_5900",
                                         ["onboard_num"] = "342",
-                                        ["parking"] = 48,
-                                        ["parking_id"] = "50",
+                                        ["parking"] = 32,
+                                        ["parking_id"] = "09",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -8913,12 +8913,12 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7506,
-                                        ["x"] = -126312.02441406,
-                                        ["y"] = -88000.29095459,
+                                        ["x"] = -126317.21862793,
+                                        ["y"] = -90309.63293457,
                                     }, -- end of [2]
                                 }, -- end of ["units"]
-                                ["x"] = -126312.14245605,
-                                ["y"] = -88090.050231934,
+                                ["x"] = -126378.9765625,
+                                ["y"] = -90309.515625,
                             }, -- end of [22]
                             [23] =
                             {
@@ -9429,8 +9429,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParking",
-                                            ["x"] = -126312.00500488,
-                                            ["y"] = -87515.07409668,
+                                            ["x"] = -126317.85949707,
+                                            ["y"] = -90475.913452148,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -9596,8 +9596,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_5903",
                                         ["onboard_num"] = "311",
-                                        ["parking"] = 53,
-                                        ["parking_id"] = "55",
+                                        ["parking"] = 28,
+                                        ["parking_id"] = "05",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -9614,8 +9614,8 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7507,
-                                        ["x"] = -126312.00500488,
-                                        ["y"] = -87515.07409668,
+                                        ["x"] = -126317.85949707,
+                                        ["y"] = -90475.913452148,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -9771,8 +9771,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_5904",
                                         ["onboard_num"] = "312",
-                                        ["parking"] = 54,
-                                        ["parking_id"] = "56",
+                                        ["parking"] = 29,
+                                        ["parking_id"] = "06",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -9789,8 +9789,8 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7508,
-                                        ["x"] = -126311.92248535,
-                                        ["y"] = -87488.044921875,
+                                        ["x"] = -126318.03112793,
+                                        ["y"] = -90434.05480957,
                                     }, -- end of [2]
                                     [3] =
                                     {
@@ -9946,8 +9946,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_6742",
                                         ["onboard_num"] = "313",
-                                        ["parking"] = 59,
-                                        ["parking_id"] = "61",
+                                        ["parking"] = 30,
+                                        ["parking_id"] = "07",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -9964,8 +9964,8 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7741,
-                                        ["x"] = -126342.72473145,
-                                        ["y"] = -87497.182617188,
+                                        ["x"] = -126317.89868164,
+                                        ["y"] = -90393.296386719,
                                     }, -- end of [3]
                                     [4] =
                                     {
@@ -10121,8 +10121,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_6743",
                                         ["onboard_num"] = "314",
-                                        ["parking"] = 58,
-                                        ["parking_id"] = "60",
+                                        ["parking"] = 31,
+                                        ["parking_id"] = "08",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -10139,12 +10139,12 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7742,
-                                        ["x"] = -126342.60864258,
-                                        ["y"] = -87527.473510742,
+                                        ["x"] = -126317.72705078,
+                                        ["y"] = -90351.29675293,
                                     }, -- end of [4]
                                 }, -- end of ["units"]
-                                ["x"] = -126312.00500488,
-                                ["y"] = -87515.07409668,
+                                ["x"] = -126317.85949707,
+                                ["y"] = -90475.913452148,
                             }, -- end of [24]
                             [25] =
                             {
@@ -10217,8 +10217,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParking",
-                                            ["x"] = -126381.17199707,
-                                            ["y"] = -88950.023422241,
+                                            ["x"] = -126302.70910645,
+                                            ["y"] = -89660.520629883,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                 }, -- end of ["route"]
@@ -10384,8 +10384,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_5907",
                                         ["onboard_num"] = "361",
-                                        ["parking"] = 41,
-                                        ["parking_id"] = "43",
+                                        ["parking"] = 3,
+                                        ["parking_id"] = "24",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -10430,8 +10430,8 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7509,
-                                        ["x"] = -126381.17199707,
-                                        ["y"] = -88950.023422241,
+                                        ["x"] = -126302.70910645,
+                                        ["y"] = -89660.520629883,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -10588,8 +10588,8 @@ mission =
                                         ["livery_id"] = "VFA-37",
                                         ["name"] = "DictKey_UnitName_5908",
                                         ["onboard_num"] = "362",
-                                        ["parking"] = 43,
-                                        ["parking_id"] = "44",
+                                        ["parking"] = 2,
+                                        ["parking_id"] = "23",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -10606,12 +10606,12 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "FA-18C_hornet",
                                         ["unitId"] = 7510,
-                                        ["x"] = -126369.56311035,
-                                        ["y"] = -88862.332321167,
+                                        ["x"] = -126253.08361816,
+                                        ["y"] = -89660.172302246,
                                     }, -- end of [2]
                                 }, -- end of ["units"]
-                                ["x"] = -126381.17199707,
-                                ["y"] = -88950.023422241,
+                                ["x"] = -126302.70910645,
+                                ["y"] = -89660.520629883,
                             }, -- end of [25]
                             [26] =
                             {
@@ -15033,8 +15033,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "TakeOffParking",
-                                            ["x"] = -126317.72705078,
-                                            ["y"] = -90351.29675293,
+                                            ["x"] = -126342.60693359,
+                                            ["y"] = -87557.223388672,
                                         }, -- end of [1]
                                         [2] =
                                         {
@@ -15665,12 +15665,12 @@ mission =
                                             [3] = 1,
                                             ["name"] = "Pontiac91",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 1.3798310297932,
+                                        ["heading"] = -1.2028544744833,
                                         ["livery_id"] = "132nd 388th Skin v0.1",
                                         ["name"] = "DictKey_UnitName_9621",
                                         ["onboard_num"] = "421",
-                                        ["parking"] = "31",
-                                        ["parking_id"] = "08",
+                                        ["parking"] = 57,
+                                        ["parking_id"] = "59",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 5,
@@ -15682,13 +15682,13 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -1.3798310297932,
+                                        ["psi"] = 1.2028544744833,
                                         ["skill"] = "Client",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-16C_50",
                                         ["unitId"] = 708435,
-                                        ["x"] = -126317.72705078,
-                                        ["y"] = -90351.29675293,
+                                        ["x"] = -126342.60693359,
+                                        ["y"] = -87557.223388672,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -15809,12 +15809,12 @@ mission =
                                             [3] = 2,
                                             ["name"] = "Pontiac92",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 1.3798310297932,
+                                        ["heading"] = -1.2028544744833,
                                         ["livery_id"] = "132nd 388th Skin v0.1",
                                         ["name"] = "DictKey_UnitName_9622",
                                         ["onboard_num"] = "422",
-                                        ["parking"] = "32",
-                                        ["parking_id"] = "09",
+                                        ["parking"] = 53,
+                                        ["parking_id"] = "55",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 5,
@@ -15826,13 +15826,13 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -1.3798310297932,
+                                        ["psi"] = 1.2028544744833,
                                         ["skill"] = "Client",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-16C_50",
                                         ["unitId"] = 708436,
-                                        ["x"] = -126317.21862793,
-                                        ["y"] = -90309.63293457,
+                                        ["x"] = -126312.00500488,
+                                        ["y"] = -87515.07409668,
                                     }, -- end of [2]
                                     [3] =
                                     {
@@ -15953,12 +15953,12 @@ mission =
                                             [3] = 3,
                                             ["name"] = "Pontiac93",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 1.3798310297932,
+                                        ["heading"] = -1.2028544744833,
                                         ["livery_id"] = "132nd 388th Skin v0.1",
                                         ["name"] = "DictKey_UnitName_9623",
                                         ["onboard_num"] = "423",
-                                        ["parking"] = "30",
-                                        ["parking_id"] = "07",
+                                        ["parking"] = 54,
+                                        ["parking_id"] = "56",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 5,
@@ -15970,13 +15970,13 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -1.3798310297932,
+                                        ["psi"] = 1.2028544744833,
                                         ["skill"] = "Client",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-16C_50",
                                         ["unitId"] = 708437,
-                                        ["x"] = -126317.89868164,
-                                        ["y"] = -90393.296386719,
+                                        ["x"] = -126311.92248535,
+                                        ["y"] = -87488.044921875,
                                     }, -- end of [3]
                                     [4] =
                                     {
@@ -16097,12 +16097,12 @@ mission =
                                             [3] = 4,
                                             ["name"] = "Pontiac94",
                                         }, -- end of ["callsign"]
-                                        ["heading"] = 1.3798310297932,
+                                        ["heading"] = -1.2028544744833,
                                         ["livery_id"] = "132nd 388th Skin v0.1",
                                         ["name"] = "DictKey_UnitName_9624",
                                         ["onboard_num"] = "424",
-                                        ["parking"] = "23",
-                                        ["parking_id"] = "18",
+                                        ["parking"] = 58,
+                                        ["parking_id"] = "60",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 5,
@@ -16114,17 +16114,17 @@ mission =
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -1.3798310297932,
+                                        ["psi"] = 1.2028544744833,
                                         ["skill"] = "Client",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-16C_50",
                                         ["unitId"] = 708438,
-                                        ["x"] = -126378.9765625,
-                                        ["y"] = -90309.515625,
+                                        ["x"] = -126342.60864258,
+                                        ["y"] = -87527.473510742,
                                     }, -- end of [4]
                                 }, -- end of ["units"]
-                                ["x"] = -126317.72705078,
-                                ["y"] = -90351.29675293,
+                                ["x"] = -126342.60693359,
+                                ["y"] = -87557.223388672,
                             }, -- end of [35]
                             [36] =
                             {
@@ -17019,8 +17019,8 @@ mission =
                                         ["livery_id"] = "VF-142 Ghostriders",
                                         ["name"] = "DictKey_UnitName_9730",
                                         ["onboard_num"] = "833",
-                                        ["parking"] = "5",
-                                        ["parking_id"] = "29",
+                                        ["parking"] = 47,
+                                        ["parking_id"] = "49",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -17037,8 +17037,8 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-14B",
                                         ["unitId"] = 1854808,
-                                        ["x"] = -126253.17944336,
-                                        ["y"] = -89561.108947754,
+                                        ["x"] = -126312.14245605,
+                                        ["y"] = -88090.050231934,
                                     }, -- end of [3]
                                     [4] =
                                     {
@@ -17135,8 +17135,8 @@ mission =
                                         ["livery_id"] = "VF-142 Ghostriders",
                                         ["name"] = "DictKey_UnitName_9731",
                                         ["onboard_num"] = "834",
-                                        ["parking"] = "7",
-                                        ["parking_id"] = "31",
+                                        ["parking"] = 48,
+                                        ["parking_id"] = "50",
                                         ["payload"] =
                                         {
                                             ["ammo_type"] = 1,
@@ -17153,8 +17153,8 @@ mission =
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "F-14B",
                                         ["unitId"] = 1854809,
-                                        ["x"] = -126353.41662598,
-                                        ["y"] = -89559.875244141,
+                                        ["x"] = -126312.02441406,
+                                        ["y"] = -88000.29095459,
                                     }, -- end of [4]
                                 }, -- end of ["units"]
                                 ["x"] = -126302.8203125,
@@ -19139,375 +19139,6 @@ mission =
                             [12] =
                             {
                                 ["dead"] = false,
-                                ["groupId"] = 3782,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5755",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126049.69517325,
-                                            ["y"] = -90007.85195195,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5755",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7435,
-                                        ["x"] = -126049.69517325,
-                                        ["y"] = -90007.85195195,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126049.69517325,
-                                ["y"] = -90007.85195195,
-                            }, -- end of [12]
-                            [13] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3783,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5758",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126057.43927017,
-                                            ["y"] = -90959.085190319,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5758",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7436,
-                                        ["x"] = -126057.43927017,
-                                        ["y"] = -90959.085190319,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126057.43927017,
-                                ["y"] = -90959.085190319,
-                            }, -- end of [13]
-                            [14] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3784,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5761",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126065.18336709,
-                                            ["y"] = -87191.582038625,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5761",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7437,
-                                        ["x"] = -126065.18336709,
-                                        ["y"] = -87191.582038625,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126065.18336709,
-                                ["y"] = -87191.582038625,
-                            }, -- end of [14]
-                            [15] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3785,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5764",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126052.27653889,
-                                            ["y"] = -87909.201686566,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5764",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7438,
-                                        ["x"] = -126052.27653889,
-                                        ["y"] = -87909.201686566,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126052.27653889,
-                                ["y"] = -87909.201686566,
-                            }, -- end of [15]
-                            [16] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3786,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5767",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126169.72867551,
-                                            ["y"] = -88038.26996857,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5767",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7439,
-                                        ["x"] = -126169.72867551,
-                                        ["y"] = -88038.26996857,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126169.72867551,
-                                ["y"] = -88038.26996857,
-                            }, -- end of [16]
-                            [17] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3787,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5770",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126263.94852137,
-                                            ["y"] = -87542.647765675,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5770",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7440,
-                                        ["x"] = -126263.94852137,
-                                        ["y"] = -87542.647765675,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126263.94852137,
-                                ["y"] = -87542.647765675,
-                            }, -- end of [17]
-                            [18] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3788,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5773",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126165.85662705,
-                                            ["y"] = -89592.252083897,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5773",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7441,
-                                        ["x"] = -126165.85662705,
-                                        ["y"] = -89592.252083897,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126165.85662705,
-                                ["y"] = -89592.252083897,
-                            }, -- end of [18]
-                            [19] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3789,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5776",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126258.78579009,
-                                            ["y"] = -89114.699440482,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5776",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7442,
-                                        ["x"] = -126258.78579009,
-                                        ["y"] = -89114.699440482,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126258.78579009,
-                                ["y"] = -89114.699440482,
-                            }, -- end of [19]
-                            [20] =
-                            {
-                                ["dead"] = false,
-                                ["groupId"] = 3790,
-                                ["heading"] = 1.0471975511966,
-                                ["linkOffset"] = false,
-                                ["name"] = "DictKey_GroupName_5779",
-                                ["route"] =
-                                {
-                                    ["points"] =
-                                    {
-                                        [1] =
-                                        {
-                                            ["action"] = "",
-                                            ["alt"] = 0,
-                                            ["formation_template"] = "",
-                                            ["name"] = "",
-                                            ["speed"] = 0,
-                                            ["type"] = "",
-                                            ["x"] = -126260.07647291,
-                                            ["y"] = -90324.069242858,
-                                        }, -- end of [1]
-                                    }, -- end of ["points"]
-                                }, -- end of ["route"]
-                                ["units"] =
-                                {
-                                    [1] =
-                                    {
-                                        ["category"] = "Fortifications",
-                                        ["heading"] = 1.0471975511966,
-                                        ["name"] = "DictKey_GroupName_5779",
-                                        ["shape_name"] = "H-Windsock_RW",
-                                        ["type"] = "Windsock",
-                                        ["unitId"] = 7443,
-                                        ["x"] = -126260.07647291,
-                                        ["y"] = -90324.069242858,
-                                    }, -- end of [1]
-                                }, -- end of ["units"]
-                                ["x"] = -126260.07647291,
-                                ["y"] = -90324.069242858,
-                            }, -- end of [20]
-                            [21] =
-                            {
-                                ["dead"] = false,
                                 ["groupId"] = 3894,
                                 ["heading"] = 0,
                                 ["linkOffset"] = false,
@@ -19544,8 +19175,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = -126547.15965687,
                                 ["y"] = -88691.80083111,
-                            }, -- end of [21]
-                            [22] =
+                            }, -- end of [12]
+                            [13] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60629,
@@ -19585,8 +19216,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 117521.125087,
                                 ["y"] = 14838.182502488,
-                            }, -- end of [22]
-                            [23] =
+                            }, -- end of [13]
+                            [14] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60630,
@@ -19626,8 +19257,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 116971.99203804,
                                 ["y"] = 14550.072997287,
-                            }, -- end of [23]
-                            [24] =
+                            }, -- end of [14]
+                            [15] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60631,
@@ -19667,8 +19298,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 117053.48191023,
                                 ["y"] = 14901.827841267,
-                            }, -- end of [24]
-                            [25] =
+                            }, -- end of [15]
+                            [16] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60632,
@@ -19708,8 +19339,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 117355.99107606,
                                 ["y"] = 15058.945004911,
-                            }, -- end of [25]
-                            [26] =
+                            }, -- end of [16]
+                            [17] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60633,
@@ -19749,8 +19380,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 117430.44585136,
                                 ["y"] = 14819.751711005,
-                            }, -- end of [26]
-                            [27] =
+                            }, -- end of [17]
+                            [18] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60634,
@@ -19790,8 +19421,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 114403.47629128,
                                 ["y"] = 13286.29124824,
-                            }, -- end of [27]
-                            [28] =
+                            }, -- end of [18]
+                            [19] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60635,
@@ -19831,8 +19462,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 114269.40351375,
                                 ["y"] = 13414.69897883,
-                            }, -- end of [28]
-                            [29] =
+                            }, -- end of [19]
+                            [20] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60636,
@@ -19873,8 +19504,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 156039.14563146,
                                 ["y"] = 1606.5166350185,
-                            }, -- end of [29]
-                            [30] =
+                            }, -- end of [20]
+                            [21] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 60637,
@@ -19914,8 +19545,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 156040.06470604,
                                 ["y"] = 1558.0682746769,
-                            }, -- end of [30]
-                            [31] =
+                            }, -- end of [21]
+                            [22] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248252,
@@ -19954,8 +19585,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 116727.58746242,
                                 ["y"] = 14303.491166326,
-                            }, -- end of [31]
-                            [32] =
+                            }, -- end of [22]
+                            [23] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248270,
@@ -19995,8 +19626,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 156225.43483832,
                                 ["y"] = 1686.6030878807,
-                            }, -- end of [32]
-                            [33] =
+                            }, -- end of [23]
+                            [24] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248272,
@@ -20037,8 +19668,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 157571.02456869,
                                 ["y"] = 1850.5560353157,
-                            }, -- end of [33]
-                            [34] =
+                            }, -- end of [24]
+                            [25] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248273,
@@ -20079,8 +19710,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 157650.32486201,
                                 ["y"] = 2046.3558385761,
-                            }, -- end of [34]
-                            [35] =
+                            }, -- end of [25]
+                            [26] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248274,
@@ -20120,8 +19751,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 156008.060581,
                                 ["y"] = 1493.6238636205,
-                            }, -- end of [35]
-                            [36] =
+                            }, -- end of [26]
+                            [27] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248275,
@@ -20162,8 +19793,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 155999.72745506,
                                 ["y"] = 1433.9447462958,
-                            }, -- end of [36]
-                            [37] =
+                            }, -- end of [27]
+                            [28] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248276,
@@ -20204,8 +19835,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 156009.07913272,
                                 ["y"] = 1480.63732915,
-                            }, -- end of [37]
-                            [38] =
+                            }, -- end of [28]
+                            [29] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 248277,
@@ -20246,8 +19877,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 155983.91644297,
                                 ["y"] = 1417.8175139651,
-                            }, -- end of [38]
-                            [39] =
+                            }, -- end of [29]
+                            [30] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 262887,
@@ -20290,8 +19921,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 140055.90179416,
                                 ["y"] = 74471.094755988,
-                            }, -- end of [39]
-                            [40] =
+                            }, -- end of [30]
+                            [31] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 262889,
@@ -20332,8 +19963,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 139995.91135864,
                                 ["y"] = 74523.106314751,
-                            }, -- end of [40]
-                            [41] =
+                            }, -- end of [31]
+                            [32] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 263209,
@@ -20373,8 +20004,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142480.69580514,
                                 ["y"] = 95137.360760296,
-                            }, -- end of [41]
-                            [42] =
+                            }, -- end of [32]
+                            [33] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 263210,
@@ -20414,8 +20045,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142410.87357716,
                                 ["y"] = 95124.642955236,
-                            }, -- end of [42]
-                            [43] =
+                            }, -- end of [33]
+                            [34] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 263211,
@@ -20455,8 +20086,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142402.61221939,
                                 ["y"] = 95064.48274693,
-                            }, -- end of [43]
-                            [44] =
+                            }, -- end of [34]
+                            [35] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 263212,
@@ -20496,8 +20127,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142204.80046883,
                                 ["y"] = 94445.019633321,
-                            }, -- end of [44]
-                            [45] =
+                            }, -- end of [35]
+                            [36] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 263213,
@@ -20537,8 +20168,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142284.24002847,
                                 ["y"] = 94431.729274654,
-                            }, -- end of [45]
-                            [46] =
+                            }, -- end of [36]
+                            [37] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 263229,
@@ -20581,8 +20212,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 155777.71919706,
                                 ["y"] = 1323.4290102314,
-                            }, -- end of [46]
-                            [47] =
+                            }, -- end of [37]
+                            [38] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 263230,
@@ -20623,8 +20254,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 157611.30715509,
                                 ["y"] = 1931.7903757693,
-                            }, -- end of [47]
-                            [48] =
+                            }, -- end of [38]
+                            [39] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 263231,
@@ -20665,8 +20296,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 157394.26920406,
                                 ["y"] = 1712.2814044225,
-                            }, -- end of [48]
-                            [49] =
+                            }, -- end of [39]
+                            [40] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 263232,
@@ -20707,8 +20338,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 157404.56512204,
                                 ["y"] = 1745.6401786797,
-                            }, -- end of [49]
-                            [50] =
+                            }, -- end of [40]
+                            [41] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 263233,
@@ -20749,8 +20380,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 157418.15573378,
                                 ["y"] = 1786.412013883,
-                            }, -- end of [50]
-                            [51] =
+                            }, -- end of [41]
+                            [42] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 263234,
@@ -20790,8 +20421,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 155977.46800461,
                                 ["y"] = 1630.7648856274,
-                            }, -- end of [51]
-                            [52] =
+                            }, -- end of [42]
+                            [43] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 685816,
@@ -20831,8 +20462,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142112.90206148,
                                 ["y"] = 86321.604338956,
-                            }, -- end of [52]
-                            [53] =
+                            }, -- end of [43]
+                            [44] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 685817,
@@ -20872,8 +20503,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142090.73475149,
                                 ["y"] = 86355.383097034,
-                            }, -- end of [53]
-                            [54] =
+                            }, -- end of [44]
+                            [45] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 685818,
@@ -20913,8 +20544,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 142127.68026814,
                                 ["y"] = 86375.439234643,
-                            }, -- end of [54]
-                            [55] =
+                            }, -- end of [45]
+                            [46] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 685819,
@@ -20954,8 +20585,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 141841.61641066,
                                 ["y"] = 85351.520630401,
-                            }, -- end of [55]
-                            [56] =
+                            }, -- end of [46]
+                            [47] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 685820,
@@ -20995,8 +20626,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 141790.94827355,
                                 ["y"] = 85324.075389463,
-                            }, -- end of [56]
-                            [57] =
+                            }, -- end of [47]
+                            [48] =
                             {
                                 ["dead"] = true,
                                 ["groupId"] = 685821,
@@ -21036,8 +20667,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 141827.89379019,
                                 ["y"] = 85305.074838044,
-                            }, -- end of [57]
-                            [58] =
+                            }, -- end of [48]
+                            [49] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685937,
@@ -21077,8 +20708,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 89779.113487267,
                                 ["y"] = 93002.750946161,
-                            }, -- end of [58]
-                            [59] =
+                            }, -- end of [49]
+                            [50] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685940,
@@ -21118,8 +20749,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 87270.595131512,
                                 ["y"] = 87413.450841495,
-                            }, -- end of [59]
-                            [60] =
+                            }, -- end of [50]
+                            [51] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685945,
@@ -21159,8 +20790,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 90941.480943597,
                                 ["y"] = 95942.20967545,
-                            }, -- end of [60]
-                            [61] =
+                            }, -- end of [51]
+                            [52] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685947,
@@ -21200,8 +20831,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 93538.994885502,
                                 ["y"] = 99017.060768495,
-                            }, -- end of [61]
-                            [62] =
+                            }, -- end of [52]
+                            [53] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 685949,
@@ -21241,8 +20872,8 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 96984.348524443,
                                 ["y"] = 100790.42818291,
-                            }, -- end of [62]
-                            [63] =
+                            }, -- end of [53]
+                            [54] =
                             {
                                 ["dead"] = false,
                                 ["groupId"] = 686142,
@@ -21285,7 +20916,7 @@ mission =
                                 }, -- end of ["units"]
                                 ["x"] = 81394.830922002,
                                 ["y"] = -158982.99363177,
-                            }, -- end of [63]
+                            }, -- end of [54]
                         }, -- end of ["group"]
                     }, -- end of ["static"]
                     ["vehicle"] =
@@ -22982,7 +22613,7 @@ mission =
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 9,
+                                            ["alt"] = 196,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_11352",
@@ -22999,8 +22630,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 82093.910804011,
-                                            ["y"] = -159137.38951485,
+                                            ["x"] = 81646.438734132,
+                                            ["y"] = -158969.38411112,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -23041,8 +22672,8 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Soldier M4",
                                         ["unitId"] = 1855350,
-                                        ["x"] = 82093.910804011,
-                                        ["y"] = -159137.38951485,
+                                        ["x"] = 81646.438734132,
+                                        ["y"] = -158969.38411112,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -23056,8 +22687,8 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Soldier M4",
                                         ["unitId"] = 1855351,
-                                        ["x"] = 82091.391015851,
-                                        ["y"] = -159129.83015039,
+                                        ["x"] = 81643.918945972,
+                                        ["y"] = -158961.82474666,
                                     }, -- end of [2]
                                     [3] =
                                     {
@@ -23071,8 +22702,8 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Soldier M249",
                                         ["unitId"] = 1855352,
-                                        ["x"] = 82093.041911541,
-                                        ["y"] = -159135.73861917,
+                                        ["x"] = 81645.569841662,
+                                        ["y"] = -158967.73321544,
                                     }, -- end of [3]
                                     [4] =
                                     {
@@ -23086,8 +22717,8 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Soldier M4",
                                         ["unitId"] = 1855353,
-                                        ["x"] = 82090.956569621,
-                                        ["y"] = -159126.70213751,
+                                        ["x"] = 81643.484499742,
+                                        ["y"] = -158958.69673378,
                                     }, -- end of [4]
                                     [5] =
                                     {
@@ -23101,8 +22732,8 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Soldier M249",
                                         ["unitId"] = 1855354,
-                                        ["x"] = 82091.130348111,
-                                        ["y"] = -159128.1792547,
+                                        ["x"] = 81643.658278232,
+                                        ["y"] = -158960.17385097,
                                     }, -- end of [5]
                                     [6] =
                                     {
@@ -23116,13 +22747,13 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Soldier M4",
                                         ["unitId"] = 1855355,
-                                        ["x"] = 82092.259908321,
-                                        ["y"] = -159134.26150197,
+                                        ["x"] = 81644.787838442,
+                                        ["y"] = -158966.25609824,
                                     }, -- end of [6]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = 82093.910804011,
-                                ["y"] = -159137.38951485,
+                                ["x"] = 81646.438734132,
+                                ["y"] = -158969.38411112,
                             }, -- end of [15]
                             [16] =
                             {
@@ -23138,7 +22769,7 @@ mission =
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 211,
+                                            ["alt"] = 200,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_11355",
@@ -23174,8 +22805,8 @@ mission =
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 81956.163292818,
-                                            ["y"] = -158801.93381113,
+                                            ["x"] = 81693.900239324,
+                                            ["y"] = -158920.22755217,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -23193,7 +22824,7 @@ mission =
                                 {
                                     [1] =
                                     {
-                                        ["heading"] = 0.89011791851711,
+                                        ["heading"] = 2.5132741228718,
                                         ["name"] = "DictKey_UnitName_11354",
                                         ["playerCanDrive"] = false,
                                         ["skill"] = "Average",
@@ -23203,13 +22834,13 @@ mission =
                                         }, -- end of ["transportable"]
                                         ["type"] = "Hummer",
                                         ["unitId"] = 1855356,
-                                        ["x"] = 81956.163292818,
-                                        ["y"] = -158801.93381113,
+                                        ["x"] = 81693.900239324,
+                                        ["y"] = -158920.22755217,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = 81956.163292818,
-                                ["y"] = -158801.93381113,
+                                ["x"] = 81693.900239324,
+                                ["y"] = -158920.22755217,
                             }, -- end of [16]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
@@ -35212,7 +34843,7 @@ E057 28 169",
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 676.79237944754,
+                                            ["ETA"] = 591.12415892173,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 6400.8,
@@ -35246,12 +34877,12 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 261354.05422988,
-                                            ["y"] = -299623.99662434,
+                                            ["x"] = 267408.91997704,
+                                            ["y"] = -341927.87369161,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 1179.0396329041,
+                                            ["ETA"] = 1096.0263988735,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 6400.8,
@@ -35271,8 +34902,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 313684.04438952,
-                                            ["y"] = -238370.83656715,
+                                            ["x"] = 332311.49098518,
+                                            ["y"] = -266777.52831376,
                                         }, -- end of [3]
                                         [4] =
                                         {
@@ -35316,7 +34947,7 @@ E057 28 169",
                                         ["alt"] = 1487,
                                         ["alt_type"] = "BARO",
                                         ["callsign"] = 106,
-                                        ["heading"] = 2.7335225068973,
+                                        ["heading"] = 3.0639354454968,
                                         ["livery_id"] = "RF Air Force new",
                                         ["name"] = "DictKey_UnitName_920",
                                         ["onboard_num"] = "906",
@@ -35332,7 +34963,7 @@ E057 28 169",
                                             {
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = -2.7335225068973,
+                                        ["psi"] = -3.0639354454968,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "IL-78M",
@@ -35543,7 +35174,7 @@ E057 28 169",
                                         }, -- end of [1]
                                         [2] =
                                         {
-                                            ["ETA"] = 153.56039628783,
+                                            ["ETA"] = 182.892964716,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7620,
@@ -35668,12 +35299,12 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 452279.5110377,
-                                            ["y"] = 24705.817861375,
+                                            ["x"] = 431934.0855709,
+                                            ["y"] = 20789.743753086,
                                         }, -- end of [2]
                                         [3] =
                                         {
-                                            ["ETA"] = 747.62395698494,
+                                            ["ETA"] = 529.51923985819,
                                             ["ETA_locked"] = false,
                                             ["action"] = "Turning Point",
                                             ["alt"] = 7924.8,
@@ -35693,8 +35324,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 327985.39957304,
-                                            ["y"] = 16185.656994846,
+                                            ["x"] = 339321.09594238,
+                                            ["y"] = 10624.903428005,
                                         }, -- end of [3]
                                         [4] =
                                         {
@@ -35756,7 +35387,7 @@ E057 28 169",
                                         ["alt_type"] = "BARO",
                                         ["callsign"] = 108,
                                         ["hardpoint_racks"] = true,
-                                        ["heading"] = -1.6329659066278,
+                                        ["heading"] = -2.002097164285,
                                         ["livery_id"] = "af standard",
                                         ["name"] = "DictKey_UnitName_11303",
                                         ["onboard_num"] = "010",
@@ -35788,7 +35419,7 @@ E057 28 169",
                                                 }, -- end of [4]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.6329659066278,
+                                        ["psi"] = 2.002097164285,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-25PD",
@@ -35801,7 +35432,7 @@ E057 28 169",
                                         ["alt"] = 1751,
                                         ["alt_type"] = "BARO",
                                         ["callsign"] = 107,
-                                        ["heading"] = -1.6329659066278,
+                                        ["heading"] = -2.002097164285,
                                         ["livery_id"] = "af standard",
                                         ["name"] = "DictKey_UnitName_11305",
                                         ["onboard_num"] = "913",
@@ -35833,7 +35464,7 @@ E057 28 169",
                                                 }, -- end of [4]
                                             }, -- end of ["pylons"]
                                         }, -- end of ["payload"]
-                                        ["psi"] = 1.6329659066278,
+                                        ["psi"] = 2.002097164285,
                                         ["skill"] = "High",
                                         ["speed"] = 138.88888888889,
                                         ["type"] = "MiG-25PD",
@@ -52466,6 +52097,7 @@ E057 28 169",
                                 ["groupId"] = 686145,
                                 ["hidden"] = true,
                                 ["hiddenOnPlanner"] = true,
+                                ["lateActivation"] = false,
                                 ["name"] = "DictKey_GroupName_11309",
                                 ["route"] =
                                 {
@@ -52497,6 +52129,7 @@ E057 28 169",
                                             ["y"] = -182245.15502467,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = false,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -52796,6 +52429,7 @@ E057 28 169",
                             {
                                 ["groupId"] = 686149,
                                 ["hidden"] = false,
+                                ["lateActivation"] = false,
                                 ["name"] = "DictKey_GroupName_11325",
                                 ["route"] =
                                 {
@@ -52827,6 +52461,7 @@ E057 28 169",
                                             ["y"] = -183586.07117596,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = false,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -52889,7 +52524,7 @@ E057 28 169",
                                             ["ETA"] = 0,
                                             ["ETA_locked"] = true,
                                             ["action"] = "Off Road",
-                                            ["alt"] = 808,
+                                            ["alt"] = 811,
                                             ["alt_type"] = "BARO",
                                             ["formation_template"] = "",
                                             ["name"] = "DictKey_WptName_11330",
@@ -52906,8 +52541,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 168666.16138653,
-                                            ["y"] = -185046.60674743,
+                                            ["x"] = 165790.40043547,
+                                            ["y"] = -187023.11624311,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -52935,18 +52570,19 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "BTR-80",
                                         ["unitId"] = 1855343,
-                                        ["x"] = 168666.16138653,
-                                        ["y"] = -185046.60674743,
+                                        ["x"] = 165790.40043547,
+                                        ["y"] = -187023.11624311,
                                     }, -- end of [1]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = 168666.16138653,
-                                ["y"] = -185046.60674743,
+                                ["x"] = 165790.40043547,
+                                ["y"] = -187023.11624311,
                             }, -- end of [62]
                             [63] =
                             {
                                 ["groupId"] = 686151,
                                 ["hidden"] = false,
+                                ["lateActivation"] = false,
                                 ["name"] = "DictKey_GroupName_11331",
                                 ["route"] =
                                 {
@@ -52978,6 +52614,7 @@ E057 28 169",
                                             ["y"] = -182060.53488485,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = false,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -53030,6 +52667,7 @@ E057 28 169",
                             {
                                 ["groupId"] = 686152,
                                 ["hidden"] = false,
+                                ["lateActivation"] = false,
                                 ["name"] = "DictKey_GroupName_11334",
                                 ["route"] =
                                 {
@@ -53061,6 +52699,7 @@ E057 28 169",
                                             ["y"] = -181488.60717309,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = false,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -53113,6 +52752,7 @@ E057 28 169",
                             {
                                 ["groupId"] = 686153,
                                 ["hidden"] = false,
+                                ["lateActivation"] = false,
                                 ["name"] = "DictKey_GroupName_11338",
                                 ["route"] =
                                 {
@@ -53144,6 +52784,7 @@ E057 28 169",
                                             ["y"] = -182558.56098203,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
+                                    ["routeRelativeTOT"] = false,
                                     ["spans"] =
                                     {
                                     }, -- end of ["spans"]
@@ -53434,8 +53075,8 @@ E057 28 169",
                                                 }, -- end of ["params"]
                                             }, -- end of ["task"]
                                             ["type"] = "Turning Point",
-                                            ["x"] = 168423.67537666,
-                                            ["y"] = -182437.17413232,
+                                            ["x"] = 168398.43339156,
+                                            ["y"] = -182420.16182732,
                                         }, -- end of [1]
                                     }, -- end of ["points"]
                                     ["spans"] =
@@ -53463,8 +53104,8 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Infantry AK",
                                         ["unitId"] = 1855366,
-                                        ["x"] = 168423.67537666,
-                                        ["y"] = -182437.17413232,
+                                        ["x"] = 168398.43339156,
+                                        ["y"] = -182420.16182732,
                                     }, -- end of [1]
                                     [2] =
                                     {
@@ -53478,13 +53119,13 @@ E057 28 169",
                                         }, -- end of ["transportable"]
                                         ["type"] = "Infantry AK",
                                         ["unitId"] = 1855367,
-                                        ["x"] = 168413.79740408,
-                                        ["y"] = -182442.07653353,
+                                        ["x"] = 168398.63313567,
+                                        ["y"] = -182425.3551744,
                                     }, -- end of [2]
                                 }, -- end of ["units"]
                                 ["visible"] = false,
-                                ["x"] = 168423.67537666,
-                                ["y"] = -182437.17413232,
+                                ["x"] = 168398.43339156,
+                                ["y"] = -182420.16182732,
                             }, -- end of [68]
                             [69] =
                             {
@@ -53652,6 +53293,172 @@ E057 28 169",
                                 ["x"] = 168421.33393131,
                                 ["y"] = -182510.49063995,
                             }, -- end of [70]
+                            [71] =
+                            {
+                                ["groupId"] = 686163,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_11398",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 803,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_11401",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 168423.68819542,
+                                            ["y"] = -182436.599699,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 2.1293016874331,
+                                        ["name"] = "DictKey_UnitName_11399",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 1855376,
+                                        ["x"] = 168423.68819542,
+                                        ["y"] = -182436.599699,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 3.3335788713092,
+                                        ["name"] = "DictKey_UnitName_11400",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 1855377,
+                                        ["x"] = 168413.81022284,
+                                        ["y"] = -182441.50210021,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 168423.68819542,
+                                ["y"] = -182436.599699,
+                            }, -- end of [71]
+                            [72] =
+                            {
+                                ["groupId"] = 686164,
+                                ["hidden"] = false,
+                                ["name"] = "DictKey_GroupName_11402",
+                                ["route"] =
+                                {
+                                    ["points"] =
+                                    {
+                                        [1] =
+                                        {
+                                            ["ETA"] = 0,
+                                            ["ETA_locked"] = true,
+                                            ["action"] = "Off Road",
+                                            ["alt"] = 803,
+                                            ["alt_type"] = "BARO",
+                                            ["formation_template"] = "",
+                                            ["name"] = "DictKey_WptName_11405",
+                                            ["speed"] = 5.5555555555556,
+                                            ["speed_locked"] = true,
+                                            ["task"] =
+                                            {
+                                                ["id"] = "ComboTask",
+                                                ["params"] =
+                                                {
+                                                    ["tasks"] =
+                                                    {
+                                                    }, -- end of ["tasks"]
+                                                }, -- end of ["params"]
+                                            }, -- end of ["task"]
+                                            ["type"] = "Turning Point",
+                                            ["x"] = 168441.93808976,
+                                            ["y"] = -182263.52802068,
+                                        }, -- end of [1]
+                                    }, -- end of ["points"]
+                                    ["spans"] =
+                                    {
+                                    }, -- end of ["spans"]
+                                }, -- end of ["route"]
+                                ["start_time"] = 0,
+                                ["task"] = "Ground Nothing",
+                                ["taskSelected"] = true,
+                                ["tasks"] =
+                                {
+                                }, -- end of ["tasks"]
+                                ["uncontrollable"] = false,
+                                ["units"] =
+                                {
+                                    [1] =
+                                    {
+                                        ["heading"] = 0.24434609527921,
+                                        ["name"] = "DictKey_UnitName_11403",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 1855378,
+                                        ["x"] = 168441.93808976,
+                                        ["y"] = -182263.52802068,
+                                    }, -- end of [1]
+                                    [2] =
+                                    {
+                                        ["heading"] = 5.9166661642608,
+                                        ["name"] = "DictKey_UnitName_11404",
+                                        ["playerCanDrive"] = false,
+                                        ["skill"] = "Random",
+                                        ["transportable"] =
+                                        {
+                                            ["randomTransportable"] = false,
+                                        }, -- end of ["transportable"]
+                                        ["type"] = "Infantry AK",
+                                        ["unitId"] = 1855379,
+                                        ["x"] = 168441.71215617,
+                                        ["y"] = -182268.83746005,
+                                    }, -- end of [2]
+                                }, -- end of ["units"]
+                                ["visible"] = false,
+                                ["x"] = 168441.93808976,
+                                ["y"] = -182263.52802068,
+                            }, -- end of [72]
                         }, -- end of ["group"]
                     }, -- end of ["vehicle"]
                 }, -- end of [4]
@@ -53753,7 +53560,7 @@ E057 28 169",
             [5] = 17,
         }, -- end of ["red"]
     }, -- end of ["coalitions"]
-    ["currentKey"] = 2687536,
+    ["currentKey"] = 2707226,
     ["date"] =
     {
         ["Day"] = 22,
@@ -60687,11 +60494,11 @@ E057 28 169",
     }, -- end of ["groundControl"]
     ["map"] =
     {
-        ["centerX"] = 118409.94980202,
-        ["centerY"] = -136970.25405305,
-        ["zoom"] = 884509.95017443,
+        ["centerX"] = 137285.98762427,
+        ["centerY"] = -207283.33174653,
+        ["zoom"] = 649891.83509474,
     }, -- end of ["map"]
-    ["maxDictId"] = 11387,
+    ["maxDictId"] = 11405,
     ["pictureFileNameB"] =
     {
     }, -- end of ["pictureFileNameB"]
@@ -61667,25 +61474,6 @@ E057 28 169",
             {
                 ["color"] =
                 {
-                    [1] = 1,
-                    [2] = 1,
-                    [3] = 1,
-                    [4] = 0.15,
-                }, -- end of ["color"]
-                ["hidden"] = false,
-                ["name"] = "TRAP_SA15",
-                ["properties"] =
-                {
-                }, -- end of ["properties"]
-                ["radius"] = 60960,
-                ["x"] = 168968.89589122,
-                ["y"] = -164946.11301569,
-                ["zoneId"] = 6844,
-            }, -- end of [41]
-            [42] =
-            {
-                ["color"] =
-                {
                     [1] = 0,
                     [2] = 0,
                     [3] = 1,
@@ -61700,8 +61488,8 @@ E057 28 169",
                 ["x"] = 144804.51138227,
                 ["y"] = 123140.11718055,
                 ["zoneId"] = 6948,
-            }, -- end of [42]
-            [43] =
+            }, -- end of [41]
+            [42] =
             {
                 ["color"] =
                 {
@@ -61719,27 +61507,8 @@ E057 28 169",
                 ["x"] = 197999.7174732,
                 ["y"] = 131255.36704468,
                 ["zoneId"] = 7052,
-            }, -- end of [43]
-            [44] =
-            {
-                ["color"] =
-                {
-                    [1] = 1,
-                    [2] = 1,
-                    [3] = 1,
-                    [4] = 0.15,
-                }, -- end of ["color"]
-                ["hidden"] = false,
-                ["name"] = "BBB_INTERCEPT_TAKEOFF",
-                ["properties"] =
-                {
-                }, -- end of ["properties"]
-                ["radius"] = 27432,
-                ["x"] = 344715.36707508,
-                ["y"] = -358089.81525444,
-                ["zoneId"] = 7260,
-            }, -- end of [44]
-            [45] =
+            }, -- end of [42]
+            [43] =
             {
                 ["color"] =
                 {
@@ -61757,8 +61526,8 @@ E057 28 169",
                 ["x"] = 415630.92834237,
                 ["y"] = 34019.231102158,
                 ["zoneId"] = 7364,
-            }, -- end of [45]
-            [46] =
+            }, -- end of [43]
+            [44] =
             {
                 ["color"] =
                 {
@@ -61776,8 +61545,8 @@ E057 28 169",
                 ["x"] = 455774.4416503,
                 ["y"] = -23176.394053388,
                 ["zoneId"] = 7365,
-            }, -- end of [46]
-            [47] =
+            }, -- end of [44]
+            [45] =
             {
                 ["color"] =
                 {
@@ -61795,8 +61564,8 @@ E057 28 169",
                 ["x"] = 434429.57355685,
                 ["y"] = 85263.224991709,
                 ["zoneId"] = 7469,
-            }, -- end of [47]
-            [48] =
+            }, -- end of [45]
+            [46] =
             {
                 ["color"] =
                 {
@@ -61814,8 +61583,8 @@ E057 28 169",
                 ["x"] = 222530.34608957,
                 ["y"] = -30902.581664386,
                 ["zoneId"] = 7677,
-            }, -- end of [48]
-            [49] =
+            }, -- end of [46]
+            [47] =
             {
                 ["color"] =
                 {
@@ -61833,8 +61602,8 @@ E057 28 169",
                 ["x"] = 100612.84608979,
                 ["y"] = -194272.11448676,
                 ["zoneId"] = 7781,
-            }, -- end of [49]
-            [50] =
+            }, -- end of [47]
+            [48] =
             {
                 ["color"] =
                 {
@@ -61852,8 +61621,8 @@ E057 28 169",
                 ["x"] = 344504.60462776,
                 ["y"] = 28412.877193931,
                 ["zoneId"] = 7885,
-            }, -- end of [50]
-            [51] =
+            }, -- end of [48]
+            [49] =
             {
                 ["color"] =
                 {
@@ -61871,7 +61640,7 @@ E057 28 169",
                 ["x"] = 81360.899357021,
                 ["y"] = -159003.62531467,
                 ["zoneId"] = 7989,
-            }, -- end of [51]
+            }, -- end of [49]
         }, -- end of ["zones"]
     }, -- end of ["triggers"]
     ["trigrules"] =
